@@ -54,3 +54,11 @@ img {
   text-align: center;
   margin: 0;
 }
+
+.pos {
+	color: #7afa8f;
+}
+
+.neg {
+	color: #ff6c6c;
+}
