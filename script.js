@@ -22,7 +22,7 @@ for (let badge of badges) {
 	for (let k in pos) {
 		let v = pos[k]
 		if (percent_types.includes(k)) {
-			t += `<p class="pos"><strong>${k}:</strong> ${v/10}%</p>`
+			t += `<p class="pos"><strong>${k}:</strong> ${v/1}%</p>`
 		} else {
 			t += `<p class="pos"><strong>${k}:</strong> ${v}</p>`
 		}
@@ -30,7 +30,7 @@ for (let badge of badges) {
 	for (let k in neg) {
 		let v = neg[k]
 		if (percent_types.includes(k)) {
-			t += `<p class="neg"><strong>${k}:</strong> ${v/10}%</p>`
+			t += `<p class="neg"><strong>${k}:</strong> ${v}%</p>`
 		} else {
 			t += `<p class="neg"><strong>${k}:</strong> ${v}</p>`
 		}

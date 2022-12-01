@@ -3,7 +3,10 @@ body {
   background-color: #222;
   color: #ddd;
 }
-
+a {
+    text-decoration: none;
+    color: inherit;
+}
 #app {
   display: flex;
   flex-wrap: wrap;
