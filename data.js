@@ -3,7 +3,7 @@ const badges=[
         "mon": "Bulbasaur",
         "ico": "t_SupportMedal_Icon_0001_1_6e96da766cd20e5f.png",
         "type": [
-            "t_Badge_fetter_icon_green.png"
+            "t_Badge_fetter_icon_green.png",
         ],
         "stat": {
             "HP": "-30",
@@ -14,7 +14,7 @@ const badges=[
         "mon": "Bulbasaur",
         "ico": "t_SupportMedal_Icon_0001_2_8ee945ec8da862e1.png",
         "type": [
-            "t_Badge_fetter_icon_green.png"
+            "t_Badge_fetter_icon_green.png",
         ],
         "stat": {
             "HP": "-40",
@@ -25,7 +25,7 @@ const badges=[
         "mon": "Bulbasaur",
         "ico": "t_SupportMedal_Icon_0001_3_f9c624c31cd82607.png",
         "type": [
-            "t_Badge_fetter_icon_green.png"
+            "t_Badge_fetter_icon_green.png",
         ],
         "stat": {
             "HP": "-50",
@@ -36,7 +36,7 @@ const badges=[
         "mon": "Ivysaur",
         "ico": "t_SupportMedal_Icon_0002_1_3509b0ae27952bf8.png",
         "type": [
-            "t_Badge_fetter_icon_green.png"
+            "t_Badge_fetter_icon_green.png",
         ],
         "stat": {
             "Def": "-3",
@@ -47,7 +47,7 @@ const badges=[
         "mon": "Ivysaur",
         "ico": "t_SupportMedal_Icon_0002_2_67286ad88507218d.png",
         "type": [
-            "t_Badge_fetter_icon_green.png"
+            "t_Badge_fetter_icon_green.png",
         ],
         "stat": {
             "Def": "-4",
@@ -58,7 +58,7 @@ const badges=[
         "mon": "Ivysaur",
         "ico": "t_SupportMedal_Icon_0002_3_610a105c381f4d47.png",
         "type": [
-            "t_Badge_fetter_icon_green.png"
+            "t_Badge_fetter_icon_green.png",
         ],
         "stat": {
             "Def": "-5",
@@ -69,7 +69,7 @@ const badges=[
         "mon": "Venusaur",
         "ico": "t_SupportMedal_Icon_0003_1_fca02db752bc718d.png",
         "type": [
-            "t_Badge_fetter_icon_green.png"
+            "t_Badge_fetter_icon_green.png",
         ],
         "stat": {
             "Atk": "-1.2",
@@ -80,7 +80,7 @@ const badges=[
         "mon": "Venusaur",
         "ico": "t_SupportMedal_Icon_0003_2_c43e959304b4523b.png",
         "type": [
-            "t_Badge_fetter_icon_green.png"
+            "t_Badge_fetter_icon_green.png",
         ],
         "stat": {
             "Atk": "-1.6",
@@ -91,7 +91,7 @@ const badges=[
         "mon": "Venusaur",
         "ico": "t_SupportMedal_Icon_0003_3_e204b1562cc436a8.png",
         "type": [
-            "t_Badge_fetter_icon_green.png"
+            "t_Badge_fetter_icon_green.png",
         ],
         "stat": {
             "Atk": "-2",
@@ -102,7 +102,7 @@ const badges=[
         "mon": "Charmander",
         "ico": "t_SupportMedal_Icon_0004_1_025ab49cbfd2d23e.png",
         "type": [
-            "t_Badge_fetter_icon_red.png"
+            "t_Badge_fetter_icon_red.png",
         ],
         "stat": {
             "HP": "30",
@@ -113,7 +113,7 @@ const badges=[
         "mon": "Charmander",
         "ico": "t_SupportMedal_Icon_0004_2_dee4504c480e15c0.png",
         "type": [
-            "t_Badge_fetter_icon_red.png"
+            "t_Badge_fetter_icon_red.png",
         ],
         "stat": {
             "HP": "40",
@@ -124,7 +124,7 @@ const badges=[
         "mon": "Charmander",
         "ico": "t_SupportMedal_Icon_0004_3_3cc0987bad07f52f.png",
         "type": [
-            "t_Badge_fetter_icon_red.png"
+            "t_Badge_fetter_icon_red.png",
         ],
         "stat": {
             "HP": "50",
@@ -135,7 +135,7 @@ const badges=[
         "mon": "Charmeleon",
         "ico": "t_SupportMedal_Icon_0005_1_fe112c0ef8b0046d.png",
         "type": [
-            "t_Badge_fetter_icon_red.png"
+            "t_Badge_fetter_icon_red.png",
         ],
         "stat": {
             "HP": "30",
@@ -146,7 +146,7 @@ const badges=[
         "mon": "Charmeleon",
         "ico": "t_SupportMedal_Icon_0005_2_40cd4579bb54f80f.png",
         "type": [
-            "t_Badge_fetter_icon_red.png"
+            "t_Badge_fetter_icon_red.png",
         ],
         "stat": {
             "HP": "40",
@@ -157,7 +157,7 @@ const badges=[
         "mon": "Charmeleon",
         "ico": "t_SupportMedal_Icon_0005_3_d48c0a2dea185857.png",
         "type": [
-            "t_Badge_fetter_icon_red.png"
+            "t_Badge_fetter_icon_red.png",
         ],
         "stat": {
             "HP": "50",
@@ -168,7 +168,7 @@ const badges=[
         "mon": "Charizard",
         "ico": "t_SupportMedal_Icon_0006_1_59d94da0f073d290.png",
         "type": [
-            "t_Badge_fetter_icon_red.png"
+            "t_Badge_fetter_icon_red.png",
         ],
         "stat": {
             "HP": "30",
@@ -179,7 +179,7 @@ const badges=[
         "mon": "Charizard",
         "ico": "t_SupportMedal_Icon_0006_2_c85c0137bdeb5d04.png",
         "type": [
-            "t_Badge_fetter_icon_red.png"
+            "t_Badge_fetter_icon_red.png",
         ],
         "stat": {
             "HP": "40",
@@ -190,7 +190,7 @@ const badges=[
         "mon": "Charizard",
         "ico": "t_SupportMedal_Icon_0006_3_edfd1727cc73f7b1.png",
         "type": [
-            "t_Badge_fetter_icon_red.png"
+            "t_Badge_fetter_icon_red.png",
         ],
         "stat": {
             "HP": "50",
@@ -201,7 +201,7 @@ const badges=[
         "mon": "Squirtle",
         "ico": "t_SupportMedal_Icon_0007_1_5911119a93d7bbdc.png",
         "type": [
-            "t_Badge_fetter_icon_blue.png"
+            "t_Badge_fetter_icon_blue.png",
         ],
         "stat": {
             "HP": "-30",
@@ -212,7 +212,7 @@ const badges=[
         "mon": "Squirtle",
         "ico": "t_SupportMedal_Icon_0007_2_314d7139404fdac0.png",
         "type": [
-            "t_Badge_fetter_icon_blue.png"
+            "t_Badge_fetter_icon_blue.png",
         ],
         "stat": {
             "HP": "-40",
@@ -223,7 +223,7 @@ const badges=[
         "mon": "Squirtle",
         "ico": "t_SupportMedal_Icon_0007_3_478e434ddc2173e5.png",
         "type": [
-            "t_Badge_fetter_icon_blue.png"
+            "t_Badge_fetter_icon_blue.png",
         ],
         "stat": {
             "HP": "-50",
@@ -234,7 +234,7 @@ const badges=[
         "mon": "Wartortle",
         "ico": "t_SupportMedal_Icon_0008_1_75ff38bc75335669.png",
         "type": [
-            "t_Badge_fetter_icon_blue.png"
+            "t_Badge_fetter_icon_blue.png",
         ],
         "stat": {
             "Def": "-3",
@@ -245,7 +245,7 @@ const badges=[
         "mon": "Wartortle",
         "ico": "t_SupportMedal_Icon_0008_2_635d287bbfa6ee19.png",
         "type": [
-            "t_Badge_fetter_icon_blue.png"
+            "t_Badge_fetter_icon_blue.png",
         ],
         "stat": {
             "Def": "-4",
@@ -256,7 +256,7 @@ const badges=[
         "mon": "Wartortle",
         "ico": "t_SupportMedal_Icon_0008_3_1ddc786568406445.png",
         "type": [
-            "t_Badge_fetter_icon_blue.png"
+            "t_Badge_fetter_icon_blue.png",
         ],
         "stat": {
             "Def": "-5",
@@ -267,7 +267,7 @@ const badges=[
         "mon": "Blastoise",
         "ico": "t_SupportMedal_Icon_0009_1_0932f8c215afefa8.png",
         "type": [
-            "t_Badge_fetter_icon_blue.png"
+            "t_Badge_fetter_icon_blue.png",
         ],
         "stat": {
             "Sp. Atk": "1.8",
@@ -278,7 +278,7 @@ const badges=[
         "mon": "Blastoise",
         "ico": "t_SupportMedal_Icon_0009_2_14097145956cfe32.png",
         "type": [
-            "t_Badge_fetter_icon_blue.png"
+            "t_Badge_fetter_icon_blue.png",
         ],
         "stat": {
             "Sp. Atk": "2.4",
@@ -289,7 +289,7 @@ const badges=[
         "mon": "Blastoise",
         "ico": "t_SupportMedal_Icon_0009_3_fb73e3cbbc537c77.png",
         "type": [
-            "t_Badge_fetter_icon_blue.png"
+            "t_Badge_fetter_icon_blue.png",
         ],
         "stat": {
             "Sp. Atk": "3",
@@ -300,7 +300,7 @@ const badges=[
         "mon": "Caterpie",
         "ico": "t_SupportMedal_Icon_0010_1_e642decc9d8e6d0b.png",
         "type": [
-            "t_Badge_fetter_icon_green.png"
+            "t_Badge_fetter_icon_green.png",
         ],
         "stat": {
             "HP": "-30",
@@ -311,7 +311,7 @@ const badges=[
         "mon": "Caterpie",
         "ico": "t_SupportMedal_Icon_0010_2_df5fb1da123d59b6.png",
         "type": [
-            "t_Badge_fetter_icon_green.png"
+            "t_Badge_fetter_icon_green.png",
         ],
         "stat": {
             "HP": "-40",
@@ -322,7 +322,7 @@ const badges=[
         "mon": "Caterpie",
         "ico": "t_SupportMedal_Icon_0010_3_b8cd9ed81d7ba29a.png",
         "type": [
-            "t_Badge_fetter_icon_green.png"
+            "t_Badge_fetter_icon_green.png",
         ],
         "stat": {
             "HP": "-50",
@@ -333,7 +333,7 @@ const badges=[
         "mon": "Metapod",
         "ico": "t_SupportMedal_Icon_0011_1_d1b16db36896d361.png",
         "type": [
-            "t_Badge_fetter_icon_green.png"
+            "t_Badge_fetter_icon_green.png",
         ],
         "stat": {
             "Def": "3",
@@ -344,7 +344,7 @@ const badges=[
         "mon": "Metapod",
         "ico": "t_SupportMedal_Icon_0011_2_34dc03798572fd63.png",
         "type": [
-            "t_Badge_fetter_icon_green.png"
+            "t_Badge_fetter_icon_green.png",
         ],
         "stat": {
             "Def": "4",
@@ -355,7 +355,7 @@ const badges=[
         "mon": "Metapod",
         "ico": "t_SupportMedal_Icon_0011_3_477b9efc75963d44.png",
         "type": [
-            "t_Badge_fetter_icon_green.png"
+            "t_Badge_fetter_icon_green.png",
         ],
         "stat": {
             "Def": "5",
@@ -402,7 +402,7 @@ const badges=[
         "mon": "Weedle",
         "ico": "t_SupportMedal_Icon_0013_1_5fed7753c5a55e59.png",
         "type": [
-            "t_Badge_fetter_icon_green.png"
+            "t_Badge_fetter_icon_green.png",
         ],
         "stat": {
             "Def": "-3",
@@ -413,7 +413,7 @@ const badges=[
         "mon": "Weedle",
         "ico": "t_SupportMedal_Icon_0013_2_e3c92a14369556f8.png",
         "type": [
-            "t_Badge_fetter_icon_green.png"
+            "t_Badge_fetter_icon_green.png",
         ],
         "stat": {
             "Def": "-4",
@@ -424,7 +424,7 @@ const badges=[
         "mon": "Weedle",
         "ico": "t_SupportMedal_Icon_0013_3_fb852666a272c072.png",
         "type": [
-            "t_Badge_fetter_icon_green.png"
+            "t_Badge_fetter_icon_green.png",
         ],
         "stat": {
             "Def": "-5",
@@ -435,7 +435,7 @@ const badges=[
         "mon": "Kakuna",
         "ico": "t_SupportMedal_Icon_0014_1_176473024476377e.png",
         "type": [
-            "t_Badge_fetter_icon_green.png"
+            "t_Badge_fetter_icon_green.png",
         ],
         "stat": {
             "Sp. Def": "3",
@@ -446,7 +446,7 @@ const badges=[
         "mon": "Kakuna",
         "ico": "t_SupportMedal_Icon_0014_2_13bc8b0931fd49b5.png",
         "type": [
-            "t_Badge_fetter_icon_green.png"
+            "t_Badge_fetter_icon_green.png",
         ],
         "stat": {
             "Sp. Def": "4",
@@ -457,7 +457,7 @@ const badges=[
         "mon": "Kakuna",
         "ico": "t_SupportMedal_Icon_0014_3_2549a8430e1dd63d.png",
         "type": [
-            "t_Badge_fetter_icon_green.png"
+            "t_Badge_fetter_icon_green.png",
         ],
         "stat": {
             "Sp. Def": "5",
@@ -504,7 +504,7 @@ const badges=[
         "mon": "Pidgey",
         "ico": "t_SupportMedal_Icon_0016_1_f801e94883798fc6.png",
         "type": [
-            "t_Badge_fetter_icon_white.png"
+            "t_Badge_fetter_icon_white.png",
         ],
         "stat": {
             "HP": "30",
@@ -515,7 +515,7 @@ const badges=[
         "mon": "Pidgey",
         "ico": "t_SupportMedal_Icon_0016_2_277feb5b3493e766.png",
         "type": [
-            "t_Badge_fetter_icon_white.png"
+            "t_Badge_fetter_icon_white.png",
         ],
         "stat": {
             "HP": "40",
@@ -526,7 +526,7 @@ const badges=[
         "mon": "Pidgey",
         "ico": "t_SupportMedal_Icon_0016_3_68ff9c13f340c1a6.png",
         "type": [
-            "t_Badge_fetter_icon_white.png"
+            "t_Badge_fetter_icon_white.png",
         ],
         "stat": {
             "HP": "50",
@@ -537,7 +537,7 @@ const badges=[
         "mon": "Pidgeotto",
         "ico": "t_SupportMedal_Icon_0017_1_815b5931bad9be21.png",
         "type": [
-            "t_Badge_fetter_icon_white.png"
+            "t_Badge_fetter_icon_white.png",
         ],
         "stat": {
             "HP": "30",
@@ -548,7 +548,7 @@ const badges=[
         "mon": "Pidgeotto",
         "ico": "t_SupportMedal_Icon_0017_2_abf5473f4da21adc.png",
         "type": [
-            "t_Badge_fetter_icon_white.png"
+            "t_Badge_fetter_icon_white.png",
         ],
         "stat": {
             "HP": "40",
@@ -559,7 +559,7 @@ const badges=[
         "mon": "Pidgeotto",
         "ico": "t_SupportMedal_Icon_0017_3_8f2b881385bee1e2.png",
         "type": [
-            "t_Badge_fetter_icon_white.png"
+            "t_Badge_fetter_icon_white.png",
         ],
         "stat": {
             "HP": "50",
@@ -570,7 +570,7 @@ const badges=[
         "mon": "Pidgeot",
         "ico": "t_SupportMedal_Icon_0018_1_61eaccf74a236213.png",
         "type": [
-            "t_Badge_fetter_icon_white.png"
+            "t_Badge_fetter_icon_white.png",
         ],
         "stat": {
             "HP": "30",
@@ -581,7 +581,7 @@ const badges=[
         "mon": "Pidgeot",
         "ico": "t_SupportMedal_Icon_0018_2_2ad8713a5d34db66.png",
         "type": [
-            "t_Badge_fetter_icon_white.png"
+            "t_Badge_fetter_icon_white.png",
         ],
         "stat": {
             "HP": "40",
@@ -592,7 +592,7 @@ const badges=[
         "mon": "Pidgeot",
         "ico": "t_SupportMedal_Icon_0018_3_8f8fcd31517932c9.png",
         "type": [
-            "t_Badge_fetter_icon_white.png"
+            "t_Badge_fetter_icon_white.png",
         ],
         "stat": {
             "HP": "50",
@@ -603,7 +603,7 @@ const badges=[
         "mon": "Rattata",
         "ico": "t_SupportMedal_Icon_0019_1_a50c2dc9f89e4b5f.png",
         "type": [
-            "t_Badge_fetter_icon_white.png"
+            "t_Badge_fetter_icon_white.png",
         ],
         "stat": {
             "HP": "-30",
@@ -614,7 +614,7 @@ const badges=[
         "mon": "Rattata",
         "ico": "t_SupportMedal_Icon_0019_2_5c5ef0c6253add9d.png",
         "type": [
-            "t_Badge_fetter_icon_white.png"
+            "t_Badge_fetter_icon_white.png",
         ],
         "stat": {
             "HP": "-40",
@@ -625,7 +625,7 @@ const badges=[
         "mon": "Rattata",
         "ico": "t_SupportMedal_Icon_0019_3_0a0b700d5a5231c2.png",
         "type": [
-            "t_Badge_fetter_icon_white.png"
+            "t_Badge_fetter_icon_white.png",
         ],
         "stat": {
             "HP": "-50",
@@ -636,7 +636,7 @@ const badges=[
         "mon": "Raticate",
         "ico": "t_SupportMedal_Icon_0020_1_20af185912335fa0.png",
         "type": [
-            "t_Badge_fetter_icon_white.png"
+            "t_Badge_fetter_icon_white.png",
         ],
         "stat": {
             "Def": "3",
@@ -647,7 +647,7 @@ const badges=[
         "mon": "Raticate",
         "ico": "t_SupportMedal_Icon_0020_2_0af0c1ef811cfe5a.png",
         "type": [
-            "t_Badge_fetter_icon_white.png"
+            "t_Badge_fetter_icon_white.png",
         ],
         "stat": {
             "Def": "4",
@@ -658,7 +658,7 @@ const badges=[
         "mon": "Raticate",
         "ico": "t_SupportMedal_Icon_0020_3_47c7b87499db41c8.png",
         "type": [
-            "t_Badge_fetter_icon_white.png"
+            "t_Badge_fetter_icon_white.png",
         ],
         "stat": {
             "Def": "5",
@@ -669,7 +669,7 @@ const badges=[
         "mon": "Spearow",
         "ico": "t_SupportMedal_Icon_0021_1_3ce8d470a6738228.png",
         "type": [
-            "t_Badge_fetter_icon_white.png"
+            "t_Badge_fetter_icon_white.png",
         ],
         "stat": {
             "Atk": "1.2",
@@ -680,7 +680,7 @@ const badges=[
         "mon": "Spearow",
         "ico": "t_SupportMedal_Icon_0021_2_e83c4bb34abafeab.png",
         "type": [
-            "t_Badge_fetter_icon_white.png"
+            "t_Badge_fetter_icon_white.png",
         ],
         "stat": {
             "Atk": "1.6",
@@ -691,7 +691,7 @@ const badges=[
         "mon": "Spearow",
         "ico": "t_SupportMedal_Icon_0021_3_5a0c811474afdc2a.png",
         "type": [
-            "t_Badge_fetter_icon_white.png"
+            "t_Badge_fetter_icon_white.png",
         ],
         "stat": {
             "Atk": "2",
@@ -702,7 +702,7 @@ const badges=[
         "mon": "Fearow",
         "ico": "t_SupportMedal_Icon_0022_1_2ed4594ded0bc2aa.png",
         "type": [
-            "t_Badge_fetter_icon_white.png"
+            "t_Badge_fetter_icon_white.png",
         ],
         "stat": {
             "Atk": "1.2",
@@ -713,7 +713,7 @@ const badges=[
         "mon": "Fearow",
         "ico": "t_SupportMedal_Icon_0022_2_f0e052f8eefc667c.png",
         "type": [
-            "t_Badge_fetter_icon_white.png"
+            "t_Badge_fetter_icon_white.png",
         ],
         "stat": {
             "Atk": "1.6",
@@ -724,7 +724,7 @@ const badges=[
         "mon": "Fearow",
         "ico": "t_SupportMedal_Icon_0022_3_bdf984cedaa479b4.png",
         "type": [
-            "t_Badge_fetter_icon_white.png"
+            "t_Badge_fetter_icon_white.png",
         ],
         "stat": {
             "Atk": "2",
@@ -735,7 +735,7 @@ const badges=[
         "mon": "Ekans",
         "ico": "t_SupportMedal_Icon_0023_1_e48a47468265a1b9.png",
         "type": [
-            "t_Badge_fetter_icon_black.png"
+            "t_Badge_fetter_icon_black.png",
         ],
         "stat": {
             "Atk": "1.2",
@@ -746,7 +746,7 @@ const badges=[
         "mon": "Ekans",
         "ico": "t_SupportMedal_Icon_0023_2_8c3e0cf4df751b78.png",
         "type": [
-            "t_Badge_fetter_icon_black.png"
+            "t_Badge_fetter_icon_black.png",
         ],
         "stat": {
             "Atk": "1.6",
@@ -757,7 +757,7 @@ const badges=[
         "mon": "Ekans",
         "ico": "t_SupportMedal_Icon_0023_3_2d2ab28d4fc5a470.png",
         "type": [
-            "t_Badge_fetter_icon_black.png"
+            "t_Badge_fetter_icon_black.png",
         ],
         "stat": {
             "Atk": "2",
@@ -768,7 +768,7 @@ const badges=[
         "mon": "Arbok",
         "ico": "t_SupportMedal_Icon_0024_1_0cc7dbe40f0fe1d8.png",
         "type": [
-            "t_Badge_fetter_icon_black.png"
+            "t_Badge_fetter_icon_black.png",
         ],
         "stat": {
             "Atk": "1.2",
@@ -779,7 +779,7 @@ const badges=[
         "mon": "Arbok",
         "ico": "t_SupportMedal_Icon_0024_2_fae573f2702c587b.png",
         "type": [
-            "t_Badge_fetter_icon_black.png"
+            "t_Badge_fetter_icon_black.png",
         ],
         "stat": {
             "Atk": "1.6",
@@ -790,7 +790,7 @@ const badges=[
         "mon": "Arbok",
         "ico": "t_SupportMedal_Icon_0024_3_fbc711a6121b321d.png",
         "type": [
-            "t_Badge_fetter_icon_black.png"
+            "t_Badge_fetter_icon_black.png",
         ],
         "stat": {
             "Atk": "2",
@@ -801,7 +801,7 @@ const badges=[
         "mon": "Pikachu",
         "ico": "t_SupportMedal_Icon_0025_1_2e73c922912d3158.png",
         "type": [
-            "t_Badge_fetter_icon_yellow.png"
+            "t_Badge_fetter_icon_yellow.png",
         ],
         "stat": {
             "Sp. Def": "3",
@@ -812,7 +812,7 @@ const badges=[
         "mon": "Pikachu",
         "ico": "t_SupportMedal_Icon_0025_2_c698c02ac3c365be.png",
         "type": [
-            "t_Badge_fetter_icon_yellow.png"
+            "t_Badge_fetter_icon_yellow.png",
         ],
         "stat": {
             "Sp. Def": "4",
@@ -823,7 +823,7 @@ const badges=[
         "mon": "Pikachu",
         "ico": "t_SupportMedal_Icon_0025_3_e9ea476913b14078.png",
         "type": [
-            "t_Badge_fetter_icon_yellow.png"
+            "t_Badge_fetter_icon_yellow.png",
         ],
         "stat": {
             "Sp. Def": "5",
@@ -834,7 +834,7 @@ const badges=[
         "mon": "Raichu",
         "ico": "t_SupportMedal_Icon_0026_1_68f95fb34bc21ffd.png",
         "type": [
-            "t_Badge_fetter_icon_yellow.png"
+            "t_Badge_fetter_icon_yellow.png",
         ],
         "stat": {
             "HP": "-30",
@@ -845,7 +845,7 @@ const badges=[
         "mon": "Raichu",
         "ico": "t_SupportMedal_Icon_0026_2_27e27ce986cafc9f.png",
         "type": [
-            "t_Badge_fetter_icon_yellow.png"
+            "t_Badge_fetter_icon_yellow.png",
         ],
         "stat": {
             "HP": "-40",
@@ -856,7 +856,7 @@ const badges=[
         "mon": "Raichu",
         "ico": "t_SupportMedal_Icon_0026_3_353279c11369315f.png",
         "type": [
-            "t_Badge_fetter_icon_yellow.png"
+            "t_Badge_fetter_icon_yellow.png",
         ],
         "stat": {
             "HP": "-50",
@@ -867,7 +867,7 @@ const badges=[
         "mon": "Sandshrew",
         "ico": "t_SupportMedal_Icon_0027_1_fd4395e09363a896.png",
         "type": [
-            "t_Badge_fetter_icon_orange.png"
+            "t_Badge_fetter_icon_orange.png",
         ],
         "stat": {
             "Sp. Def": "-3",
@@ -878,7 +878,7 @@ const badges=[
         "mon": "Sandshrew",
         "ico": "t_SupportMedal_Icon_0027_2_e7bc2323c938070c.png",
         "type": [
-            "t_Badge_fetter_icon_orange.png"
+            "t_Badge_fetter_icon_orange.png",
         ],
         "stat": {
             "Sp. Def": "-4",
@@ -889,7 +889,7 @@ const badges=[
         "mon": "Sandshrew",
         "ico": "t_SupportMedal_Icon_0027_3_2a5742cf9816cf32.png",
         "type": [
-            "t_Badge_fetter_icon_orange.png"
+            "t_Badge_fetter_icon_orange.png",
         ],
         "stat": {
             "Sp. Def": "-5",
@@ -900,7 +900,7 @@ const badges=[
         "mon": "Sandslash",
         "ico": "t_SupportMedal_Icon_0028_1_c9322fdb5935c1d6.png",
         "type": [
-            "t_Badge_fetter_icon_orange.png"
+            "t_Badge_fetter_icon_orange.png",
         ],
         "stat": {
             "Sp. Atk": "-1.8",
@@ -911,7 +911,7 @@ const badges=[
         "mon": "Sandslash",
         "ico": "t_SupportMedal_Icon_0028_2_59c7b3b849d9f6c3.png",
         "type": [
-            "t_Badge_fetter_icon_orange.png"
+            "t_Badge_fetter_icon_orange.png",
         ],
         "stat": {
             "Sp. Atk": "-2.4",
@@ -922,7 +922,7 @@ const badges=[
         "mon": "Sandslash",
         "ico": "t_SupportMedal_Icon_0028_3_a72349ac40848b35.png",
         "type": [
-            "t_Badge_fetter_icon_orange.png"
+            "t_Badge_fetter_icon_orange.png",
         ],
         "stat": {
             "Sp. Atk": "-3",
@@ -933,7 +933,7 @@ const badges=[
         "mon": "Nidoran\u2640",
         "ico": "t_SupportMedal_Icon_0029_1_75a325d16c4662c8.png",
         "type": [
-            "t_Badge_fetter_icon_purple.png"
+            "t_Badge_fetter_icon_purple.png",
         ],
         "stat": {
             "HP": "30",
@@ -944,7 +944,7 @@ const badges=[
         "mon": "Nidoran\u2640",
         "ico": "t_SupportMedal_Icon_0029_2_db00a64e1664bab0.png",
         "type": [
-            "t_Badge_fetter_icon_purple.png"
+            "t_Badge_fetter_icon_purple.png",
         ],
         "stat": {
             "HP": "40",
@@ -955,7 +955,7 @@ const badges=[
         "mon": "Nidoran\u2640",
         "ico": "t_SupportMedal_Icon_0029_3_71f171d6a2dd1127.png",
         "type": [
-            "t_Badge_fetter_icon_purple.png"
+            "t_Badge_fetter_icon_purple.png",
         ],
         "stat": {
             "HP": "50",
@@ -966,7 +966,7 @@ const badges=[
         "mon": "Nidorina",
         "ico": "t_SupportMedal_Icon_0030_1_7c4b03c1b2951ec7.png",
         "type": [
-            "t_Badge_fetter_icon_purple.png"
+            "t_Badge_fetter_icon_purple.png",
         ],
         "stat": {
             "HP": "30",
@@ -977,7 +977,7 @@ const badges=[
         "mon": "Nidorina",
         "ico": "t_SupportMedal_Icon_0030_2_2f9959528e8be45b.png",
         "type": [
-            "t_Badge_fetter_icon_purple.png"
+            "t_Badge_fetter_icon_purple.png",
         ],
         "stat": {
             "HP": "40",
@@ -988,7 +988,7 @@ const badges=[
         "mon": "Nidorina",
         "ico": "t_SupportMedal_Icon_0030_3_626b6a3cbc971a3d.png",
         "type": [
-            "t_Badge_fetter_icon_purple.png"
+            "t_Badge_fetter_icon_purple.png",
         ],
         "stat": {
             "HP": "50",
@@ -1035,7 +1035,7 @@ const badges=[
         "mon": "Nidoran\u2642",
         "ico": "t_SupportMedal_Icon_0032_1_3777041d016bc826.png",
         "type": [
-            "t_Badge_fetter_icon_purple.png"
+            "t_Badge_fetter_icon_purple.png",
         ],
         "stat": {
             "HP": "-30",
@@ -1046,7 +1046,7 @@ const badges=[
         "mon": "Nidoran\u2642",
         "ico": "t_SupportMedal_Icon_0032_2_570f919037928d97.png",
         "type": [
-            "t_Badge_fetter_icon_purple.png"
+            "t_Badge_fetter_icon_purple.png",
         ],
         "stat": {
             "HP": "-40",
@@ -1057,7 +1057,7 @@ const badges=[
         "mon": "Nidoran\u2642",
         "ico": "t_SupportMedal_Icon_0032_3_116096d24e41e50e.png",
         "type": [
-            "t_Badge_fetter_icon_purple.png"
+            "t_Badge_fetter_icon_purple.png",
         ],
         "stat": {
             "HP": "-50",
@@ -1068,7 +1068,7 @@ const badges=[
         "mon": "Nidorino",
         "ico": "t_SupportMedal_Icon_0033_1_915e3f5ab51a43df.png",
         "type": [
-            "t_Badge_fetter_icon_purple.png"
+            "t_Badge_fetter_icon_purple.png",
         ],
         "stat": {
             "Atk": "1.2",
@@ -1079,7 +1079,7 @@ const badges=[
         "mon": "Nidorino",
         "ico": "t_SupportMedal_Icon_0033_2_57c16f35a93cfbe1.png",
         "type": [
-            "t_Badge_fetter_icon_purple.png"
+            "t_Badge_fetter_icon_purple.png",
         ],
         "stat": {
             "Atk": "1.6",
@@ -1090,7 +1090,7 @@ const badges=[
         "mon": "Nidorino",
         "ico": "t_SupportMedal_Icon_0033_3_a26865968224b4b0.png",
         "type": [
-            "t_Badge_fetter_icon_purple.png"
+            "t_Badge_fetter_icon_purple.png",
         ],
         "stat": {
             "Atk": "2",
@@ -1137,7 +1137,7 @@ const badges=[
         "mon": "Clefairy",
         "ico": "t_SupportMedal_Icon_0035_1_9c53e121930d1b63.png",
         "type": [
-            "t_Badge_fetter_icon_peach.png"
+            "t_Badge_fetter_icon_peach.png",
         ],
         "stat": {
             "HP": "30",
@@ -1148,7 +1148,7 @@ const badges=[
         "mon": "Clefairy",
         "ico": "t_SupportMedal_Icon_0035_2_dacec12fc4413fe9.png",
         "type": [
-            "t_Badge_fetter_icon_peach.png"
+            "t_Badge_fetter_icon_peach.png",
         ],
         "stat": {
             "HP": "40",
@@ -1159,7 +1159,7 @@ const badges=[
         "mon": "Clefairy",
         "ico": "t_SupportMedal_Icon_0035_3_abe1e752e10a8cf2.png",
         "type": [
-            "t_Badge_fetter_icon_peach.png"
+            "t_Badge_fetter_icon_peach.png",
         ],
         "stat": {
             "HP": "50",
@@ -1170,7 +1170,7 @@ const badges=[
         "mon": "Clefable",
         "ico": "t_SupportMedal_Icon_0036_1_7908061561173f64.png",
         "type": [
-            "t_Badge_fetter_icon_peach.png"
+            "t_Badge_fetter_icon_peach.png",
         ],
         "stat": {
             "HP": "30",
@@ -1181,7 +1181,7 @@ const badges=[
         "mon": "Clefable",
         "ico": "t_SupportMedal_Icon_0036_2_26d893d45447005c.png",
         "type": [
-            "t_Badge_fetter_icon_peach.png"
+            "t_Badge_fetter_icon_peach.png",
         ],
         "stat": {
             "HP": "40",
@@ -1192,7 +1192,7 @@ const badges=[
         "mon": "Clefable",
         "ico": "t_SupportMedal_Icon_0036_3_82c572a267b08f79.png",
         "type": [
-            "t_Badge_fetter_icon_peach.png"
+            "t_Badge_fetter_icon_peach.png",
         ],
         "stat": {
             "HP": "50",
@@ -1203,7 +1203,7 @@ const badges=[
         "mon": "Vulpix",
         "ico": "t_SupportMedal_Icon_0037_1_fe2d86a74b925f91.png",
         "type": [
-            "t_Badge_fetter_icon_red.png"
+            "t_Badge_fetter_icon_red.png",
         ],
         "stat": {
             "HP": "-30",
@@ -1214,7 +1214,7 @@ const badges=[
         "mon": "Vulpix",
         "ico": "t_SupportMedal_Icon_0037_2_569eb08a59eb5b83.png",
         "type": [
-            "t_Badge_fetter_icon_red.png"
+            "t_Badge_fetter_icon_red.png",
         ],
         "stat": {
             "HP": "-40",
@@ -1225,7 +1225,7 @@ const badges=[
         "mon": "Vulpix",
         "ico": "t_SupportMedal_Icon_0037_3_b1e25353dfd8f176.png",
         "type": [
-            "t_Badge_fetter_icon_red.png"
+            "t_Badge_fetter_icon_red.png",
         ],
         "stat": {
             "HP": "-50",
@@ -1236,7 +1236,7 @@ const badges=[
         "mon": "Ninetales",
         "ico": "t_SupportMedal_Icon_0038_1_72db2a3ec7aafdc4.png",
         "type": [
-            "t_Badge_fetter_icon_red.png"
+            "t_Badge_fetter_icon_red.png",
         ],
         "stat": {
             "Atk": "-1.2",
@@ -1247,7 +1247,7 @@ const badges=[
         "mon": "Ninetales",
         "ico": "t_SupportMedal_Icon_0038_2_9124b7169c26c400.png",
         "type": [
-            "t_Badge_fetter_icon_red.png"
+            "t_Badge_fetter_icon_red.png",
         ],
         "stat": {
             "Atk": "-1.6",
@@ -1258,7 +1258,7 @@ const badges=[
         "mon": "Ninetales",
         "ico": "t_SupportMedal_Icon_0038_3_d0bc3498855776d6.png",
         "type": [
-            "t_Badge_fetter_icon_red.png"
+            "t_Badge_fetter_icon_red.png",
         ],
         "stat": {
             "Atk": "-2",
@@ -1269,7 +1269,7 @@ const badges=[
         "mon": "Jigglypuff",
         "ico": "t_SupportMedal_Icon_0039_1_24aa8d803726f27d.png",
         "type": [
-            "t_Badge_fetter_icon_peach.png"
+            "t_Badge_fetter_icon_peach.png",
         ],
         "stat": {
             "HP": "30",
@@ -1280,7 +1280,7 @@ const badges=[
         "mon": "Jigglypuff",
         "ico": "t_SupportMedal_Icon_0039_2_2b7d880e0d133e4e.png",
         "type": [
-            "t_Badge_fetter_icon_peach.png"
+            "t_Badge_fetter_icon_peach.png",
         ],
         "stat": {
             "HP": "40",
@@ -1291,7 +1291,7 @@ const badges=[
         "mon": "Jigglypuff",
         "ico": "t_SupportMedal_Icon_0039_3_bdaad6f5603cff04.png",
         "type": [
-            "t_Badge_fetter_icon_peach.png"
+            "t_Badge_fetter_icon_peach.png",
         ],
         "stat": {
             "HP": "50",
@@ -1302,7 +1302,7 @@ const badges=[
         "mon": "Wigglytuff",
         "ico": "t_SupportMedal_Icon_0040_1_05d594f64ee82aa8.png",
         "type": [
-            "t_Badge_fetter_icon_peach.png"
+            "t_Badge_fetter_icon_peach.png",
         ],
         "stat": {
             "HP": "30",
@@ -1313,7 +1313,7 @@ const badges=[
         "mon": "Wigglytuff",
         "ico": "t_SupportMedal_Icon_0040_2_74e04fbda6b8d9dc.png",
         "type": [
-            "t_Badge_fetter_icon_peach.png"
+            "t_Badge_fetter_icon_peach.png",
         ],
         "stat": {
             "HP": "40",
@@ -1324,7 +1324,7 @@ const badges=[
         "mon": "Wigglytuff",
         "ico": "t_SupportMedal_Icon_0040_3_2eddebf4d5f7bed7.png",
         "type": [
-            "t_Badge_fetter_icon_peach.png"
+            "t_Badge_fetter_icon_peach.png",
         ],
         "stat": {
             "HP": "50",
@@ -1335,7 +1335,7 @@ const badges=[
         "mon": "Zubat",
         "ico": "t_SupportMedal_Icon_0041_1_568c70ccf090dbf5.png",
         "type": [
-            "t_Badge_fetter_icon_black.png"
+            "t_Badge_fetter_icon_black.png",
         ],
         "stat": {
             "Atk": "-1.2",
@@ -1346,7 +1346,7 @@ const badges=[
         "mon": "Zubat",
         "ico": "t_SupportMedal_Icon_0041_2_e1ca84b26a5b8039.png",
         "type": [
-            "t_Badge_fetter_icon_black.png"
+            "t_Badge_fetter_icon_black.png",
         ],
         "stat": {
             "Atk": "-1.6",
@@ -1357,7 +1357,7 @@ const badges=[
         "mon": "Zubat",
         "ico": "t_SupportMedal_Icon_0041_3_94801fd503ab4ea4.png",
         "type": [
-            "t_Badge_fetter_icon_black.png"
+            "t_Badge_fetter_icon_black.png",
         ],
         "stat": {
             "Atk": "-2",
@@ -1368,7 +1368,7 @@ const badges=[
         "mon": "Golbat",
         "ico": "t_SupportMedal_Icon_0042_1_0b386a4e1e4240d2.png",
         "type": [
-            "t_Badge_fetter_icon_black.png"
+            "t_Badge_fetter_icon_black.png",
         ],
         "stat": {
             "Sp. Def": "-3",
@@ -1379,7 +1379,7 @@ const badges=[
         "mon": "Golbat",
         "ico": "t_SupportMedal_Icon_0042_2_2d37364187ac3afe.png",
         "type": [
-            "t_Badge_fetter_icon_black.png"
+            "t_Badge_fetter_icon_black.png",
         ],
         "stat": {
             "Sp. Def": "-4",
@@ -1390,7 +1390,7 @@ const badges=[
         "mon": "Golbat",
         "ico": "t_SupportMedal_Icon_0042_3_5a1dfa2aaf16b830.png",
         "type": [
-            "t_Badge_fetter_icon_black.png"
+            "t_Badge_fetter_icon_black.png",
         ],
         "stat": {
             "Sp. Def": "-5",
@@ -1401,7 +1401,7 @@ const badges=[
         "mon": "Oddish",
         "ico": "t_SupportMedal_Icon_0043_1_5b9875ac6a884be5.png",
         "type": [
-            "t_Badge_fetter_icon_green.png"
+            "t_Badge_fetter_icon_green.png",
         ],
         "stat": {
             "HP": "30",
@@ -1412,7 +1412,7 @@ const badges=[
         "mon": "Oddish",
         "ico": "t_SupportMedal_Icon_0043_2_7a78484b9e82f51b.png",
         "type": [
-            "t_Badge_fetter_icon_green.png"
+            "t_Badge_fetter_icon_green.png",
         ],
         "stat": {
             "HP": "40",
@@ -1423,7 +1423,7 @@ const badges=[
         "mon": "Oddish",
         "ico": "t_SupportMedal_Icon_0043_3_d7bcacae97d76224.png",
         "type": [
-            "t_Badge_fetter_icon_green.png"
+            "t_Badge_fetter_icon_green.png",
         ],
         "stat": {
             "HP": "50",
@@ -1434,7 +1434,7 @@ const badges=[
         "mon": "Gloom",
         "ico": "t_SupportMedal_Icon_0044_1_4f1c301c36ba86b4.png",
         "type": [
-            "t_Badge_fetter_icon_green.png"
+            "t_Badge_fetter_icon_green.png",
         ],
         "stat": {
             "HP": "30",
@@ -1445,7 +1445,7 @@ const badges=[
         "mon": "Gloom",
         "ico": "t_SupportMedal_Icon_0044_2_012ca71b5df39d17.png",
         "type": [
-            "t_Badge_fetter_icon_green.png"
+            "t_Badge_fetter_icon_green.png",
         ],
         "stat": {
             "HP": "40",
@@ -1456,7 +1456,7 @@ const badges=[
         "mon": "Gloom",
         "ico": "t_SupportMedal_Icon_0044_3_40d6daff291278ea.png",
         "type": [
-            "t_Badge_fetter_icon_green.png"
+            "t_Badge_fetter_icon_green.png",
         ],
         "stat": {
             "HP": "50",
@@ -1503,7 +1503,7 @@ const badges=[
         "mon": "Paras",
         "ico": "t_SupportMedal_Icon_0046_1_af13e8e61e601a03.png",
         "type": [
-            "t_Badge_fetter_icon_green.png"
+            "t_Badge_fetter_icon_green.png",
         ],
         "stat": {
             "Def": "3",
@@ -1514,7 +1514,7 @@ const badges=[
         "mon": "Paras",
         "ico": "t_SupportMedal_Icon_0046_2_29a63d87c03feb05.png",
         "type": [
-            "t_Badge_fetter_icon_green.png"
+            "t_Badge_fetter_icon_green.png",
         ],
         "stat": {
             "Def": "4",
@@ -1525,7 +1525,7 @@ const badges=[
         "mon": "Paras",
         "ico": "t_SupportMedal_Icon_0046_3_7278aa44453eb43f.png",
         "type": [
-            "t_Badge_fetter_icon_green.png"
+            "t_Badge_fetter_icon_green.png",
         ],
         "stat": {
             "Def": "5",
@@ -1536,7 +1536,7 @@ const badges=[
         "mon": "Parasect",
         "ico": "t_SupportMedal_Icon_0047_1_c05f79b7211eb523.png",
         "type": [
-            "t_Badge_fetter_icon_green.png"
+            "t_Badge_fetter_icon_green.png",
         ],
         "stat": {
             "Def": "3",
@@ -1547,7 +1547,7 @@ const badges=[
         "mon": "Parasect",
         "ico": "t_SupportMedal_Icon_0047_2_99e88f176ff7a159.png",
         "type": [
-            "t_Badge_fetter_icon_green.png"
+            "t_Badge_fetter_icon_green.png",
         ],
         "stat": {
             "Def": "4",
@@ -1558,7 +1558,7 @@ const badges=[
         "mon": "Parasect",
         "ico": "t_SupportMedal_Icon_0047_3_33918d2a6b8d269b.png",
         "type": [
-            "t_Badge_fetter_icon_green.png"
+            "t_Badge_fetter_icon_green.png",
         ],
         "stat": {
             "Def": "5",
@@ -1569,7 +1569,7 @@ const badges=[
         "mon": "Venonat",
         "ico": "t_SupportMedal_Icon_0048_1_e9b1a42db03918ac.png",
         "type": [
-            "t_Badge_fetter_icon_green.png"
+            "t_Badge_fetter_icon_green.png",
         ],
         "stat": {
             "HP": "30",
@@ -1580,7 +1580,7 @@ const badges=[
         "mon": "Venonat",
         "ico": "t_SupportMedal_Icon_0048_2_f98edca71649e1a3.png",
         "type": [
-            "t_Badge_fetter_icon_green.png"
+            "t_Badge_fetter_icon_green.png",
         ],
         "stat": {
             "HP": "40",
@@ -1591,7 +1591,7 @@ const badges=[
         "mon": "Venonat",
         "ico": "t_SupportMedal_Icon_0048_3_e270b653b80f07bf.png",
         "type": [
-            "t_Badge_fetter_icon_green.png"
+            "t_Badge_fetter_icon_green.png",
         ],
         "stat": {
             "HP": "50",
@@ -1638,7 +1638,7 @@ const badges=[
         "mon": "Diglett",
         "ico": "t_SupportMedal_Icon_0050_1_d358b01a122c11b7.png",
         "type": [
-            "t_Badge_fetter_icon_orange.png"
+            "t_Badge_fetter_icon_orange.png",
         ],
         "stat": {
             "HP": "-30",
@@ -1649,7 +1649,7 @@ const badges=[
         "mon": "Diglett",
         "ico": "t_SupportMedal_Icon_0050_2_4b97956c7dd206c6.png",
         "type": [
-            "t_Badge_fetter_icon_orange.png"
+            "t_Badge_fetter_icon_orange.png",
         ],
         "stat": {
             "HP": "-40",
@@ -1660,7 +1660,7 @@ const badges=[
         "mon": "Diglett",
         "ico": "t_SupportMedal_Icon_0050_3_2ccfb5b1fb0856e0.png",
         "type": [
-            "t_Badge_fetter_icon_orange.png"
+            "t_Badge_fetter_icon_orange.png",
         ],
         "stat": {
             "HP": "-50",
@@ -1671,7 +1671,7 @@ const badges=[
         "mon": "Dugtrio",
         "ico": "t_SupportMedal_Icon_0051_1_3dc43faa78166e3b.png",
         "type": [
-            "t_Badge_fetter_icon_orange.png"
+            "t_Badge_fetter_icon_orange.png",
         ],
         "stat": {
             "Def": "-3",
@@ -1682,7 +1682,7 @@ const badges=[
         "mon": "Dugtrio",
         "ico": "t_SupportMedal_Icon_0051_2_e14bee13636364da.png",
         "type": [
-            "t_Badge_fetter_icon_orange.png"
+            "t_Badge_fetter_icon_orange.png",
         ],
         "stat": {
             "Def": "-4",
@@ -1693,7 +1693,7 @@ const badges=[
         "mon": "Dugtrio",
         "ico": "t_SupportMedal_Icon_0051_3_c3b6dc5d4a2af9e2.png",
         "type": [
-            "t_Badge_fetter_icon_orange.png"
+            "t_Badge_fetter_icon_orange.png",
         ],
         "stat": {
             "Def": "-5",
@@ -1704,7 +1704,7 @@ const badges=[
         "mon": "Meowth",
         "ico": "t_SupportMedal_Icon_0052_1_c1f662e5f45eff00.png",
         "type": [
-            "t_Badge_fetter_icon_white.png"
+            "t_Badge_fetter_icon_white.png",
         ],
         "stat": {
             "Def": "-3",
@@ -1715,7 +1715,7 @@ const badges=[
         "mon": "Meowth",
         "ico": "t_SupportMedal_Icon_0052_2_1eb1c0e0622b770c.png",
         "type": [
-            "t_Badge_fetter_icon_white.png"
+            "t_Badge_fetter_icon_white.png",
         ],
         "stat": {
             "Def": "-4",
@@ -1726,7 +1726,7 @@ const badges=[
         "mon": "Meowth",
         "ico": "t_SupportMedal_Icon_0052_3_0ef15213debbfe60.png",
         "type": [
-            "t_Badge_fetter_icon_white.png"
+            "t_Badge_fetter_icon_white.png",
         ],
         "stat": {
             "Def": "-5",
@@ -1737,7 +1737,7 @@ const badges=[
         "mon": "Persian",
         "ico": "t_SupportMedal_Icon_0053_1_aa84154b9096874a.png",
         "type": [
-            "t_Badge_fetter_icon_white.png"
+            "t_Badge_fetter_icon_white.png",
         ],
         "stat": {
             "Def": "-3",
@@ -1748,7 +1748,7 @@ const badges=[
         "mon": "Persian",
         "ico": "t_SupportMedal_Icon_0053_2_a51270af6a176f51.png",
         "type": [
-            "t_Badge_fetter_icon_white.png"
+            "t_Badge_fetter_icon_white.png",
         ],
         "stat": {
             "Def": "-4",
@@ -1759,7 +1759,7 @@ const badges=[
         "mon": "Persian",
         "ico": "t_SupportMedal_Icon_0053_3_d138088bd5b0bdb1.png",
         "type": [
-            "t_Badge_fetter_icon_white.png"
+            "t_Badge_fetter_icon_white.png",
         ],
         "stat": {
             "Def": "-5",
@@ -1770,7 +1770,7 @@ const badges=[
         "mon": "Psyduck",
         "ico": "t_SupportMedal_Icon_0054_1_81d60b39d591a8ae.png",
         "type": [
-            "t_Badge_fetter_icon_blue.png"
+            "t_Badge_fetter_icon_blue.png",
         ],
         "stat": {
             "HP": "-30",
@@ -1781,7 +1781,7 @@ const badges=[
         "mon": "Psyduck",
         "ico": "t_SupportMedal_Icon_0054_2_8984dc5b4ffe93cd.png",
         "type": [
-            "t_Badge_fetter_icon_blue.png"
+            "t_Badge_fetter_icon_blue.png",
         ],
         "stat": {
             "HP": "-40",
@@ -1792,7 +1792,7 @@ const badges=[
         "mon": "Psyduck",
         "ico": "t_SupportMedal_Icon_0054_3_ab4b3ce9e8504e16.png",
         "type": [
-            "t_Badge_fetter_icon_blue.png"
+            "t_Badge_fetter_icon_blue.png",
         ],
         "stat": {
             "HP": "-50",
@@ -1803,7 +1803,7 @@ const badges=[
         "mon": "Golduck",
         "ico": "t_SupportMedal_Icon_0055_1_8e5761ed33df5486.png",
         "type": [
-            "t_Badge_fetter_icon_blue.png"
+            "t_Badge_fetter_icon_blue.png",
         ],
         "stat": {
             "Atk": "-1.2",
@@ -1814,7 +1814,7 @@ const badges=[
         "mon": "Golduck",
         "ico": "t_SupportMedal_Icon_0055_2_c0941246a20a9b58.png",
         "type": [
-            "t_Badge_fetter_icon_blue.png"
+            "t_Badge_fetter_icon_blue.png",
         ],
         "stat": {
             "Atk": "-1.6",
@@ -1825,7 +1825,7 @@ const badges=[
         "mon": "Golduck",
         "ico": "t_SupportMedal_Icon_0055_3_7435faf29b3acf7d.png",
         "type": [
-            "t_Badge_fetter_icon_blue.png"
+            "t_Badge_fetter_icon_blue.png",
         ],
         "stat": {
             "Atk": "-2",
@@ -1836,7 +1836,7 @@ const badges=[
         "mon": "Mankey",
         "ico": "t_SupportMedal_Icon_0056_1_a2b66d9663d0cccc.png",
         "type": [
-            "t_Badge_fetter_icon_orange.png"
+            "t_Badge_fetter_icon_orange.png",
         ],
         "stat": {
             "HP": "30",
@@ -1847,7 +1847,7 @@ const badges=[
         "mon": "Mankey",
         "ico": "t_SupportMedal_Icon_0056_2_4afc0ba309a2f14f.png",
         "type": [
-            "t_Badge_fetter_icon_orange.png"
+            "t_Badge_fetter_icon_orange.png",
         ],
         "stat": {
             "HP": "40",
@@ -1858,7 +1858,7 @@ const badges=[
         "mon": "Mankey",
         "ico": "t_SupportMedal_Icon_0056_3_9b96312ede82ee48.png",
         "type": [
-            "t_Badge_fetter_icon_orange.png"
+            "t_Badge_fetter_icon_orange.png",
         ],
         "stat": {
             "HP": "50",
@@ -1869,7 +1869,7 @@ const badges=[
         "mon": "Primeape",
         "ico": "t_SupportMedal_Icon_0057_1_e5fa29e435be9723.png",
         "type": [
-            "t_Badge_fetter_icon_orange.png"
+            "t_Badge_fetter_icon_orange.png",
         ],
         "stat": {
             "HP": "30",
@@ -1880,7 +1880,7 @@ const badges=[
         "mon": "Primeape",
         "ico": "t_SupportMedal_Icon_0057_2_601da12adda7e42a.png",
         "type": [
-            "t_Badge_fetter_icon_orange.png"
+            "t_Badge_fetter_icon_orange.png",
         ],
         "stat": {
             "HP": "40",
@@ -1891,7 +1891,7 @@ const badges=[
         "mon": "Primeape",
         "ico": "t_SupportMedal_Icon_0057_3_525e373a2bd4a461.png",
         "type": [
-            "t_Badge_fetter_icon_orange.png"
+            "t_Badge_fetter_icon_orange.png",
         ],
         "stat": {
             "HP": "50",
@@ -1902,7 +1902,7 @@ const badges=[
         "mon": "Growlithe",
         "ico": "t_SupportMedal_Icon_0058_1_522d24d627ecbf7b.png",
         "type": [
-            "t_Badge_fetter_icon_red.png"
+            "t_Badge_fetter_icon_red.png",
         ],
         "stat": {
             "Sp. Atk": "1.8",
@@ -1913,7 +1913,7 @@ const badges=[
         "mon": "Growlithe",
         "ico": "t_SupportMedal_Icon_0058_2_c84198902c7b8235.png",
         "type": [
-            "t_Badge_fetter_icon_red.png"
+            "t_Badge_fetter_icon_red.png",
         ],
         "stat": {
             "Sp. Atk": "2.4",
@@ -1924,7 +1924,7 @@ const badges=[
         "mon": "Growlithe",
         "ico": "t_SupportMedal_Icon_0058_3_7a6231720d4662ec.png",
         "type": [
-            "t_Badge_fetter_icon_red.png"
+            "t_Badge_fetter_icon_red.png",
         ],
         "stat": {
             "Sp. Atk": "3",
@@ -1935,7 +1935,7 @@ const badges=[
         "mon": "Arcanine",
         "ico": "t_SupportMedal_Icon_0059_1_1fbd6c38b0807e06.png",
         "type": [
-            "t_Badge_fetter_icon_red.png"
+            "t_Badge_fetter_icon_red.png",
         ],
         "stat": {
             "Atk": "-1.2",
@@ -1946,7 +1946,7 @@ const badges=[
         "mon": "Arcanine",
         "ico": "t_SupportMedal_Icon_0059_2_d246b8eab6a74368.png",
         "type": [
-            "t_Badge_fetter_icon_red.png"
+            "t_Badge_fetter_icon_red.png",
         ],
         "stat": {
             "Atk": "-1.6",
@@ -1957,7 +1957,7 @@ const badges=[
         "mon": "Arcanine",
         "ico": "t_SupportMedal_Icon_0059_3_d74a33443f519b9c.png",
         "type": [
-            "t_Badge_fetter_icon_red.png"
+            "t_Badge_fetter_icon_red.png",
         ],
         "stat": {
             "Atk": "-2",
@@ -1968,7 +1968,7 @@ const badges=[
         "mon": "Poliwag",
         "ico": "t_SupportMedal_Icon_0060_1_4cc2f2200ee687b2.png",
         "type": [
-            "t_Badge_fetter_icon_blue.png"
+            "t_Badge_fetter_icon_blue.png",
         ],
         "stat": {
             "Def": "-3",
@@ -1979,7 +1979,7 @@ const badges=[
         "mon": "Poliwag",
         "ico": "t_SupportMedal_Icon_0060_2_c39b6e8be5618132.png",
         "type": [
-            "t_Badge_fetter_icon_blue.png"
+            "t_Badge_fetter_icon_blue.png",
         ],
         "stat": {
             "Def": "-4",
@@ -1990,7 +1990,7 @@ const badges=[
         "mon": "Poliwag",
         "ico": "t_SupportMedal_Icon_0060_3_ede39e111b2e9eb1.png",
         "type": [
-            "t_Badge_fetter_icon_blue.png"
+            "t_Badge_fetter_icon_blue.png",
         ],
         "stat": {
             "Def": "-5",
@@ -2001,7 +2001,7 @@ const badges=[
         "mon": "Poliwhirl",
         "ico": "t_SupportMedal_Icon_0061_1_ae67be9c284c1a1c.png",
         "type": [
-            "t_Badge_fetter_icon_blue.png"
+            "t_Badge_fetter_icon_blue.png",
         ],
         "stat": {
             "HP": "-30",
@@ -2012,7 +2012,7 @@ const badges=[
         "mon": "Poliwhirl",
         "ico": "t_SupportMedal_Icon_0061_2_d212cec661adab93.png",
         "type": [
-            "t_Badge_fetter_icon_blue.png"
+            "t_Badge_fetter_icon_blue.png",
         ],
         "stat": {
             "HP": "-40",
@@ -2023,7 +2023,7 @@ const badges=[
         "mon": "Poliwhirl",
         "ico": "t_SupportMedal_Icon_0061_3_3af66aa4f1d1827e.png",
         "type": [
-            "t_Badge_fetter_icon_blue.png"
+            "t_Badge_fetter_icon_blue.png",
         ],
         "stat": {
             "HP": "-50",
@@ -2070,7 +2070,7 @@ const badges=[
         "mon": "Abra",
         "ico": "t_SupportMedal_Icon_0063_1_96d309131a250b46.png",
         "type": [
-            "t_Badge_fetter_icon_purple.png"
+            "t_Badge_fetter_icon_purple.png",
         ],
         "stat": {
             "HP": "-30",
@@ -2081,7 +2081,7 @@ const badges=[
         "mon": "Abra",
         "ico": "t_SupportMedal_Icon_0063_2_fe14d4017204f940.png",
         "type": [
-            "t_Badge_fetter_icon_purple.png"
+            "t_Badge_fetter_icon_purple.png",
         ],
         "stat": {
             "HP": "-40",
@@ -2092,7 +2092,7 @@ const badges=[
         "mon": "Abra",
         "ico": "t_SupportMedal_Icon_0063_3_06f879abe61ec8e1.png",
         "type": [
-            "t_Badge_fetter_icon_purple.png"
+            "t_Badge_fetter_icon_purple.png",
         ],
         "stat": {
             "HP": "-50",
@@ -2103,7 +2103,7 @@ const badges=[
         "mon": "Kadabra",
         "ico": "t_SupportMedal_Icon_0064_1_3d27a5ca87137731.png",
         "type": [
-            "t_Badge_fetter_icon_purple.png"
+            "t_Badge_fetter_icon_purple.png",
         ],
         "stat": {
             "Sp. Atk": "1.8",
@@ -2114,7 +2114,7 @@ const badges=[
         "mon": "Kadabra",
         "ico": "t_SupportMedal_Icon_0064_2_208b3beb64b7e414.png",
         "type": [
-            "t_Badge_fetter_icon_purple.png"
+            "t_Badge_fetter_icon_purple.png",
         ],
         "stat": {
             "Sp. Atk": "2.4",
@@ -2125,7 +2125,7 @@ const badges=[
         "mon": "Kadabra",
         "ico": "t_SupportMedal_Icon_0064_3_4cc1c6f513cd982a.png",
         "type": [
-            "t_Badge_fetter_icon_purple.png"
+            "t_Badge_fetter_icon_purple.png",
         ],
         "stat": {
             "Sp. Atk": "3",
@@ -2136,7 +2136,7 @@ const badges=[
         "mon": "Alakazam",
         "ico": "t_SupportMedal_Icon_0065_1_1fcfa99b18d994cf.png",
         "type": [
-            "t_Badge_fetter_icon_purple.png"
+            "t_Badge_fetter_icon_purple.png",
         ],
         "stat": {
             "Atk": "-1.2",
@@ -2147,7 +2147,7 @@ const badges=[
         "mon": "Alakazam",
         "ico": "t_SupportMedal_Icon_0065_2_ac226025c466fcbd.png",
         "type": [
-            "t_Badge_fetter_icon_purple.png"
+            "t_Badge_fetter_icon_purple.png",
         ],
         "stat": {
             "Atk": "-1.6",
@@ -2158,7 +2158,7 @@ const badges=[
         "mon": "Alakazam",
         "ico": "t_SupportMedal_Icon_0065_3_0052005143ef69eb.png",
         "type": [
-            "t_Badge_fetter_icon_purple.png"
+            "t_Badge_fetter_icon_purple.png",
         ],
         "stat": {
             "Atk": "-2",
@@ -2169,7 +2169,7 @@ const badges=[
         "mon": "Machop",
         "ico": "t_SupportMedal_Icon_0066_1_7f0c5d8a18e937b2.png",
         "type": [
-            "t_Badge_fetter_icon_orange.png"
+            "t_Badge_fetter_icon_orange.png",
         ],
         "stat": {
             "Atk": "1.2",
@@ -2180,7 +2180,7 @@ const badges=[
         "mon": "Machop",
         "ico": "t_SupportMedal_Icon_0066_2_c55547a019c482dd.png",
         "type": [
-            "t_Badge_fetter_icon_orange.png"
+            "t_Badge_fetter_icon_orange.png",
         ],
         "stat": {
             "Atk": "1.6",
@@ -2191,7 +2191,7 @@ const badges=[
         "mon": "Machop",
         "ico": "t_SupportMedal_Icon_0066_3_e379df2b0e103d76.png",
         "type": [
-            "t_Badge_fetter_icon_orange.png"
+            "t_Badge_fetter_icon_orange.png",
         ],
         "stat": {
             "Atk": "2",
@@ -2202,7 +2202,7 @@ const badges=[
         "mon": "Machoke",
         "ico": "t_SupportMedal_Icon_0067_1_f437a353b23ae075.png",
         "type": [
-            "t_Badge_fetter_icon_orange.png"
+            "t_Badge_fetter_icon_orange.png",
         ],
         "stat": {
             "Atk": "1.2",
@@ -2213,7 +2213,7 @@ const badges=[
         "mon": "Machoke",
         "ico": "t_SupportMedal_Icon_0067_2_8e592c3d3d724f1c.png",
         "type": [
-            "t_Badge_fetter_icon_orange.png"
+            "t_Badge_fetter_icon_orange.png",
         ],
         "stat": {
             "Atk": "1.6",
@@ -2224,7 +2224,7 @@ const badges=[
         "mon": "Machoke",
         "ico": "t_SupportMedal_Icon_0067_3_dd9714ae2f041a41.png",
         "type": [
-            "t_Badge_fetter_icon_orange.png"
+            "t_Badge_fetter_icon_orange.png",
         ],
         "stat": {
             "Atk": "2",
@@ -2235,7 +2235,7 @@ const badges=[
         "mon": "Machamp",
         "ico": "t_SupportMedal_Icon_0068_1_c3e46d0d7947c2d6.png",
         "type": [
-            "t_Badge_fetter_icon_orange.png"
+            "t_Badge_fetter_icon_orange.png",
         ],
         "stat": {
             "Atk": "1.2",
@@ -2246,7 +2246,7 @@ const badges=[
         "mon": "Machamp",
         "ico": "t_SupportMedal_Icon_0068_2_0a8caa734d736617.png",
         "type": [
-            "t_Badge_fetter_icon_orange.png"
+            "t_Badge_fetter_icon_orange.png",
         ],
         "stat": {
             "Atk": "1.6",
@@ -2257,7 +2257,7 @@ const badges=[
         "mon": "Machamp",
         "ico": "t_SupportMedal_Icon_0068_3_12b443632245318b.png",
         "type": [
-            "t_Badge_fetter_icon_orange.png"
+            "t_Badge_fetter_icon_orange.png",
         ],
         "stat": {
             "Atk": "2",
@@ -2268,7 +2268,7 @@ const badges=[
         "mon": "Bellsprout",
         "ico": "t_SupportMedal_Icon_0069_1_dc5437f2582d52ad.png",
         "type": [
-            "t_Badge_fetter_icon_green.png"
+            "t_Badge_fetter_icon_green.png",
         ],
         "stat": {
             "Atk": "1.2",
@@ -2279,7 +2279,7 @@ const badges=[
         "mon": "Bellsprout",
         "ico": "t_SupportMedal_Icon_0069_2_a70bb7def0580c9d.png",
         "type": [
-            "t_Badge_fetter_icon_green.png"
+            "t_Badge_fetter_icon_green.png",
         ],
         "stat": {
             "Atk": "1.6",
@@ -2290,7 +2290,7 @@ const badges=[
         "mon": "Bellsprout",
         "ico": "t_SupportMedal_Icon_0069_3_e92ab5cce679274e.png",
         "type": [
-            "t_Badge_fetter_icon_green.png"
+            "t_Badge_fetter_icon_green.png",
         ],
         "stat": {
             "Atk": "2",
@@ -2301,7 +2301,7 @@ const badges=[
         "mon": "Weepinbell",
         "ico": "t_SupportMedal_Icon_0070_1_f75337bf1eb767d2.png",
         "type": [
-            "t_Badge_fetter_icon_green.png"
+            "t_Badge_fetter_icon_green.png",
         ],
         "stat": {
             "HP": "-30",
@@ -2312,7 +2312,7 @@ const badges=[
         "mon": "Weepinbell",
         "ico": "t_SupportMedal_Icon_0070_2_012bac01ca2cfbd3.png",
         "type": [
-            "t_Badge_fetter_icon_green.png"
+            "t_Badge_fetter_icon_green.png",
         ],
         "stat": {
             "HP": "-40",
@@ -2323,7 +2323,7 @@ const badges=[
         "mon": "Weepinbell",
         "ico": "t_SupportMedal_Icon_0070_3_f45b22848a7112e7.png",
         "type": [
-            "t_Badge_fetter_icon_green.png"
+            "t_Badge_fetter_icon_green.png",
         ],
         "stat": {
             "HP": "-50",
@@ -2370,7 +2370,7 @@ const badges=[
         "mon": "Tentacool",
         "ico": "t_SupportMedal_Icon_0072_1_13dd9c624c2d5a9c.png",
         "type": [
-            "t_Badge_fetter_icon_blue.png"
+            "t_Badge_fetter_icon_blue.png",
         ],
         "stat": {
             "HP": "-30",
@@ -2381,7 +2381,7 @@ const badges=[
         "mon": "Tentacool",
         "ico": "t_SupportMedal_Icon_0072_2_3e86aedc1be546d3.png",
         "type": [
-            "t_Badge_fetter_icon_blue.png"
+            "t_Badge_fetter_icon_blue.png",
         ],
         "stat": {
             "HP": "-40",
@@ -2392,7 +2392,7 @@ const badges=[
         "mon": "Tentacool",
         "ico": "t_SupportMedal_Icon_0072_3_720a8f3c1f9acedb.png",
         "type": [
-            "t_Badge_fetter_icon_blue.png"
+            "t_Badge_fetter_icon_blue.png",
         ],
         "stat": {
             "HP": "-50",
@@ -2439,7 +2439,7 @@ const badges=[
         "mon": "Geodude",
         "ico": "t_SupportMedal_Icon_0074_1_51ea8440f45adcf6.png",
         "type": [
-            "t_Badge_fetter_icon_orange.png"
+            "t_Badge_fetter_icon_orange.png",
         ],
         "stat": {
             "Def": "3",
@@ -2450,7 +2450,7 @@ const badges=[
         "mon": "Geodude",
         "ico": "t_SupportMedal_Icon_0074_2_b80b0e70745f1929.png",
         "type": [
-            "t_Badge_fetter_icon_orange.png"
+            "t_Badge_fetter_icon_orange.png",
         ],
         "stat": {
             "Def": "4",
@@ -2461,7 +2461,7 @@ const badges=[
         "mon": "Geodude",
         "ico": "t_SupportMedal_Icon_0074_3_f60942cf953add03.png",
         "type": [
-            "t_Badge_fetter_icon_orange.png"
+            "t_Badge_fetter_icon_orange.png",
         ],
         "stat": {
             "Def": "5",
@@ -2472,7 +2472,7 @@ const badges=[
         "mon": "Graveler",
         "ico": "t_SupportMedal_Icon_0075_1_0a6d565469da6aab.png",
         "type": [
-            "t_Badge_fetter_icon_orange.png"
+            "t_Badge_fetter_icon_orange.png",
         ],
         "stat": {
             "Def": "3",
@@ -2483,7 +2483,7 @@ const badges=[
         "mon": "Graveler",
         "ico": "t_SupportMedal_Icon_0075_2_127e3ff9bf276282.png",
         "type": [
-            "t_Badge_fetter_icon_orange.png"
+            "t_Badge_fetter_icon_orange.png",
         ],
         "stat": {
             "Def": "4",
@@ -2494,7 +2494,7 @@ const badges=[
         "mon": "Graveler",
         "ico": "t_SupportMedal_Icon_0075_3_a215dfabdb666c00.png",
         "type": [
-            "t_Badge_fetter_icon_orange.png"
+            "t_Badge_fetter_icon_orange.png",
         ],
         "stat": {
             "Def": "5",
@@ -2505,7 +2505,7 @@ const badges=[
         "mon": "Golem",
         "ico": "t_SupportMedal_Icon_0076_1_3a242d23e3b319d4.png",
         "type": [
-            "t_Badge_fetter_icon_orange.png"
+            "t_Badge_fetter_icon_orange.png",
         ],
         "stat": {
             "Def": "3",
@@ -2516,7 +2516,7 @@ const badges=[
         "mon": "Golem",
         "ico": "t_SupportMedal_Icon_0076_2_d1eab15e3f7a0a6a.png",
         "type": [
-            "t_Badge_fetter_icon_orange.png"
+            "t_Badge_fetter_icon_orange.png",
         ],
         "stat": {
             "Def": "4",
@@ -2527,7 +2527,7 @@ const badges=[
         "mon": "Golem",
         "ico": "t_SupportMedal_Icon_0076_3_b0da975c748cb012.png",
         "type": [
-            "t_Badge_fetter_icon_orange.png"
+            "t_Badge_fetter_icon_orange.png",
         ],
         "stat": {
             "Def": "5",
@@ -2538,7 +2538,7 @@ const badges=[
         "mon": "Ponyta",
         "ico": "t_SupportMedal_Icon_0077_1_faeded7cfc6fa9da.png",
         "type": [
-            "t_Badge_fetter_icon_red.png"
+            "t_Badge_fetter_icon_red.png",
         ],
         "stat": {
             "HP": "-30",
@@ -2549,7 +2549,7 @@ const badges=[
         "mon": "Ponyta",
         "ico": "t_SupportMedal_Icon_0077_2_0c0bf4de3eb189d8.png",
         "type": [
-            "t_Badge_fetter_icon_red.png"
+            "t_Badge_fetter_icon_red.png",
         ],
         "stat": {
             "HP": "-40",
@@ -2560,7 +2560,7 @@ const badges=[
         "mon": "Ponyta",
         "ico": "t_SupportMedal_Icon_0077_3_10f407513b46a21e.png",
         "type": [
-            "t_Badge_fetter_icon_red.png"
+            "t_Badge_fetter_icon_red.png",
         ],
         "stat": {
             "HP": "-50",
@@ -2571,7 +2571,7 @@ const badges=[
         "mon": "Rapidash",
         "ico": "t_SupportMedal_Icon_0078_1_e96ff4773b1d4169.png",
         "type": [
-            "t_Badge_fetter_icon_red.png"
+            "t_Badge_fetter_icon_red.png",
         ],
         "stat": {
             "Atk": "1.2",
@@ -2582,7 +2582,7 @@ const badges=[
         "mon": "Rapidash",
         "ico": "t_SupportMedal_Icon_0078_2_cc05a5f72997cac9.png",
         "type": [
-            "t_Badge_fetter_icon_red.png"
+            "t_Badge_fetter_icon_red.png",
         ],
         "stat": {
             "Atk": "1.6",
@@ -2593,7 +2593,7 @@ const badges=[
         "mon": "Rapidash",
         "ico": "t_SupportMedal_Icon_0078_3_a74f8bc3d61d255e.png",
         "type": [
-            "t_Badge_fetter_icon_red.png"
+            "t_Badge_fetter_icon_red.png",
         ],
         "stat": {
             "Atk": "2",
@@ -2604,7 +2604,7 @@ const badges=[
         "mon": "Slowpoke",
         "ico": "t_SupportMedal_Icon_0079_1_a70f1cca65d6fa3a.png",
         "type": [
-            "t_Badge_fetter_icon_blue.png"
+            "t_Badge_fetter_icon_blue.png",
         ],
         "stat": {
             "Def": "3",
@@ -2615,7 +2615,7 @@ const badges=[
         "mon": "Slowpoke",
         "ico": "t_SupportMedal_Icon_0079_2_bec53d65e50b83d9.png",
         "type": [
-            "t_Badge_fetter_icon_blue.png"
+            "t_Badge_fetter_icon_blue.png",
         ],
         "stat": {
             "Def": "4",
@@ -2626,7 +2626,7 @@ const badges=[
         "mon": "Slowpoke",
         "ico": "t_SupportMedal_Icon_0079_3_bcbcfc36fc567d03.png",
         "type": [
-            "t_Badge_fetter_icon_blue.png"
+            "t_Badge_fetter_icon_blue.png",
         ],
         "stat": {
             "Def": "5",
@@ -2673,7 +2673,7 @@ const badges=[
         "mon": "Magnemite",
         "ico": "t_SupportMedal_Icon_0081_1_121d76e39fbe58f4.png",
         "type": [
-            "t_Badge_fetter_icon_yellow.png"
+            "t_Badge_fetter_icon_yellow.png",
         ],
         "stat": {
             "HP": "-30",
@@ -2684,7 +2684,7 @@ const badges=[
         "mon": "Magnemite",
         "ico": "t_SupportMedal_Icon_0081_2_f3b43f17b3ded64c.png",
         "type": [
-            "t_Badge_fetter_icon_yellow.png"
+            "t_Badge_fetter_icon_yellow.png",
         ],
         "stat": {
             "HP": "-40",
@@ -2695,7 +2695,7 @@ const badges=[
         "mon": "Magnemite",
         "ico": "t_SupportMedal_Icon_0081_3_49b6f54a327e0bf1.png",
         "type": [
-            "t_Badge_fetter_icon_yellow.png"
+            "t_Badge_fetter_icon_yellow.png",
         ],
         "stat": {
             "HP": "-50",
@@ -2706,7 +2706,7 @@ const badges=[
         "mon": "Magneton",
         "ico": "t_SupportMedal_Icon_0082_1_3de9db876c6f9707.png",
         "type": [
-            "t_Badge_fetter_icon_yellow.png"
+            "t_Badge_fetter_icon_yellow.png",
         ],
         "stat": {
             "Atk": "-1.2",
@@ -2717,7 +2717,7 @@ const badges=[
         "mon": "Magneton",
         "ico": "t_SupportMedal_Icon_0082_2_82b03c72b613ec98.png",
         "type": [
-            "t_Badge_fetter_icon_yellow.png"
+            "t_Badge_fetter_icon_yellow.png",
         ],
         "stat": {
             "Atk": "-1.6",
@@ -2728,7 +2728,7 @@ const badges=[
         "mon": "Magneton",
         "ico": "t_SupportMedal_Icon_0082_3_8adb2575823b93ad.png",
         "type": [
-            "t_Badge_fetter_icon_yellow.png"
+            "t_Badge_fetter_icon_yellow.png",
         ],
         "stat": {
             "Atk": "-2",
@@ -2739,7 +2739,7 @@ const badges=[
         "mon": "Farfetch'd",
         "ico": "t_SupportMedal_Icon_0083_1_09f5f3a56d92f32a.png",
         "type": [
-            "t_Badge_fetter_icon_white.png"
+            "t_Badge_fetter_icon_white.png",
         ],
         "stat": {
             "HP": "-30",
@@ -2750,7 +2750,7 @@ const badges=[
         "mon": "Farfetch'd",
         "ico": "t_SupportMedal_Icon_0083_2_f4806534471b2423.png",
         "type": [
-            "t_Badge_fetter_icon_white.png"
+            "t_Badge_fetter_icon_white.png",
         ],
         "stat": {
             "HP": "-40",
@@ -2761,7 +2761,7 @@ const badges=[
         "mon": "Farfetch'd",
         "ico": "t_SupportMedal_Icon_0083_3_7493d1b94adcb40c.png",
         "type": [
-            "t_Badge_fetter_icon_white.png"
+            "t_Badge_fetter_icon_white.png",
         ],
         "stat": {
             "HP": "-50",
@@ -2772,7 +2772,7 @@ const badges=[
         "mon": "Doduo",
         "ico": "t_SupportMedal_Icon_0084_1_6f8fbb3627320ea4.png",
         "type": [
-            "t_Badge_fetter_icon_white.png"
+            "t_Badge_fetter_icon_white.png",
         ],
         "stat": {
             "HP": "-30",
@@ -2783,7 +2783,7 @@ const badges=[
         "mon": "Doduo",
         "ico": "t_SupportMedal_Icon_0084_2_6ccd43c31b0a392b.png",
         "type": [
-            "t_Badge_fetter_icon_white.png"
+            "t_Badge_fetter_icon_white.png",
         ],
         "stat": {
             "HP": "-40",
@@ -2794,7 +2794,7 @@ const badges=[
         "mon": "Doduo",
         "ico": "t_SupportMedal_Icon_0084_3_74b25bb63678afc7.png",
         "type": [
-            "t_Badge_fetter_icon_white.png"
+            "t_Badge_fetter_icon_white.png",
         ],
         "stat": {
             "HP": "-50",
@@ -2805,7 +2805,7 @@ const badges=[
         "mon": "Dodrio",
         "ico": "t_SupportMedal_Icon_0085_1_976ab4fccdbabda1.png",
         "type": [
-            "t_Badge_fetter_icon_white.png"
+            "t_Badge_fetter_icon_white.png",
         ],
         "stat": {
             "HP": "-30",
@@ -2816,7 +2816,7 @@ const badges=[
         "mon": "Dodrio",
         "ico": "t_SupportMedal_Icon_0085_2_f970518ff16e9837.png",
         "type": [
-            "t_Badge_fetter_icon_white.png"
+            "t_Badge_fetter_icon_white.png",
         ],
         "stat": {
             "HP": "-40",
@@ -2827,7 +2827,7 @@ const badges=[
         "mon": "Dodrio",
         "ico": "t_SupportMedal_Icon_0085_3_4d4965fe5ee53774.png",
         "type": [
-            "t_Badge_fetter_icon_white.png"
+            "t_Badge_fetter_icon_white.png",
         ],
         "stat": {
             "HP": "-50",
@@ -2838,7 +2838,7 @@ const badges=[
         "mon": "Seel",
         "ico": "t_SupportMedal_Icon_0086_1_623f1526aa897747.png",
         "type": [
-            "t_Badge_fetter_icon_blue.png"
+            "t_Badge_fetter_icon_blue.png",
         ],
         "stat": {
             "HP": "30",
@@ -2849,7 +2849,7 @@ const badges=[
         "mon": "Seel",
         "ico": "t_SupportMedal_Icon_0086_2_3e57d72907f1e0af.png",
         "type": [
-            "t_Badge_fetter_icon_blue.png"
+            "t_Badge_fetter_icon_blue.png",
         ],
         "stat": {
             "HP": "40",
@@ -2860,7 +2860,7 @@ const badges=[
         "mon": "Seel",
         "ico": "t_SupportMedal_Icon_0086_3_44ccbe5564e02e6b.png",
         "type": [
-            "t_Badge_fetter_icon_blue.png"
+            "t_Badge_fetter_icon_blue.png",
         ],
         "stat": {
             "HP": "50",
@@ -2871,7 +2871,7 @@ const badges=[
         "mon": "Dewgong",
         "ico": "t_SupportMedal_Icon_0087_1_2105296dbed21db0.png",
         "type": [
-            "t_Badge_fetter_icon_blue.png"
+            "t_Badge_fetter_icon_blue.png",
         ],
         "stat": {
             "HP": "30",
@@ -2882,7 +2882,7 @@ const badges=[
         "mon": "Dewgong",
         "ico": "t_SupportMedal_Icon_0087_2_8a8ebe915d0edf7b.png",
         "type": [
-            "t_Badge_fetter_icon_blue.png"
+            "t_Badge_fetter_icon_blue.png",
         ],
         "stat": {
             "HP": "40",
@@ -2893,7 +2893,7 @@ const badges=[
         "mon": "Dewgong",
         "ico": "t_SupportMedal_Icon_0087_3_42962b871388e2e5.png",
         "type": [
-            "t_Badge_fetter_icon_blue.png"
+            "t_Badge_fetter_icon_blue.png",
         ],
         "stat": {
             "HP": "50",
@@ -2904,7 +2904,7 @@ const badges=[
         "mon": "Grimer",
         "ico": "t_SupportMedal_Icon_0088_1_c9f9104887192c6b.png",
         "type": [
-            "t_Badge_fetter_icon_black.png"
+            "t_Badge_fetter_icon_black.png",
         ],
         "stat": {
             "HP": "30",
@@ -2915,7 +2915,7 @@ const badges=[
         "mon": "Grimer",
         "ico": "t_SupportMedal_Icon_0088_2_8dd2c5c349e1d312.png",
         "type": [
-            "t_Badge_fetter_icon_black.png"
+            "t_Badge_fetter_icon_black.png",
         ],
         "stat": {
             "HP": "40",
@@ -2926,7 +2926,7 @@ const badges=[
         "mon": "Grimer",
         "ico": "t_SupportMedal_Icon_0088_3_6341f680014ac2a4.png",
         "type": [
-            "t_Badge_fetter_icon_black.png"
+            "t_Badge_fetter_icon_black.png",
         ],
         "stat": {
             "HP": "50",
@@ -2937,7 +2937,7 @@ const badges=[
         "mon": "Muk",
         "ico": "t_SupportMedal_Icon_0089_1_86557ed320c6cf37.png",
         "type": [
-            "t_Badge_fetter_icon_black.png"
+            "t_Badge_fetter_icon_black.png",
         ],
         "stat": {
             "HP": "30",
@@ -2948,7 +2948,7 @@ const badges=[
         "mon": "Muk",
         "ico": "t_SupportMedal_Icon_0089_2_aba8f8bae1948aa9.png",
         "type": [
-            "t_Badge_fetter_icon_black.png"
+            "t_Badge_fetter_icon_black.png",
         ],
         "stat": {
             "HP": "40",
@@ -2959,7 +2959,7 @@ const badges=[
         "mon": "Muk",
         "ico": "t_SupportMedal_Icon_0089_3_c2184e452040131c.png",
         "type": [
-            "t_Badge_fetter_icon_black.png"
+            "t_Badge_fetter_icon_black.png",
         ],
         "stat": {
             "HP": "50",
@@ -2970,7 +2970,7 @@ const badges=[
         "mon": "Shellder",
         "ico": "t_SupportMedal_Icon_0090_1_195c2ec13d902c50.png",
         "type": [
-            "t_Badge_fetter_icon_blue.png"
+            "t_Badge_fetter_icon_blue.png",
         ],
         "stat": {
             "HP": "-30",
@@ -2981,7 +2981,7 @@ const badges=[
         "mon": "Shellder",
         "ico": "t_SupportMedal_Icon_0090_2_85f2613dbd7591b6.png",
         "type": [
-            "t_Badge_fetter_icon_blue.png"
+            "t_Badge_fetter_icon_blue.png",
         ],
         "stat": {
             "HP": "-40",
@@ -2992,7 +2992,7 @@ const badges=[
         "mon": "Shellder",
         "ico": "t_SupportMedal_Icon_0090_3_9d8ab7515a237c40.png",
         "type": [
-            "t_Badge_fetter_icon_blue.png"
+            "t_Badge_fetter_icon_blue.png",
         ],
         "stat": {
             "HP": "-50",
@@ -3003,7 +3003,7 @@ const badges=[
         "mon": "Cloyster",
         "ico": "t_SupportMedal_Icon_0091_1_62464d0d5fb85752.png",
         "type": [
-            "t_Badge_fetter_icon_blue.png"
+            "t_Badge_fetter_icon_blue.png",
         ],
         "stat": {
             "Def": "3",
@@ -3014,7 +3014,7 @@ const badges=[
         "mon": "Cloyster",
         "ico": "t_SupportMedal_Icon_0091_2_1bf1664300ef0a4e.png",
         "type": [
-            "t_Badge_fetter_icon_blue.png"
+            "t_Badge_fetter_icon_blue.png",
         ],
         "stat": {
             "Def": "4",
@@ -3025,7 +3025,7 @@ const badges=[
         "mon": "Cloyster",
         "ico": "t_SupportMedal_Icon_0091_3_7d21912730ed1949.png",
         "type": [
-            "t_Badge_fetter_icon_blue.png"
+            "t_Badge_fetter_icon_blue.png",
         ],
         "stat": {
             "Def": "5",
@@ -3036,7 +3036,7 @@ const badges=[
         "mon": "Gastly",
         "ico": "t_SupportMedal_Icon_0092_1_17e548e0e57d9a8a.png",
         "type": [
-            "t_Badge_fetter_icon_purple.png"
+            "t_Badge_fetter_icon_purple.png",
         ],
         "stat": {
             "HP": "-30",
@@ -3047,7 +3047,7 @@ const badges=[
         "mon": "Gastly",
         "ico": "t_SupportMedal_Icon_0092_2_511ef8531b838d12.png",
         "type": [
-            "t_Badge_fetter_icon_purple.png"
+            "t_Badge_fetter_icon_purple.png",
         ],
         "stat": {
             "HP": "-40",
@@ -3058,7 +3058,7 @@ const badges=[
         "mon": "Gastly",
         "ico": "t_SupportMedal_Icon_0092_3_e704276664591beb.png",
         "type": [
-            "t_Badge_fetter_icon_purple.png"
+            "t_Badge_fetter_icon_purple.png",
         ],
         "stat": {
             "HP": "-50",
@@ -3069,7 +3069,7 @@ const badges=[
         "mon": "Haunter",
         "ico": "t_SupportMedal_Icon_0093_1_76ad99a7347a031a.png",
         "type": [
-            "t_Badge_fetter_icon_purple.png"
+            "t_Badge_fetter_icon_purple.png",
         ],
         "stat": {
             "Def": "-3",
@@ -3080,7 +3080,7 @@ const badges=[
         "mon": "Haunter",
         "ico": "t_SupportMedal_Icon_0093_2_0a410bd173eb87a1.png",
         "type": [
-            "t_Badge_fetter_icon_purple.png"
+            "t_Badge_fetter_icon_purple.png",
         ],
         "stat": {
             "Def": "-4",
@@ -3091,7 +3091,7 @@ const badges=[
         "mon": "Haunter",
         "ico": "t_SupportMedal_Icon_0093_3_8a593348d5f19f42.png",
         "type": [
-            "t_Badge_fetter_icon_purple.png"
+            "t_Badge_fetter_icon_purple.png",
         ],
         "stat": {
             "Def": "-5",
@@ -3138,7 +3138,7 @@ const badges=[
         "mon": "Onix",
         "ico": "t_SupportMedal_Icon_0095_1_48ffb9bfe0b87aa1.png",
         "type": [
-            "t_Badge_fetter_icon_orange.png"
+            "t_Badge_fetter_icon_orange.png",
         ],
         "stat": {
             "HP": "-30",
@@ -3149,7 +3149,7 @@ const badges=[
         "mon": "Onix",
         "ico": "t_SupportMedal_Icon_0095_2_3038a03bcc7c5d58.png",
         "type": [
-            "t_Badge_fetter_icon_orange.png"
+            "t_Badge_fetter_icon_orange.png",
         ],
         "stat": {
             "HP": "-40",
@@ -3160,7 +3160,7 @@ const badges=[
         "mon": "Onix",
         "ico": "t_SupportMedal_Icon_0095_3_c2d28f1d773e9a45.png",
         "type": [
-            "t_Badge_fetter_icon_orange.png"
+            "t_Badge_fetter_icon_orange.png",
         ],
         "stat": {
             "HP": "-50",
@@ -3171,7 +3171,7 @@ const badges=[
         "mon": "Drowzee",
         "ico": "t_SupportMedal_Icon_0096_1_b5d33b396d0f8da9.png",
         "type": [
-            "t_Badge_fetter_icon_purple.png"
+            "t_Badge_fetter_icon_purple.png",
         ],
         "stat": {
             "Sp. Def": "3",
@@ -3182,7 +3182,7 @@ const badges=[
         "mon": "Drowzee",
         "ico": "t_SupportMedal_Icon_0096_2_b9b833b5adb1db18.png",
         "type": [
-            "t_Badge_fetter_icon_purple.png"
+            "t_Badge_fetter_icon_purple.png",
         ],
         "stat": {
             "Sp. Def": "4",
@@ -3193,7 +3193,7 @@ const badges=[
         "mon": "Drowzee",
         "ico": "t_SupportMedal_Icon_0096_3_fb0d810357ca9632.png",
         "type": [
-            "t_Badge_fetter_icon_purple.png"
+            "t_Badge_fetter_icon_purple.png",
         ],
         "stat": {
             "Sp. Def": "5",
@@ -3204,7 +3204,7 @@ const badges=[
         "mon": "Hypno",
         "ico": "t_SupportMedal_Icon_0097_1_86f9db94fa9f6784.png",
         "type": [
-            "t_Badge_fetter_icon_purple.png"
+            "t_Badge_fetter_icon_purple.png",
         ],
         "stat": {
             "Sp. Def": "3",
@@ -3215,7 +3215,7 @@ const badges=[
         "mon": "Hypno",
         "ico": "t_SupportMedal_Icon_0097_2_43382bfb5d07f23d.png",
         "type": [
-            "t_Badge_fetter_icon_purple.png"
+            "t_Badge_fetter_icon_purple.png",
         ],
         "stat": {
             "Sp. Def": "4",
@@ -3226,7 +3226,7 @@ const badges=[
         "mon": "Hypno",
         "ico": "t_SupportMedal_Icon_0097_3_e3c9bff7573a6271.png",
         "type": [
-            "t_Badge_fetter_icon_purple.png"
+            "t_Badge_fetter_icon_purple.png",
         ],
         "stat": {
             "Sp. Def": "5",
@@ -3237,7 +3237,7 @@ const badges=[
         "mon": "Krabby",
         "ico": "t_SupportMedal_Icon_0098_1_4ce07982c27eac87.png",
         "type": [
-            "t_Badge_fetter_icon_blue.png"
+            "t_Badge_fetter_icon_blue.png",
         ],
         "stat": {
             "HP": "-30",
@@ -3248,7 +3248,7 @@ const badges=[
         "mon": "Krabby",
         "ico": "t_SupportMedal_Icon_0098_2_76e09677e0789df4.png",
         "type": [
-            "t_Badge_fetter_icon_blue.png"
+            "t_Badge_fetter_icon_blue.png",
         ],
         "stat": {
             "HP": "-40",
@@ -3259,7 +3259,7 @@ const badges=[
         "mon": "Krabby",
         "ico": "t_SupportMedal_Icon_0098_3_737c331382d49c41.png",
         "type": [
-            "t_Badge_fetter_icon_blue.png"
+            "t_Badge_fetter_icon_blue.png",
         ],
         "stat": {
             "HP": "-50",
@@ -3270,7 +3270,7 @@ const badges=[
         "mon": "Kingler",
         "ico": "t_SupportMedal_Icon_0099_1_413097f326a58043.png",
         "type": [
-            "t_Badge_fetter_icon_blue.png"
+            "t_Badge_fetter_icon_blue.png",
         ],
         "stat": {
             "Atk": "1.2",
@@ -3281,7 +3281,7 @@ const badges=[
         "mon": "Kingler",
         "ico": "t_SupportMedal_Icon_0099_2_504e505373124674.png",
         "type": [
-            "t_Badge_fetter_icon_blue.png"
+            "t_Badge_fetter_icon_blue.png",
         ],
         "stat": {
             "Atk": "1.6",
@@ -3292,7 +3292,7 @@ const badges=[
         "mon": "Kingler",
         "ico": "t_SupportMedal_Icon_0099_3_7d163e685dcf1647.png",
         "type": [
-            "t_Badge_fetter_icon_blue.png"
+            "t_Badge_fetter_icon_blue.png",
         ],
         "stat": {
             "Atk": "2",
@@ -3303,7 +3303,7 @@ const badges=[
         "mon": "Voltorb",
         "ico": "t_SupportMedal_Icon_00100_1_7c5d56059ec2f2c4.png",
         "type": [
-            "t_Badge_fetter_icon_yellow.png"
+            "t_Badge_fetter_icon_yellow.png",
         ],
         "stat": {
             "HP": "-30",
@@ -3314,7 +3314,7 @@ const badges=[
         "mon": "Voltorb",
         "ico": "t_SupportMedal_Icon_00100_2_f861ea5ba881aa50.png",
         "type": [
-            "t_Badge_fetter_icon_yellow.png"
+            "t_Badge_fetter_icon_yellow.png",
         ],
         "stat": {
             "HP": "-40",
@@ -3325,7 +3325,7 @@ const badges=[
         "mon": "Voltorb",
         "ico": "t_SupportMedal_Icon_00100_3_e09f63fc997c5256.png",
         "type": [
-            "t_Badge_fetter_icon_yellow.png"
+            "t_Badge_fetter_icon_yellow.png",
         ],
         "stat": {
             "HP": "-50",
@@ -3336,7 +3336,7 @@ const badges=[
         "mon": "Electrode",
         "ico": "t_SupportMedal_Icon_0101_1_7b6d7f33980f65ed.png",
         "type": [
-            "t_Badge_fetter_icon_yellow.png"
+            "t_Badge_fetter_icon_yellow.png",
         ],
         "stat": {
             "Atk": "-1.2",
@@ -3347,7 +3347,7 @@ const badges=[
         "mon": "Electrode",
         "ico": "t_SupportMedal_Icon_0101_2_faa0768221f6dba8.png",
         "type": [
-            "t_Badge_fetter_icon_yellow.png"
+            "t_Badge_fetter_icon_yellow.png",
         ],
         "stat": {
             "Atk": "-1.6",
@@ -3358,7 +3358,7 @@ const badges=[
         "mon": "Electrode",
         "ico": "t_SupportMedal_Icon_0101_3_3c4db5449dc84e5a.png",
         "type": [
-            "t_Badge_fetter_icon_yellow.png"
+            "t_Badge_fetter_icon_yellow.png",
         ],
         "stat": {
             "Atk": "-2",
@@ -3369,7 +3369,7 @@ const badges=[
         "mon": "Exeggcute",
         "ico": "t_SupportMedal_Icon_0102_1_555d197e6870c50d.png",
         "type": [
-            "t_Badge_fetter_icon_green.png"
+            "t_Badge_fetter_icon_green.png",
         ],
         "stat": {
             "Sp. Atk": "1.8",
@@ -3380,7 +3380,7 @@ const badges=[
         "mon": "Exeggcute",
         "ico": "t_SupportMedal_Icon_0102_2_9b09dfbe91a111db.png",
         "type": [
-            "t_Badge_fetter_icon_green.png"
+            "t_Badge_fetter_icon_green.png",
         ],
         "stat": {
             "Sp. Atk": "2.4",
@@ -3391,7 +3391,7 @@ const badges=[
         "mon": "Exeggcute",
         "ico": "t_SupportMedal_Icon_0102_3_c475133f25784e51.png",
         "type": [
-            "t_Badge_fetter_icon_green.png"
+            "t_Badge_fetter_icon_green.png",
         ],
         "stat": {
             "Sp. Atk": "3",
@@ -3438,7 +3438,7 @@ const badges=[
         "mon": "Cubone",
         "ico": "t_SupportMedal_Icon_0104_1_333246b0e5e44c7d.png",
         "type": [
-            "t_Badge_fetter_icon_orange.png"
+            "t_Badge_fetter_icon_orange.png",
         ],
         "stat": {
             "HP": "-30",
@@ -3449,7 +3449,7 @@ const badges=[
         "mon": "Cubone",
         "ico": "t_SupportMedal_Icon_0104_2_aa369b8932ef05b7.png",
         "type": [
-            "t_Badge_fetter_icon_orange.png"
+            "t_Badge_fetter_icon_orange.png",
         ],
         "stat": {
             "HP": "-40",
@@ -3460,7 +3460,7 @@ const badges=[
         "mon": "Cubone",
         "ico": "t_SupportMedal_Icon_0104_3_ffb1d8effc04a7b4.png",
         "type": [
-            "t_Badge_fetter_icon_orange.png"
+            "t_Badge_fetter_icon_orange.png",
         ],
         "stat": {
             "HP": "-50",
@@ -3471,7 +3471,7 @@ const badges=[
         "mon": "Marowak",
         "ico": "t_SupportMedal_Icon_0105_1_41f15586af324479.png",
         "type": [
-            "t_Badge_fetter_icon_orange.png"
+            "t_Badge_fetter_icon_orange.png",
         ],
         "stat": {
             "Atk": "1.2",
@@ -3482,7 +3482,7 @@ const badges=[
         "mon": "Marowak",
         "ico": "t_SupportMedal_Icon_0105_2_4ca2fe51f1ec043b.png",
         "type": [
-            "t_Badge_fetter_icon_orange.png"
+            "t_Badge_fetter_icon_orange.png",
         ],
         "stat": {
             "Atk": "1.6",
@@ -3493,7 +3493,7 @@ const badges=[
         "mon": "Marowak",
         "ico": "t_SupportMedal_Icon_0105_3_fc37f6c9a7cd998e.png",
         "type": [
-            "t_Badge_fetter_icon_orange.png"
+            "t_Badge_fetter_icon_orange.png",
         ],
         "stat": {
             "Atk": "2",
@@ -3504,7 +3504,7 @@ const badges=[
         "mon": "Hitmonlee",
         "ico": "t_SupportMedal_Icon_0106_1_0d37b5ac2e130d54.png",
         "type": [
-            "t_Badge_fetter_icon_orange.png"
+            "t_Badge_fetter_icon_orange.png",
         ],
         "stat": {
             "Sp. Atk": "-1.8",
@@ -3515,7 +3515,7 @@ const badges=[
         "mon": "Hitmonlee",
         "ico": "t_SupportMedal_Icon_0106_2_01_0c46780015379835.png",
         "type": [
-            "t_Badge_fetter_icon_orange.png"
+            "t_Badge_fetter_icon_orange.png",
         ],
         "stat": {
             "Sp. Atk": "-2.4",
@@ -3526,7 +3526,7 @@ const badges=[
         "mon": "Hitmonlee",
         "ico": "t_SupportMedal_Icon_0106_3_f0b3ea61aa38981c.png",
         "type": [
-            "t_Badge_fetter_icon_orange.png"
+            "t_Badge_fetter_icon_orange.png",
         ],
         "stat": {
             "Sp. Atk": "-3",
@@ -3537,7 +3537,7 @@ const badges=[
         "mon": "Hitmonchan",
         "ico": "t_SupportMedal_Icon_0107_1_9157b8b581902add.png",
         "type": [
-            "t_Badge_fetter_icon_orange.png"
+            "t_Badge_fetter_icon_orange.png",
         ],
         "stat": {
             "Sp. Atk": "-1.8",
@@ -3548,7 +3548,7 @@ const badges=[
         "mon": "Hitmonchan",
         "ico": "t_SupportMedal_Icon_0107_2_52164a759955db48.png",
         "type": [
-            "t_Badge_fetter_icon_orange.png"
+            "t_Badge_fetter_icon_orange.png",
         ],
         "stat": {
             "Sp. Atk": "-2.4",
@@ -3559,7 +3559,7 @@ const badges=[
         "mon": "Hitmonchan",
         "ico": "t_SupportMedal_Icon_0107_3_c2f005d955ac9180.png",
         "type": [
-            "t_Badge_fetter_icon_orange.png"
+            "t_Badge_fetter_icon_orange.png",
         ],
         "stat": {
             "Sp. Atk": "-3",
@@ -3570,7 +3570,7 @@ const badges=[
         "mon": "Lickitung",
         "ico": "t_SupportMedal_Icon_0108_1_c4faaa7105df28fa.png",
         "type": [
-            "t_Badge_fetter_icon_white.png"
+            "t_Badge_fetter_icon_white.png",
         ],
         "stat": {
             "Def": "3",
@@ -3581,7 +3581,7 @@ const badges=[
         "mon": "Lickitung",
         "ico": "t_SupportMedal_Icon_0108_2_092ed11857bdc28b.png",
         "type": [
-            "t_Badge_fetter_icon_white.png"
+            "t_Badge_fetter_icon_white.png",
         ],
         "stat": {
             "Def": "4",
@@ -3592,7 +3592,7 @@ const badges=[
         "mon": "Lickitung",
         "ico": "t_SupportMedal_Icon_0108_3_c55fe2552f76be9d.png",
         "type": [
-            "t_Badge_fetter_icon_white.png"
+            "t_Badge_fetter_icon_white.png",
         ],
         "stat": {
             "Def": "5",
@@ -3603,7 +3603,7 @@ const badges=[
         "mon": "Koffing",
         "ico": "t_SupportMedal_Icon_0109_1_83c560d76a8cd361.png",
         "type": [
-            "t_Badge_fetter_icon_purple.png"
+            "t_Badge_fetter_icon_purple.png",
         ],
         "stat": {
             "HP": "-30",
@@ -3614,7 +3614,7 @@ const badges=[
         "mon": "Koffing",
         "ico": "t_SupportMedal_Icon_0109_2_e58c7899b309b5ce.png",
         "type": [
-            "t_Badge_fetter_icon_purple.png"
+            "t_Badge_fetter_icon_purple.png",
         ],
         "stat": {
             "HP": "-40",
@@ -3625,7 +3625,7 @@ const badges=[
         "mon": "Koffing",
         "ico": "t_SupportMedal_Icon_0109_3_284069db551e5767.png",
         "type": [
-            "t_Badge_fetter_icon_purple.png"
+            "t_Badge_fetter_icon_purple.png",
         ],
         "stat": {
             "HP": "-50",
@@ -3636,7 +3636,7 @@ const badges=[
         "mon": "Weezing",
         "ico": "t_SupportMedal_Icon_0110_1_b44ab5b311502a47.png",
         "type": [
-            "t_Badge_fetter_icon_purple.png"
+            "t_Badge_fetter_icon_purple.png",
         ],
         "stat": {
             "Def": "3",
@@ -3647,7 +3647,7 @@ const badges=[
         "mon": "Weezing",
         "ico": "t_SupportMedal_Icon_0110_2_96d857d8f8618125.png",
         "type": [
-            "t_Badge_fetter_icon_purple.png"
+            "t_Badge_fetter_icon_purple.png",
         ],
         "stat": {
             "Def": "4",
@@ -3658,7 +3658,7 @@ const badges=[
         "mon": "Weezing",
         "ico": "t_SupportMedal_Icon_0110_3_b3d2eca4d2f37963.png",
         "type": [
-            "t_Badge_fetter_icon_purple.png"
+            "t_Badge_fetter_icon_purple.png",
         ],
         "stat": {
             "Def": "5",
@@ -3669,7 +3669,7 @@ const badges=[
         "mon": "Rhyhorn",
         "ico": "t_SupportMedal_Icon_0111_1_1f93d5f2b6e2baaa.png",
         "type": [
-            "t_Badge_fetter_icon_orange.png"
+            "t_Badge_fetter_icon_orange.png",
         ],
         "stat": {
             "HP": "30",
@@ -3680,7 +3680,7 @@ const badges=[
         "mon": "Rhyhorn",
         "ico": "t_SupportMedal_Icon_0111_2_ce155fb6f71131d5.png",
         "type": [
-            "t_Badge_fetter_icon_orange.png"
+            "t_Badge_fetter_icon_orange.png",
         ],
         "stat": {
             "HP": "40",
@@ -3691,7 +3691,7 @@ const badges=[
         "mon": "Rhyhorn",
         "ico": "t_SupportMedal_Icon_0111_3_3236996a7cea8bda.png",
         "type": [
-            "t_Badge_fetter_icon_orange.png"
+            "t_Badge_fetter_icon_orange.png",
         ],
         "stat": {
             "HP": "50",
@@ -3702,7 +3702,7 @@ const badges=[
         "mon": "Rhydon",
         "ico": "t_SupportMedal_Icon_0112_1_e48e8514a86b0702.png",
         "type": [
-            "t_Badge_fetter_icon_orange.png"
+            "t_Badge_fetter_icon_orange.png",
         ],
         "stat": {
             "HP": "30",
@@ -3713,7 +3713,7 @@ const badges=[
         "mon": "Rhydon",
         "ico": "t_SupportMedal_Icon_0112_2_c180b34d65f61c23.png",
         "type": [
-            "t_Badge_fetter_icon_orange.png"
+            "t_Badge_fetter_icon_orange.png",
         ],
         "stat": {
             "HP": "40",
@@ -3724,7 +3724,7 @@ const badges=[
         "mon": "Rhydon",
         "ico": "t_SupportMedal_Icon_0112_3_7add17b4a34785b3.png",
         "type": [
-            "t_Badge_fetter_icon_orange.png"
+            "t_Badge_fetter_icon_orange.png",
         ],
         "stat": {
             "HP": "50",
@@ -3735,7 +3735,7 @@ const badges=[
         "mon": "Chansey",
         "ico": "t_SupportMedal_Icon_0113_1_5dc68bace235c8be.png",
         "type": [
-            "t_Badge_fetter_icon_white.png"
+            "t_Badge_fetter_icon_white.png",
         ],
         "stat": {
             "HP": "30",
@@ -3746,7 +3746,7 @@ const badges=[
         "mon": "Chansey",
         "ico": "t_SupportMedal_Icon_0113_2_93518677de3eac16.png",
         "type": [
-            "t_Badge_fetter_icon_white.png"
+            "t_Badge_fetter_icon_white.png",
         ],
         "stat": {
             "HP": "40",
@@ -3757,7 +3757,7 @@ const badges=[
         "mon": "Chansey",
         "ico": "t_SupportMedal_Icon_0113_3_e56effc37c12b429.png",
         "type": [
-            "t_Badge_fetter_icon_white.png"
+            "t_Badge_fetter_icon_white.png",
         ],
         "stat": {
             "HP": "50",
@@ -3768,7 +3768,7 @@ const badges=[
         "mon": "Tangela",
         "ico": "t_SupportMedal_Icon_0114_1_2d61fb8c22362d88.png",
         "type": [
-            "t_Badge_fetter_icon_green.png"
+            "t_Badge_fetter_icon_green.png",
         ],
         "stat": {
             "Def": "3",
@@ -3779,7 +3779,7 @@ const badges=[
         "mon": "Tangela",
         "ico": "t_SupportMedal_Icon_0114_2_ac53c61c3eabb8f9.png",
         "type": [
-            "t_Badge_fetter_icon_green.png"
+            "t_Badge_fetter_icon_green.png",
         ],
         "stat": {
             "Def": "4",
@@ -3790,7 +3790,7 @@ const badges=[
         "mon": "Tangela",
         "ico": "t_SupportMedal_Icon_0114_3_002421a3cd8ef75c.png",
         "type": [
-            "t_Badge_fetter_icon_green.png"
+            "t_Badge_fetter_icon_green.png",
         ],
         "stat": {
             "Def": "5",
@@ -3801,7 +3801,7 @@ const badges=[
         "mon": "Kangaskhan",
         "ico": "t_SupportMedal_Icon_0115_1_51d49fc73977f205.png",
         "type": [
-            "t_Badge_fetter_icon_white.png"
+            "t_Badge_fetter_icon_white.png",
         ],
         "stat": {
             "HP": "30",
@@ -3812,7 +3812,7 @@ const badges=[
         "mon": "Kangaskhan",
         "ico": "t_SupportMedal_Icon_0115_2_35ecf2cbf6680b0c.png",
         "type": [
-            "t_Badge_fetter_icon_white.png"
+            "t_Badge_fetter_icon_white.png",
         ],
         "stat": {
             "HP": "40",
@@ -3823,7 +3823,7 @@ const badges=[
         "mon": "Kangaskhan",
         "ico": "t_SupportMedal_Icon_0115_3_5f35d6385c9be459.png",
         "type": [
-            "t_Badge_fetter_icon_white.png"
+            "t_Badge_fetter_icon_white.png",
         ],
         "stat": {
             "HP": "50",
@@ -3834,7 +3834,7 @@ const badges=[
         "mon": "Horsea",
         "ico": "t_SupportMedal_Icon_0116_1_0bf79400a094ac77.png",
         "type": [
-            "t_Badge_fetter_icon_blue.png"
+            "t_Badge_fetter_icon_blue.png",
         ],
         "stat": {
             "HP": "-30",
@@ -3845,7 +3845,7 @@ const badges=[
         "mon": "Horsea",
         "ico": "t_SupportMedal_Icon_0116_2_1e1f67e5c8d39731.png",
         "type": [
-            "t_Badge_fetter_icon_blue.png"
+            "t_Badge_fetter_icon_blue.png",
         ],
         "stat": {
             "HP": "-40",
@@ -3856,7 +3856,7 @@ const badges=[
         "mon": "Horsea",
         "ico": "t_SupportMedal_Icon_0116_3_cab4984c399b11ce.png",
         "type": [
-            "t_Badge_fetter_icon_blue.png"
+            "t_Badge_fetter_icon_blue.png",
         ],
         "stat": {
             "HP": "-50",
@@ -3867,7 +3867,7 @@ const badges=[
         "mon": "Seadra",
         "ico": "t_SupportMedal_Icon_0117_1_bca938f3b070e02f.png",
         "type": [
-            "t_Badge_fetter_icon_blue.png"
+            "t_Badge_fetter_icon_blue.png",
         ],
         "stat": {
             "Sp. Atk": "1.8",
@@ -3878,7 +3878,7 @@ const badges=[
         "mon": "Seadra",
         "ico": "t_SupportMedal_Icon_0117_2_64793182f78eb0a9.png",
         "type": [
-            "t_Badge_fetter_icon_blue.png"
+            "t_Badge_fetter_icon_blue.png",
         ],
         "stat": {
             "Sp. Atk": "2.4",
@@ -3889,7 +3889,7 @@ const badges=[
         "mon": "Seadra",
         "ico": "t_SupportMedal_Icon_0117_3_aab423497f2908ff.png",
         "type": [
-            "t_Badge_fetter_icon_blue.png"
+            "t_Badge_fetter_icon_blue.png",
         ],
         "stat": {
             "Sp. Atk": "3",
@@ -3900,7 +3900,7 @@ const badges=[
         "mon": "Goldeen",
         "ico": "t_SupportMedal_Icon_0118_1_1795c5b38246fb42.png",
         "type": [
-            "t_Badge_fetter_icon_blue.png"
+            "t_Badge_fetter_icon_blue.png",
         ],
         "stat": {
             "HP": "30",
@@ -3911,7 +3911,7 @@ const badges=[
         "mon": "Goldeen",
         "ico": "t_SupportMedal_Icon_0118_2_58d41d1a19cd4839.png",
         "type": [
-            "t_Badge_fetter_icon_blue.png"
+            "t_Badge_fetter_icon_blue.png",
         ],
         "stat": {
             "HP": "40",
@@ -3922,7 +3922,7 @@ const badges=[
         "mon": "Goldeen",
         "ico": "t_SupportMedal_Icon_0118_3_7265d1f9828a53f8.png",
         "type": [
-            "t_Badge_fetter_icon_blue.png"
+            "t_Badge_fetter_icon_blue.png",
         ],
         "stat": {
             "HP": "50",
@@ -3933,7 +3933,7 @@ const badges=[
         "mon": "Seaking",
         "ico": "t_SupportMedal_Icon_0119_1_6f47ecce098e01ae.png",
         "type": [
-            "t_Badge_fetter_icon_blue.png"
+            "t_Badge_fetter_icon_blue.png",
         ],
         "stat": {
             "HP": "30",
@@ -3944,7 +3944,7 @@ const badges=[
         "mon": "Seaking",
         "ico": "t_SupportMedal_Icon_0119_2_d9c3acb424e4ced8.png",
         "type": [
-            "t_Badge_fetter_icon_blue.png"
+            "t_Badge_fetter_icon_blue.png",
         ],
         "stat": {
             "HP": "40",
@@ -3955,7 +3955,7 @@ const badges=[
         "mon": "Seaking",
         "ico": "t_SupportMedal_Icon_0119_3_5f8d34c9310ae384.png",
         "type": [
-            "t_Badge_fetter_icon_blue.png"
+            "t_Badge_fetter_icon_blue.png",
         ],
         "stat": {
             "HP": "50",
@@ -3966,7 +3966,7 @@ const badges=[
         "mon": "Staryu",
         "ico": "t_SupportMedal_Icon_0120_1_20e04a0f8ed26437.png",
         "type": [
-            "t_Badge_fetter_icon_blue.png"
+            "t_Badge_fetter_icon_blue.png",
         ],
         "stat": {
             "HP": "-30",
@@ -3977,7 +3977,7 @@ const badges=[
         "mon": "Staryu",
         "ico": "t_SupportMedal_Icon_0120_2_280a2c10a90d6a12.png",
         "type": [
-            "t_Badge_fetter_icon_blue.png"
+            "t_Badge_fetter_icon_blue.png",
         ],
         "stat": {
             "HP": "-40",
@@ -3988,7 +3988,7 @@ const badges=[
         "mon": "Staryu",
         "ico": "t_SupportMedal_Icon_0120_3_71f9f044ecc5027d.png",
         "type": [
-            "t_Badge_fetter_icon_blue.png"
+            "t_Badge_fetter_icon_blue.png",
         ],
         "stat": {
             "HP": "-50",
@@ -4143,7 +4143,7 @@ const badges=[
         "mon": "Electabuzz",
         "ico": "t_SupportMedal_Icon_0125_1_bcbe13330d24f607.png",
         "type": [
-            "t_Badge_fetter_icon_yellow.png"
+            "t_Badge_fetter_icon_yellow.png",
         ],
         "stat": {
             "Atk": "1.2",
@@ -4154,7 +4154,7 @@ const badges=[
         "mon": "Electabuzz",
         "ico": "t_SupportMedal_Icon_0125_2_0e8ecbcdd3cb5b4b.png",
         "type": [
-            "t_Badge_fetter_icon_yellow.png"
+            "t_Badge_fetter_icon_yellow.png",
         ],
         "stat": {
             "Atk": "1.6",
@@ -4165,7 +4165,7 @@ const badges=[
         "mon": "Electabuzz",
         "ico": "t_SupportMedal_Icon_0125_3_1f6c286c2c34062b.png",
         "type": [
-            "t_Badge_fetter_icon_yellow.png"
+            "t_Badge_fetter_icon_yellow.png",
         ],
         "stat": {
             "Atk": "2",
@@ -4176,7 +4176,7 @@ const badges=[
         "mon": "Magmar",
         "ico": "t_SupportMedal_Icon_0126_1_8ad93b0d9ec1b1ba.png",
         "type": [
-            "t_Badge_fetter_icon_red.png"
+            "t_Badge_fetter_icon_red.png",
         ],
         "stat": {
             "HP": "-30",
@@ -4187,7 +4187,7 @@ const badges=[
         "mon": "Magmar",
         "ico": "t_SupportMedal_Icon_0126_2_9ef0bbdd0441f962.png",
         "type": [
-            "t_Badge_fetter_icon_red.png"
+            "t_Badge_fetter_icon_red.png",
         ],
         "stat": {
             "HP": "-40",
@@ -4198,7 +4198,7 @@ const badges=[
         "mon": "Magmar",
         "ico": "t_SupportMedal_Icon_0126_3_eab96b5ee66048cd.png",
         "type": [
-            "t_Badge_fetter_icon_red.png"
+            "t_Badge_fetter_icon_red.png",
         ],
         "stat": {
             "HP": "-50",
@@ -4209,7 +4209,7 @@ const badges=[
         "mon": "Pinsir",
         "ico": "t_SupportMedal_Icon_0127_1_a3106fabe98698a7.png",
         "type": [
-            "t_Badge_fetter_icon_green.png"
+            "t_Badge_fetter_icon_green.png",
         ],
         "stat": {
             "Sp. Def": "-3",
@@ -4220,7 +4220,7 @@ const badges=[
         "mon": "Pinsir",
         "ico": "t_SupportMedal_Icon_0127_2_946ff949e0d2ac5c.png",
         "type": [
-            "t_Badge_fetter_icon_green.png"
+            "t_Badge_fetter_icon_green.png",
         ],
         "stat": {
             "Sp. Def": "-4",
@@ -4231,7 +4231,7 @@ const badges=[
         "mon": "Pinsir",
         "ico": "t_SupportMedal_Icon_0127_3_582ffe6ab944d0ba.png",
         "type": [
-            "t_Badge_fetter_icon_green.png"
+            "t_Badge_fetter_icon_green.png",
         ],
         "stat": {
             "Sp. Def": "-5",
@@ -4242,7 +4242,7 @@ const badges=[
         "mon": "Tauros",
         "ico": "t_SupportMedal_Icon_0128_1_eeb5ebbef3ab6a73.png",
         "type": [
-            "t_Badge_fetter_icon_white.png"
+            "t_Badge_fetter_icon_white.png",
         ],
         "stat": {
             "Atk": "1.2",
@@ -4253,7 +4253,7 @@ const badges=[
         "mon": "Tauros",
         "ico": "t_SupportMedal_Icon_0128_2_b409a3c118f08d40.png",
         "type": [
-            "t_Badge_fetter_icon_white.png"
+            "t_Badge_fetter_icon_white.png",
         ],
         "stat": {
             "Atk": "1.6",
@@ -4264,7 +4264,7 @@ const badges=[
         "mon": "Tauros",
         "ico": "t_SupportMedal_Icon_0128_3_b0ba43fa51a56447.png",
         "type": [
-            "t_Badge_fetter_icon_white.png"
+            "t_Badge_fetter_icon_white.png",
         ],
         "stat": {
             "Atk": "2",
@@ -4275,7 +4275,7 @@ const badges=[
         "mon": "Magikarp",
         "ico": "t_SupportMedal_Icon_0129_1_c308bcf81a4e4325.png",
         "type": [
-            "t_Badge_fetter_icon_blue.png"
+            "t_Badge_fetter_icon_blue.png",
         ],
         "stat": {
             "HP": "-30",
@@ -4286,7 +4286,7 @@ const badges=[
         "mon": "Magikarp",
         "ico": "t_SupportMedal_Icon_0129_2_dab3fb8b999bdc27.png",
         "type": [
-            "t_Badge_fetter_icon_blue.png"
+            "t_Badge_fetter_icon_blue.png",
         ],
         "stat": {
             "HP": "-40",
@@ -4297,7 +4297,7 @@ const badges=[
         "mon": "Magikarp",
         "ico": "t_SupportMedal_Icon_0129_3_4f32c38ef320fe00.png",
         "type": [
-            "t_Badge_fetter_icon_blue.png"
+            "t_Badge_fetter_icon_blue.png",
         ],
         "stat": {
             "HP": "-50",
@@ -4344,7 +4344,7 @@ const badges=[
         "mon": "Lapras",
         "ico": "t_SupportMedal_Icon_0131_1_c22370e92666ece8.png",
         "type": [
-            "t_Badge_fetter_icon_blue.png"
+            "t_Badge_fetter_icon_blue.png",
         ],
         "stat": {
             "HP": "30",
@@ -4355,7 +4355,7 @@ const badges=[
         "mon": "Lapras",
         "ico": "t_SupportMedal_Icon_0131_2_25341928bfcc7c7f.png",
         "type": [
-            "t_Badge_fetter_icon_blue.png"
+            "t_Badge_fetter_icon_blue.png",
         ],
         "stat": {
             "HP": "40",
@@ -4366,7 +4366,7 @@ const badges=[
         "mon": "Lapras",
         "ico": "t_SupportMedal_Icon_0131_3_30df40bb68a36510.png",
         "type": [
-            "t_Badge_fetter_icon_blue.png"
+            "t_Badge_fetter_icon_blue.png",
         ],
         "stat": {
             "HP": "50",
@@ -4377,7 +4377,7 @@ const badges=[
         "mon": "Ditto",
         "ico": "t_SupportMedal_Icon_0132_1_c1fbf49280596d6f.png",
         "type": [
-            "t_Badge_fetter_icon_white.png"
+            "t_Badge_fetter_icon_white.png",
         ],
         "stat": {
         }
@@ -4386,7 +4386,7 @@ const badges=[
         "mon": "Ditto",
         "ico": "t_SupportMedal_Icon_0132_2_6570e022de26cd0d.png",
         "type": [
-            "t_Badge_fetter_icon_white.png"
+            "t_Badge_fetter_icon_white.png",
         ],
         "stat": {
         }
@@ -4395,7 +4395,7 @@ const badges=[
         "mon": "Ditto",
         "ico": "t_SupportMedal_Icon_0132_3_7cdee61f283457a7.png",
         "type": [
-            "t_Badge_fetter_icon_white.png"
+            "t_Badge_fetter_icon_white.png",
         ],
         "stat": {
         }
@@ -4404,7 +4404,7 @@ const badges=[
         "mon": "Eevee",
         "ico": "t_SupportMedal_Icon_0133_1_c5cfc70a7139ebab.png",
         "type": [
-            "t_Badge_fetter_icon_white.png"
+            "t_Badge_fetter_icon_white.png",
         ],
         "stat": {
             "Sp. Atk": "-1.8",
@@ -4415,7 +4415,7 @@ const badges=[
         "mon": "Eevee",
         "ico": "t_SupportMedal_Icon_0133_2_b358b9e87f3b0459.png",
         "type": [
-            "t_Badge_fetter_icon_white.png"
+            "t_Badge_fetter_icon_white.png",
         ],
         "stat": {
             "Sp. Atk": "-2.4",
@@ -4426,7 +4426,7 @@ const badges=[
         "mon": "Eevee",
         "ico": "t_SupportMedal_Icon_0133_3_5aa1ad352b858557.png",
         "type": [
-            "t_Badge_fetter_icon_white.png"
+            "t_Badge_fetter_icon_white.png",
         ],
         "stat": {
             "Sp. Atk": "-3",
@@ -4437,7 +4437,7 @@ const badges=[
         "mon": "Vaporeon",
         "ico": "t_SupportMedal_Icon_0134_1_48eaef75c19aaad0.png",
         "type": [
-            "t_Badge_fetter_icon_blue.png"
+            "t_Badge_fetter_icon_blue.png",
         ],
         "stat": {
             "HP": "30",
@@ -4448,7 +4448,7 @@ const badges=[
         "mon": "Vaporeon",
         "ico": "t_SupportMedal_Icon_0134_2_1736787e4dec5dec.png",
         "type": [
-            "t_Badge_fetter_icon_blue.png"
+            "t_Badge_fetter_icon_blue.png",
         ],
         "stat": {
             "HP": "40",
@@ -4459,7 +4459,7 @@ const badges=[
         "mon": "Vaporeon",
         "ico": "t_SupportMedal_Icon_0134_3_3151401ace2c9b47.png",
         "type": [
-            "t_Badge_fetter_icon_blue.png"
+            "t_Badge_fetter_icon_blue.png",
         ],
         "stat": {
             "HP": "50",
@@ -4470,7 +4470,7 @@ const badges=[
         "mon": "Jolteon",
         "ico": "t_SupportMedal_Icon_0135_1_1c5d6b11da7f31c6.png",
         "type": [
-            "t_Badge_fetter_icon_yellow.png"
+            "t_Badge_fetter_icon_yellow.png",
         ],
         "stat": {
             "HP": "-30",
@@ -4481,7 +4481,7 @@ const badges=[
         "mon": "Jolteon",
         "ico": "t_SupportMedal_Icon_0135_2_1038783fc4404200.png",
         "type": [
-            "t_Badge_fetter_icon_yellow.png"
+            "t_Badge_fetter_icon_yellow.png",
         ],
         "stat": {
             "HP": "-40",
@@ -4492,7 +4492,7 @@ const badges=[
         "mon": "Jolteon",
         "ico": "t_SupportMedal_Icon_0135_3_ec4c7865a45c2b80.png",
         "type": [
-            "t_Badge_fetter_icon_yellow.png"
+            "t_Badge_fetter_icon_yellow.png",
         ],
         "stat": {
             "HP": "-50",
@@ -4503,7 +4503,7 @@ const badges=[
         "mon": "Flareon",
         "ico": "t_SupportMedal_Icon_0136_1_07da721f2a3b5c88.png",
         "type": [
-            "t_Badge_fetter_icon_red.png"
+            "t_Badge_fetter_icon_red.png",
         ],
         "stat": {
             "Atk": "1.2",
@@ -4514,7 +4514,7 @@ const badges=[
         "mon": "Flareon",
         "ico": "t_SupportMedal_Icon_0136_2_3bfb1504ff13001a.png",
         "type": [
-            "t_Badge_fetter_icon_red.png"
+            "t_Badge_fetter_icon_red.png",
         ],
         "stat": {
             "Atk": "1.6",
@@ -4525,7 +4525,7 @@ const badges=[
         "mon": "Flareon",
         "ico": "t_SupportMedal_Icon_0136_3_e2a0a4e0ded9483c.png",
         "type": [
-            "t_Badge_fetter_icon_red.png"
+            "t_Badge_fetter_icon_red.png",
         ],
         "stat": {
             "Atk": "2",
@@ -4536,7 +4536,7 @@ const badges=[
         "mon": "Porygon",
         "ico": "t_SupportMedal_Icon_0137_1_84a3869e6a77d1ac.png",
         "type": [
-            "t_Badge_fetter_icon_white.png"
+            "t_Badge_fetter_icon_white.png",
         ],
         "stat": {
             "Atk": "-1.2",
@@ -4547,7 +4547,7 @@ const badges=[
         "mon": "Porygon",
         "ico": "t_SupportMedal_Icon_0137_2_f6485248b7926d09.png",
         "type": [
-            "t_Badge_fetter_icon_white.png"
+            "t_Badge_fetter_icon_white.png",
         ],
         "stat": {
             "Atk": "-1.6",
@@ -4558,7 +4558,7 @@ const badges=[
         "mon": "Porygon",
         "ico": "t_SupportMedal_Icon_0137_3_8662d3aff0af59df.png",
         "type": [
-            "t_Badge_fetter_icon_white.png"
+            "t_Badge_fetter_icon_white.png",
         ],
         "stat": {
             "Atk": "-2",
@@ -4569,7 +4569,7 @@ const badges=[
         "mon": "Omanyte",
         "ico": "t_SupportMedal_Icon_0138_1_74c13c050bf16430.png",
         "type": [
-            "t_Badge_fetter_icon_orange.png"
+            "t_Badge_fetter_icon_orange.png",
         ],
         "stat": {
             "HP": "-30",
@@ -4580,7 +4580,7 @@ const badges=[
         "mon": "Omanyte",
         "ico": "t_SupportMedal_Icon_0138_2_e39e371f7a315bf1.png",
         "type": [
-            "t_Badge_fetter_icon_orange.png"
+            "t_Badge_fetter_icon_orange.png",
         ],
         "stat": {
             "HP": "-40",
@@ -4591,7 +4591,7 @@ const badges=[
         "mon": "Omanyte",
         "ico": "t_SupportMedal_Icon_0138_3_06d6bb4013d4a83e.png",
         "type": [
-            "t_Badge_fetter_icon_orange.png"
+            "t_Badge_fetter_icon_orange.png",
         ],
         "stat": {
             "HP": "-50",
@@ -4638,7 +4638,7 @@ const badges=[
         "mon": "Kabuto",
         "ico": "t_SupportMedal_Icon_0140_1_6e529db0dbab9ea8.png",
         "type": [
-            "t_Badge_fetter_icon_orange.png"
+            "t_Badge_fetter_icon_orange.png",
         ],
         "stat": {
             "HP": "-30",
@@ -4649,7 +4649,7 @@ const badges=[
         "mon": "Kabuto",
         "ico": "t_SupportMedal_Icon_0140_2_1ce0816a9b7103fb.png",
         "type": [
-            "t_Badge_fetter_icon_orange.png"
+            "t_Badge_fetter_icon_orange.png",
         ],
         "stat": {
             "HP": "-40",
@@ -4660,7 +4660,7 @@ const badges=[
         "mon": "Kabuto",
         "ico": "t_SupportMedal_Icon_0140_3_e2dc0aee26b1c848.png",
         "type": [
-            "t_Badge_fetter_icon_orange.png"
+            "t_Badge_fetter_icon_orange.png",
         ],
         "stat": {
             "HP": "-50",
@@ -4743,7 +4743,7 @@ const badges=[
         "mon": "Snorlax",
         "ico": "t_SupportMedal_Icon_0143_1_cfadac2c3f8fcc9a.png",
         "type": [
-            "t_Badge_fetter_icon_white.png"
+            "t_Badge_fetter_icon_white.png",
         ],
         "stat": {
             "Sp. Def": "3",
@@ -4754,7 +4754,7 @@ const badges=[
         "mon": "Snorlax",
         "ico": "t_SupportMedal_Icon_0143_2_123daff833db8045.png",
         "type": [
-            "t_Badge_fetter_icon_white.png"
+            "t_Badge_fetter_icon_white.png",
         ],
         "stat": {
             "Sp. Def": "4",
@@ -4765,7 +4765,7 @@ const badges=[
         "mon": "Snorlax",
         "ico": "t_SupportMedal_Icon_0143_3_5450078a82cc0166.png",
         "type": [
-            "t_Badge_fetter_icon_white.png"
+            "t_Badge_fetter_icon_white.png",
         ],
         "stat": {
             "Sp. Def": "5",
@@ -4884,7 +4884,7 @@ const badges=[
         "mon": "Dratini",
         "ico": "t_SupportMedal_Icon_0147_1_8ad8ffc0215d6828.png",
         "type": [
-            "t_Badge_fetter_icon_deepblue.png"
+            "t_Badge_fetter_icon_deepblue.png",
         ],
         "stat": {
             "HP": "30",
@@ -4895,7 +4895,7 @@ const badges=[
         "mon": "Dratini",
         "ico": "t_SupportMedal_Icon_0147_2_f3f1a7dcc529c3af.png",
         "type": [
-            "t_Badge_fetter_icon_deepblue.png"
+            "t_Badge_fetter_icon_deepblue.png",
         ],
         "stat": {
             "HP": "40",
@@ -4906,7 +4906,7 @@ const badges=[
         "mon": "Dratini",
         "ico": "t_SupportMedal_Icon_0147_3_86c331801a6c1a3d.png",
         "type": [
-            "t_Badge_fetter_icon_deepblue.png"
+            "t_Badge_fetter_icon_deepblue.png",
         ],
         "stat": {
             "HP": "50",
@@ -4917,7 +4917,7 @@ const badges=[
         "mon": "Dragonair",
         "ico": "t_SupportMedal_Icon_0148_1_9fd8af13dfe7f9f9.png",
         "type": [
-            "t_Badge_fetter_icon_deepblue.png"
+            "t_Badge_fetter_icon_deepblue.png",
         ],
         "stat": {
             "HP": "30",
@@ -4928,7 +4928,7 @@ const badges=[
         "mon": "Dragonair",
         "ico": "t_SupportMedal_Icon_0148_2_60506deab9082054.png",
         "type": [
-            "t_Badge_fetter_icon_deepblue.png"
+            "t_Badge_fetter_icon_deepblue.png",
         ],
         "stat": {
             "HP": "40",
@@ -4939,7 +4939,7 @@ const badges=[
         "mon": "Dragonair",
         "ico": "t_SupportMedal_Icon_0148_3_cfa7231f34a172cf.png",
         "type": [
-            "t_Badge_fetter_icon_deepblue.png"
+            "t_Badge_fetter_icon_deepblue.png",
         ],
         "stat": {
             "HP": "50",
@@ -4986,73 +4986,73 @@ const badges=[
         "mon": "Mewtwo",
         "ico": "t_SupportMedal_Icon_0150_1_a830ce5844fd6ee9.png",
         "type": [
-            "t_Badge_fetter_icon_purple.png"
+            "t_Badge_fetter_icon_purple.png",
         ],
         "stat": {
             "HP": "-30",
-            "CDR": "3"
+            "CDR": "0.3"
         }
     },
     {
         "mon": "Mewtwo",
         "ico": "t_SupportMedal_Icon_0150_2_13ca1c279f1624cf.png",
         "type": [
-            "t_Badge_fetter_icon_purple.png"
+            "t_Badge_fetter_icon_purple.png",
         ],
         "stat": {
             "HP": "-40",
-            "CDR": "5"
+            "CDR": "0.5"
         }
     },
     {
         "mon": "Mewtwo",
         "ico": "t_SupportMedal_Icon_0150_3_33b407c04ec51ca4.png",
         "type": [
-            "t_Badge_fetter_icon_purple.png"
+            "t_Badge_fetter_icon_purple.png",
         ],
         "stat": {
             "HP": "-50",
-            "CDR": "6"
+            "CDR": "0.6"
         }
     },
     {
         "mon": "Mew",
         "ico": "t_SupportMedal_Icon_0151_1_97616720561351a2.png",
         "type": [
-            "t_Badge_fetter_icon_purple.png"
+            "t_Badge_fetter_icon_purple.png",
         ],
         "stat": {
             "HP": "-30",
-            "CDR": "3"
+            "CDR": "0.3"
         }
     },
     {
         "mon": "Mew",
         "ico": "t_SupportMedal_Icon_0151_2_19f5bcc8699f87ef.png",
         "type": [
-            "t_Badge_fetter_icon_purple.png"
+            "t_Badge_fetter_icon_purple.png",
         ],
         "stat": {
             "HP": "-40",
-            "CDR": "5"
+            "CDR": "0.5"
         }
     },
     {
         "mon": "Mew",
         "ico": "t_SupportMedal_Icon_0151_3_632f60652c69b5a0.png",
         "type": [
-            "t_Badge_fetter_icon_purple.png"
+            "t_Badge_fetter_icon_purple.png",
         ],
         "stat": {
             "HP": "-50",
-            "CDR": "6"
+            "CDR": "0.6"
         }
     },
     {
         "mon": "Chikorita",
         "ico": "t_SupportMedal_Icon_0152_1_19eb878bd73687c7.png",
         "type": [
-            "t_Badge_fetter_icon_green.png"
+            "t_Badge_fetter_icon_green.png",
         ],
         "stat": {
             "HP": "-30",
@@ -5063,7 +5063,7 @@ const badges=[
         "mon": "Chikorita",
         "ico": "t_SupportMedal_Icon_0152_2_d96dcf4d75a4d420.png",
         "type": [
-            "t_Badge_fetter_icon_green.png"
+            "t_Badge_fetter_icon_green.png",
         ],
         "stat": {
             "HP": "-40",
@@ -5074,7 +5074,7 @@ const badges=[
         "mon": "Chikorita",
         "ico": "t_SupportMedal_Icon_0152_3_e58b8d548f36a88b.png",
         "type": [
-            "t_Badge_fetter_icon_green.png"
+            "t_Badge_fetter_icon_green.png",
         ],
         "stat": {
             "HP": "-50",
@@ -5085,7 +5085,7 @@ const badges=[
         "mon": "Bayleef",
         "ico": "t_SupportMedal_Icon_0153_1_f3de6fd885eacf76.png",
         "type": [
-            "t_Badge_fetter_icon_green.png"
+            "t_Badge_fetter_icon_green.png",
         ],
         "stat": {
             "Def": "3",
@@ -5096,7 +5096,7 @@ const badges=[
         "mon": "Bayleef",
         "ico": "t_SupportMedal_Icon_0153_2_14509266f1b10dca.png",
         "type": [
-            "t_Badge_fetter_icon_green.png"
+            "t_Badge_fetter_icon_green.png",
         ],
         "stat": {
             "Def": "4",
@@ -5107,7 +5107,7 @@ const badges=[
         "mon": "Bayleef",
         "ico": "t_SupportMedal_Icon_0153_3_600b0de592c406c9.png",
         "type": [
-            "t_Badge_fetter_icon_green.png"
+            "t_Badge_fetter_icon_green.png",
         ],
         "stat": {
             "Def": "5",
@@ -5118,7 +5118,7 @@ const badges=[
         "mon": "Meganium",
         "ico": "t_SupportMedal_Icon_0154_1_5f1fe2b0718cd33d.png",
         "type": [
-            "t_Badge_fetter_icon_green.png"
+            "t_Badge_fetter_icon_green.png",
         ],
         "stat": {
             "Atk": "-1.2",
@@ -5129,7 +5129,7 @@ const badges=[
         "mon": "Meganium",
         "ico": "t_SupportMedal_Icon_0154_2_90e8ec7140cf21e5.png",
         "type": [
-            "t_Badge_fetter_icon_green.png"
+            "t_Badge_fetter_icon_green.png",
         ],
         "stat": {
             "Atk": "-1.6",
@@ -5140,7 +5140,7 @@ const badges=[
         "mon": "Meganium",
         "ico": "t_SupportMedal_Icon_0154_3_b17d5972305c13e0.png",
         "type": [
-            "t_Badge_fetter_icon_green.png"
+            "t_Badge_fetter_icon_green.png",
         ],
         "stat": {
             "Atk": "-2",
@@ -5151,7 +5151,7 @@ const badges=[
         "mon": "Cyndaquil",
         "ico": "t_SupportMedal_Icon_0155_1_ad45bc31d8f075c0.png",
         "type": [
-            "t_Badge_fetter_icon_red.png"
+            "t_Badge_fetter_icon_red.png",
         ],
         "stat": {
             "HP": "-30",
@@ -5162,7 +5162,7 @@ const badges=[
         "mon": "Cyndaquil",
         "ico": "t_SupportMedal_Icon_0155_2_56ab38cfa849ac35.png",
         "type": [
-            "t_Badge_fetter_icon_red.png"
+            "t_Badge_fetter_icon_red.png",
         ],
         "stat": {
             "HP": "-40",
@@ -5173,7 +5173,7 @@ const badges=[
         "mon": "Cyndaquil",
         "ico": "t_SupportMedal_Icon_0155_3_dc8bfc7099928016.png",
         "type": [
-            "t_Badge_fetter_icon_red.png"
+            "t_Badge_fetter_icon_red.png",
         ],
         "stat": {
             "HP": "-50",
@@ -5184,7 +5184,7 @@ const badges=[
         "mon": "Quilava",
         "ico": "t_SupportMedal_Icon_0156_1_e1992895c00c0523.png",
         "type": [
-            "t_Badge_fetter_icon_red.png"
+            "t_Badge_fetter_icon_red.png",
         ],
         "stat": {
             "Def": "-3",
@@ -5195,7 +5195,7 @@ const badges=[
         "mon": "Quilava",
         "ico": "t_SupportMedal_Icon_0156_2_e2102d84d1137833.png",
         "type": [
-            "t_Badge_fetter_icon_red.png"
+            "t_Badge_fetter_icon_red.png",
         ],
         "stat": {
             "Def": "-4",
@@ -5206,7 +5206,7 @@ const badges=[
         "mon": "Quilava",
         "ico": "t_SupportMedal_Icon_0156_3_05538a8764b5056d.png",
         "type": [
-            "t_Badge_fetter_icon_red.png"
+            "t_Badge_fetter_icon_red.png",
         ],
         "stat": {
             "Def": "-5",
@@ -5217,7 +5217,7 @@ const badges=[
         "mon": "Typhlosion",
         "ico": "t_SupportMedal_Icon_0157_1_fcfaced7656a8e12.png",
         "type": [
-            "t_Badge_fetter_icon_red.png"
+            "t_Badge_fetter_icon_red.png",
         ],
         "stat": {
             "Sp. Atk": "1.8",
@@ -5228,7 +5228,7 @@ const badges=[
         "mon": "Typhlosion",
         "ico": "t_SupportMedal_Icon_0157_2_74a6d1a3e7c91385.png",
         "type": [
-            "t_Badge_fetter_icon_red.png"
+            "t_Badge_fetter_icon_red.png",
         ],
         "stat": {
             "Sp. Atk": "2.4",
@@ -5239,7 +5239,7 @@ const badges=[
         "mon": "Typhlosion",
         "ico": "t_SupportMedal_Icon_0157_3_daf0f5382ec5ea0b.png",
         "type": [
-            "t_Badge_fetter_icon_red.png"
+            "t_Badge_fetter_icon_red.png",
         ],
         "stat": {
             "Sp. Atk": "3",
@@ -5250,7 +5250,7 @@ const badges=[
         "mon": "Totodile",
         "ico": "t_SupportMedal_Icon_0158_1_d22cd40bd65bac7d.png",
         "type": [
-            "t_Badge_fetter_icon_blue.png"
+            "t_Badge_fetter_icon_blue.png",
         ],
         "stat": {
             "HP": "-30",
@@ -5261,7 +5261,7 @@ const badges=[
         "mon": "Totodile",
         "ico": "t_SupportMedal_Icon_0158_2_7cc1ebaee09d57da.png",
         "type": [
-            "t_Badge_fetter_icon_blue.png"
+            "t_Badge_fetter_icon_blue.png",
         ],
         "stat": {
             "HP": "-40",
@@ -5272,7 +5272,7 @@ const badges=[
         "mon": "Totodile",
         "ico": "t_SupportMedal_Icon_0158_3_d15f74a5b566a827.png",
         "type": [
-            "t_Badge_fetter_icon_blue.png"
+            "t_Badge_fetter_icon_blue.png",
         ],
         "stat": {
             "HP": "-50",
@@ -5283,7 +5283,7 @@ const badges=[
         "mon": "Croconaw",
         "ico": "t_SupportMedal_Icon_0159_1_79d76552e75afb38.png",
         "type": [
-            "t_Badge_fetter_icon_blue.png"
+            "t_Badge_fetter_icon_blue.png",
         ],
         "stat": {
             "Def": "3",
@@ -5294,7 +5294,7 @@ const badges=[
         "mon": "Croconaw",
         "ico": "t_SupportMedal_Icon_0159_2_332a3774421d09e2.png",
         "type": [
-            "t_Badge_fetter_icon_blue.png"
+            "t_Badge_fetter_icon_blue.png",
         ],
         "stat": {
             "Def": "4",
@@ -5305,7 +5305,7 @@ const badges=[
         "mon": "Croconaw",
         "ico": "t_SupportMedal_Icon_0159_3_1e31f9f59e613b17.png",
         "type": [
-            "t_Badge_fetter_icon_blue.png"
+            "t_Badge_fetter_icon_blue.png",
         ],
         "stat": {
             "Def": "5",
@@ -5316,7 +5316,7 @@ const badges=[
         "mon": "Feraligatr",
         "ico": "t_SupportMedal_Icon_0160_1_5d0cb6507a67e73a.png",
         "type": [
-            "t_Badge_fetter_icon_blue.png"
+            "t_Badge_fetter_icon_blue.png",
         ],
         "stat": {
             "Def": "3",
@@ -5327,7 +5327,7 @@ const badges=[
         "mon": "Feraligatr",
         "ico": "t_SupportMedal_Icon_0160_2_ca79eb80c4ac3746.png",
         "type": [
-            "t_Badge_fetter_icon_blue.png"
+            "t_Badge_fetter_icon_blue.png",
         ],
         "stat": {
             "Def": "4",
@@ -5338,7 +5338,7 @@ const badges=[
         "mon": "Feraligatr",
         "ico": "t_SupportMedal_Icon_0160_3_9e106f894c23b54e.png",
         "type": [
-            "t_Badge_fetter_icon_blue.png"
+            "t_Badge_fetter_icon_blue.png",
         ],
         "stat": {
             "Def": "5",
@@ -5349,7 +5349,7 @@ const badges=[
         "mon": "Sentret",
         "ico": "t_SupportMedal_Icon_0161_1_98d2abf7604d8c6d.png",
         "type": [
-            "t_Badge_fetter_icon_white.png"
+            "t_Badge_fetter_icon_white.png",
         ],
         "stat": {
             "Sp. Def": "-3",
@@ -5360,7 +5360,7 @@ const badges=[
         "mon": "Sentret",
         "ico": "t_SupportMedal_Icon_0161_2_ba64253621e182b6.png",
         "type": [
-            "t_Badge_fetter_icon_white.png"
+            "t_Badge_fetter_icon_white.png",
         ],
         "stat": {
             "Sp. Def": "-4",
@@ -5371,7 +5371,7 @@ const badges=[
         "mon": "Sentret",
         "ico": "t_SupportMedal_Icon_0161_3_4d03a42e313f5ad3.png",
         "type": [
-            "t_Badge_fetter_icon_white.png"
+            "t_Badge_fetter_icon_white.png",
         ],
         "stat": {
             "Sp. Def": "-5",
@@ -5382,7 +5382,7 @@ const badges=[
         "mon": "Furret",
         "ico": "t_SupportMedal_Icon_0162_1_8501c89d0ace7356.png",
         "type": [
-            "t_Badge_fetter_icon_white.png"
+            "t_Badge_fetter_icon_white.png",
         ],
         "stat": {
             "Sp. Atk": "-1.8",
@@ -5393,7 +5393,7 @@ const badges=[
         "mon": "Furret",
         "ico": "t_SupportMedal_Icon_0162_2_6d96e6c68b1ea6cf.png",
         "type": [
-            "t_Badge_fetter_icon_white.png"
+            "t_Badge_fetter_icon_white.png",
         ],
         "stat": {
             "Sp. Atk": "-2.4",
@@ -5404,7 +5404,7 @@ const badges=[
         "mon": "Furret",
         "ico": "t_SupportMedal_Icon_0162_3_6be53ac20cccf8a8.png",
         "type": [
-            "t_Badge_fetter_icon_white.png"
+            "t_Badge_fetter_icon_white.png",
         ],
         "stat": {
             "Sp. Atk": "-3",
@@ -5415,7 +5415,7 @@ const badges=[
         "mon": "Hoothoot",
         "ico": "t_SupportMedal_Icon_0163_1_23f0efd807c201f0.png",
         "type": [
-            "t_Badge_fetter_icon_white.png"
+            "t_Badge_fetter_icon_white.png",
         ],
         "stat": {
             "Atk": "-1.2",
@@ -5426,7 +5426,7 @@ const badges=[
         "mon": "Hoothoot",
         "ico": "t_SupportMedal_Icon_0163_2_ce3bea88e041b286.png",
         "type": [
-            "t_Badge_fetter_icon_white.png"
+            "t_Badge_fetter_icon_white.png",
         ],
         "stat": {
             "Atk": "-1.6",
@@ -5437,7 +5437,7 @@ const badges=[
         "mon": "Hoothoot",
         "ico": "t_SupportMedal_Icon_0163_3_8ccaf1a09da3849d.png",
         "type": [
-            "t_Badge_fetter_icon_white.png"
+            "t_Badge_fetter_icon_white.png",
         ],
         "stat": {
             "Atk": "-2",
@@ -5448,7 +5448,7 @@ const badges=[
         "mon": "Noctowl",
         "ico": "t_SupportMedal_Icon_0164_1_1b6e3f874bdab75c.png",
         "type": [
-            "t_Badge_fetter_icon_white.png"
+            "t_Badge_fetter_icon_white.png",
         ],
         "stat": {
             "Def": "-3",
@@ -5459,7 +5459,7 @@ const badges=[
         "mon": "Noctowl",
         "ico": "t_SupportMedal_Icon_0164_2_64b06bf59929c18e.png",
         "type": [
-            "t_Badge_fetter_icon_white.png"
+            "t_Badge_fetter_icon_white.png",
         ],
         "stat": {
             "Def": "-4",
@@ -5470,7 +5470,7 @@ const badges=[
         "mon": "Noctowl",
         "ico": "t_SupportMedal_Icon_0164_3_fd854e0c749a0f0b.png",
         "type": [
-            "t_Badge_fetter_icon_white.png"
+            "t_Badge_fetter_icon_white.png",
         ],
         "stat": {
             "Def": "-5",
@@ -5481,7 +5481,7 @@ const badges=[
         "mon": "Ledyba",
         "ico": "t_SupportMedal_Icon_0165_1_4f164fc4528e6450.png",
         "type": [
-            "t_Badge_fetter_icon_green.png"
+            "t_Badge_fetter_icon_green.png",
         ],
         "stat": {
             "Sp. Def": "3",
@@ -5492,7 +5492,7 @@ const badges=[
         "mon": "Ledyba",
         "ico": "t_SupportMedal_Icon_0165_2_67d0b81d562599f3.png",
         "type": [
-            "t_Badge_fetter_icon_green.png"
+            "t_Badge_fetter_icon_green.png",
         ],
         "stat": {
             "Sp. Def": "4",
@@ -5503,7 +5503,7 @@ const badges=[
         "mon": "Ledyba",
         "ico": "t_SupportMedal_Icon_0165_3_c3c7b4ddbe5546bf.png",
         "type": [
-            "t_Badge_fetter_icon_green.png"
+            "t_Badge_fetter_icon_green.png",
         ],
         "stat": {
             "Sp. Def": "5",
@@ -5514,7 +5514,7 @@ const badges=[
         "mon": "Ledian",
         "ico": "t_SupportMedal_Icon_0166_1_c38e648f0971f0d6.png",
         "type": [
-            "t_Badge_fetter_icon_green.png"
+            "t_Badge_fetter_icon_green.png",
         ],
         "stat": {
             "Atk": "-1.2",
@@ -5525,7 +5525,7 @@ const badges=[
         "mon": "Ledian",
         "ico": "t_SupportMedal_Icon_0166_2_9e49146c02aba34e.png",
         "type": [
-            "t_Badge_fetter_icon_green.png"
+            "t_Badge_fetter_icon_green.png",
         ],
         "stat": {
             "Atk": "-1.6",
@@ -5536,7 +5536,7 @@ const badges=[
         "mon": "Ledian",
         "ico": "t_SupportMedal_Icon_0166_3_7d6301bfde7b84d3.png",
         "type": [
-            "t_Badge_fetter_icon_green.png"
+            "t_Badge_fetter_icon_green.png",
         ],
         "stat": {
             "Atk": "-2",
@@ -5547,7 +5547,7 @@ const badges=[
         "mon": "Spinarak",
         "ico": "t_SupportMedal_Icon_0167_1_7e7bd532738cb788.png",
         "type": [
-            "t_Badge_fetter_icon_green.png"
+            "t_Badge_fetter_icon_green.png",
         ],
         "stat": {
             "Atk": "1.2",
@@ -5558,7 +5558,7 @@ const badges=[
         "mon": "Spinarak",
         "ico": "t_SupportMedal_Icon_0167_2_878df513fd4dab6c.png",
         "type": [
-            "t_Badge_fetter_icon_green.png"
+            "t_Badge_fetter_icon_green.png",
         ],
         "stat": {
             "Atk": "1.6",
@@ -5569,7 +5569,7 @@ const badges=[
         "mon": "Spinarak",
         "ico": "t_SupportMedal_Icon_0167_3_1654c034ff77a48b.png",
         "type": [
-            "t_Badge_fetter_icon_green.png"
+            "t_Badge_fetter_icon_green.png",
         ],
         "stat": {
             "Atk": "2",
@@ -5580,7 +5580,7 @@ const badges=[
         "mon": "Ariados",
         "ico": "t_SupportMedal_Icon_0168_1_1b6fd55dcb8099f5.png",
         "type": [
-            "t_Badge_fetter_icon_black.png"
+            "t_Badge_fetter_icon_black.png",
         ],
         "stat": {
             "Atk": "1.2",
@@ -5591,7 +5591,7 @@ const badges=[
         "mon": "Ariados",
         "ico": "t_SupportMedal_Icon_0168_2_14caac6c1fb13d3d.png",
         "type": [
-            "t_Badge_fetter_icon_black.png"
+            "t_Badge_fetter_icon_black.png",
         ],
         "stat": {
             "Atk": "1.6",
@@ -5602,7 +5602,7 @@ const badges=[
         "mon": "Ariados",
         "ico": "t_SupportMedal_Icon_0168_3_92636319687ad736.png",
         "type": [
-            "t_Badge_fetter_icon_black.png"
+            "t_Badge_fetter_icon_black.png",
         ],
         "stat": {
             "Atk": "2",
@@ -5613,7 +5613,7 @@ const badges=[
         "mon": "Crobat",
         "ico": "t_SupportMedal_Icon_0169_1_7bdf208bced8768f.png",
         "type": [
-            "t_Badge_fetter_icon_black.png"
+            "t_Badge_fetter_icon_black.png",
         ],
         "stat": {
             "Sp. Atk": "-1.8",
@@ -5624,7 +5624,7 @@ const badges=[
         "mon": "Crobat",
         "ico": "t_SupportMedal_Icon_0169_2_7a8f126a43d58a69.png",
         "type": [
-            "t_Badge_fetter_icon_black.png"
+            "t_Badge_fetter_icon_black.png",
         ],
         "stat": {
             "Sp. Atk": "-2.4",
@@ -5635,7 +5635,7 @@ const badges=[
         "mon": "Crobat",
         "ico": "t_SupportMedal_Icon_0169_3_25a173aa70ac2b50.png",
         "type": [
-            "t_Badge_fetter_icon_black.png"
+            "t_Badge_fetter_icon_black.png",
         ],
         "stat": {
             "Sp. Atk": "-3",
@@ -5646,7 +5646,7 @@ const badges=[
         "mon": "Chinchou",
         "ico": "t_SupportMedal_Icon_0170_1_368ae51be9ae8ed7.png",
         "type": [
-            "t_Badge_fetter_icon_yellow.png"
+            "t_Badge_fetter_icon_yellow.png",
         ],
         "stat": {
             "HP": "30",
@@ -5657,7 +5657,7 @@ const badges=[
         "mon": "Chinchou",
         "ico": "t_SupportMedal_Icon_0170_2_96475f2b2301642b.png",
         "type": [
-            "t_Badge_fetter_icon_yellow.png"
+            "t_Badge_fetter_icon_yellow.png",
         ],
         "stat": {
             "HP": "40",
@@ -5668,7 +5668,7 @@ const badges=[
         "mon": "Chinchou",
         "ico": "t_SupportMedal_Icon_0170_3_2c47a571680a23a4.png",
         "type": [
-            "t_Badge_fetter_icon_yellow.png"
+            "t_Badge_fetter_icon_yellow.png",
         ],
         "stat": {
             "HP": "50",
@@ -5679,7 +5679,7 @@ const badges=[
         "mon": "Lanturn",
         "ico": "t_SupportMedal_Icon_0171_1_6aec4f5bc00694ff.png",
         "type": [
-            "t_Badge_fetter_icon_yellow.png"
+            "t_Badge_fetter_icon_yellow.png",
         ],
         "stat": {
             "HP": "30",
@@ -5690,7 +5690,7 @@ const badges=[
         "mon": "Lanturn",
         "ico": "t_SupportMedal_Icon_0171_2_82c2283a10c03886.png",
         "type": [
-            "t_Badge_fetter_icon_yellow.png"
+            "t_Badge_fetter_icon_yellow.png",
         ],
         "stat": {
             "HP": "40",
@@ -5701,7 +5701,7 @@ const badges=[
         "mon": "Lanturn",
         "ico": "t_SupportMedal_Icon_0171_3_cde6c14d3c18d16f.png",
         "type": [
-            "t_Badge_fetter_icon_yellow.png"
+            "t_Badge_fetter_icon_yellow.png",
         ],
         "stat": {
             "HP": "50",
@@ -5712,7 +5712,7 @@ const badges=[
         "mon": "Pichu",
         "ico": "t_SupportMedal_Icon_0172_1_ca376b1ce95b11c9.png",
         "type": [
-            "t_Badge_fetter_icon_yellow.png"
+            "t_Badge_fetter_icon_yellow.png",
         ],
         "stat": {
             "Atk": "-1.2",
@@ -5723,7 +5723,7 @@ const badges=[
         "mon": "Pichu",
         "ico": "t_SupportMedal_Icon_0172_2_d2fcce8a433254e7.png",
         "type": [
-            "t_Badge_fetter_icon_yellow.png"
+            "t_Badge_fetter_icon_yellow.png",
         ],
         "stat": {
             "Atk": "-1.6",
@@ -5734,7 +5734,7 @@ const badges=[
         "mon": "Pichu",
         "ico": "t_SupportMedal_Icon_0172_3_c7c698ba252c8447.png",
         "type": [
-            "t_Badge_fetter_icon_yellow.png"
+            "t_Badge_fetter_icon_yellow.png",
         ],
         "stat": {
             "Atk": "-2",
@@ -5745,7 +5745,7 @@ const badges=[
         "mon": "Cleffa",
         "ico": "t_SupportMedal_Icon_0173_1_4a59117ca1ffa92d.png",
         "type": [
-            "t_Badge_fetter_icon_peach.png"
+            "t_Badge_fetter_icon_peach.png",
         ],
         "stat": {
             "HP": "30",
@@ -5756,7 +5756,7 @@ const badges=[
         "mon": "Cleffa",
         "ico": "t_SupportMedal_Icon_0173_2_f11e8ce4ae87f1b6.png",
         "type": [
-            "t_Badge_fetter_icon_peach.png"
+            "t_Badge_fetter_icon_peach.png",
         ],
         "stat": {
             "HP": "40",
@@ -5767,7 +5767,7 @@ const badges=[
         "mon": "Cleffa",
         "ico": "t_SupportMedal_Icon_0173_3_2b3f43fbe623e1f9.png",
         "type": [
-            "t_Badge_fetter_icon_peach.png"
+            "t_Badge_fetter_icon_peach.png",
         ],
         "stat": {
             "HP": "50",
@@ -5778,7 +5778,7 @@ const badges=[
         "mon": "Igglybuff",
         "ico": "t_SupportMedal_Icon_0174_1_f8a3ab5abc658c0a.png",
         "type": [
-            "t_Badge_fetter_icon_peach.png"
+            "t_Badge_fetter_icon_peach.png",
         ],
         "stat": {
             "HP": "30",
@@ -5789,7 +5789,7 @@ const badges=[
         "mon": "Igglybuff",
         "ico": "t_SupportMedal_Icon_0174_2_7e346f044a944512.png",
         "type": [
-            "t_Badge_fetter_icon_peach.png"
+            "t_Badge_fetter_icon_peach.png",
         ],
         "stat": {
             "HP": "40",
@@ -5800,7 +5800,7 @@ const badges=[
         "mon": "Igglybuff",
         "ico": "t_SupportMedal_Icon_0174_3_67a6c7d857d28099.png",
         "type": [
-            "t_Badge_fetter_icon_peach.png"
+            "t_Badge_fetter_icon_peach.png",
         ],
         "stat": {
             "HP": "50",
@@ -5811,7 +5811,7 @@ const badges=[
         "mon": "Togepi",
         "ico": "t_SupportMedal_Icon_0175_1_fe387e65a6d5b4b4.png",
         "type": [
-            "t_Badge_fetter_icon_peach.png"
+            "t_Badge_fetter_icon_peach.png",
         ],
         "stat": {
             "Sp. Def": "3",
@@ -5822,7 +5822,7 @@ const badges=[
         "mon": "Togepi",
         "ico": "t_SupportMedal_Icon_0175_2_43ae3ff310830327.png",
         "type": [
-            "t_Badge_fetter_icon_peach.png"
+            "t_Badge_fetter_icon_peach.png",
         ],
         "stat": {
             "Sp. Def": "4",
@@ -5833,7 +5833,7 @@ const badges=[
         "mon": "Togepi",
         "ico": "t_SupportMedal_Icon_0175_3_3990f23679cf5d57.png",
         "type": [
-            "t_Badge_fetter_icon_peach.png"
+            "t_Badge_fetter_icon_peach.png",
         ],
         "stat": {
             "Sp. Def": "5",
@@ -5880,7 +5880,7 @@ const badges=[
         "mon": "Natu",
         "ico": "t_SupportMedal_Icon_0177_1_3b927c327d0babc3.png",
         "type": [
-            "t_Badge_fetter_icon_purple.png"
+            "t_Badge_fetter_icon_purple.png",
         ],
         "stat": {
             "Move Speed": "21",
@@ -5891,7 +5891,7 @@ const badges=[
         "mon": "Natu",
         "ico": "t_SupportMedal_Icon_0177_2_7d30b9cd94afa050.png",
         "type": [
-            "t_Badge_fetter_icon_purple.png"
+            "t_Badge_fetter_icon_purple.png",
         ],
         "stat": {
             "Move Speed": "28",
@@ -5902,7 +5902,7 @@ const badges=[
         "mon": "Natu",
         "ico": "t_SupportMedal_Icon_0177_3_4100f2372ecf4402.png",
         "type": [
-            "t_Badge_fetter_icon_purple.png"
+            "t_Badge_fetter_icon_purple.png",
         ],
         "stat": {
             "Move Speed": "35",
@@ -5949,7 +5949,7 @@ const badges=[
         "mon": "Mareep",
         "ico": "t_SupportMedal_Icon_0179_1_4ed5b13f06fbc8c8.png",
         "type": [
-            "t_Badge_fetter_icon_yellow.png"
+            "t_Badge_fetter_icon_yellow.png",
         ],
         "stat": {
             "Def": "-3",
@@ -5960,7 +5960,7 @@ const badges=[
         "mon": "Mareep",
         "ico": "t_SupportMedal_Icon_0179_2_da5a1b151d9f3452.png",
         "type": [
-            "t_Badge_fetter_icon_yellow.png"
+            "t_Badge_fetter_icon_yellow.png",
         ],
         "stat": {
             "Def": "-4",
@@ -5971,7 +5971,7 @@ const badges=[
         "mon": "Mareep",
         "ico": "t_SupportMedal_Icon_0179_3_9b47cfb7d0caf04d.png",
         "type": [
-            "t_Badge_fetter_icon_yellow.png"
+            "t_Badge_fetter_icon_yellow.png",
         ],
         "stat": {
             "Def": "-5",
@@ -5982,7 +5982,7 @@ const badges=[
         "mon": "Flaaffy",
         "ico": "t_SupportMedal_Icon_0180_1_6d3b4cbc48414100.png",
         "type": [
-            "t_Badge_fetter_icon_yellow.png"
+            "t_Badge_fetter_icon_yellow.png",
         ],
         "stat": {
             "Sp. Atk": "1.8",
@@ -5993,7 +5993,7 @@ const badges=[
         "mon": "Flaaffy",
         "ico": "t_SupportMedal_Icon_0180_2_8e87282b2a7f410e.png",
         "type": [
-            "t_Badge_fetter_icon_yellow.png"
+            "t_Badge_fetter_icon_yellow.png",
         ],
         "stat": {
             "Sp. Atk": "2.4",
@@ -6004,7 +6004,7 @@ const badges=[
         "mon": "Flaaffy",
         "ico": "t_SupportMedal_Icon_0180_3_4fea14c8b617c7c7.png",
         "type": [
-            "t_Badge_fetter_icon_yellow.png"
+            "t_Badge_fetter_icon_yellow.png",
         ],
         "stat": {
             "Sp. Atk": "3",
@@ -6015,7 +6015,7 @@ const badges=[
         "mon": "Ampharos",
         "ico": "t_SupportMedal_Icon_0181_1_9ab34a49ffded45d.png",
         "type": [
-            "t_Badge_fetter_icon_yellow.png"
+            "t_Badge_fetter_icon_yellow.png",
         ],
         "stat": {
             "Atk": "-1.2",
@@ -6026,7 +6026,7 @@ const badges=[
         "mon": "Ampharos",
         "ico": "t_SupportMedal_Icon_0181_2_2001b0600a6b4c63.png",
         "type": [
-            "t_Badge_fetter_icon_yellow.png"
+            "t_Badge_fetter_icon_yellow.png",
         ],
         "stat": {
             "Atk": "-1.6",
@@ -6037,7 +6037,7 @@ const badges=[
         "mon": "Ampharos",
         "ico": "t_SupportMedal_Icon_0181_3_aba2a9cc00ad6c74.png",
         "type": [
-            "t_Badge_fetter_icon_yellow.png"
+            "t_Badge_fetter_icon_yellow.png",
         ],
         "stat": {
             "Atk": "-2",
@@ -6048,7 +6048,7 @@ const badges=[
         "mon": "Bellossom",
         "ico": "t_SupportMedal_Icon_0182_1_217e9fcc20508ac6.png",
         "type": [
-            "t_Badge_fetter_icon_green.png"
+            "t_Badge_fetter_icon_green.png",
         ],
         "stat": {
             "HP": "-30",
@@ -6059,7 +6059,7 @@ const badges=[
         "mon": "Bellossom",
         "ico": "t_SupportMedal_Icon_0182_2_2c5da2e57f163f95.png",
         "type": [
-            "t_Badge_fetter_icon_green.png"
+            "t_Badge_fetter_icon_green.png",
         ],
         "stat": {
             "HP": "-40",
@@ -6070,7 +6070,7 @@ const badges=[
         "mon": "Bellossom",
         "ico": "t_SupportMedal_Icon_0182_3_c7be311996f3ffa8.png",
         "type": [
-            "t_Badge_fetter_icon_green.png"
+            "t_Badge_fetter_icon_green.png",
         ],
         "stat": {
             "HP": "-50",
@@ -6081,7 +6081,7 @@ const badges=[
         "mon": "Marill",
         "ico": "t_SupportMedal_Icon_0183_1_363df2c060f39912.png",
         "type": [
-            "t_Badge_fetter_icon_peach.png"
+            "t_Badge_fetter_icon_peach.png",
         ],
         "stat": {
             "HP": "30",
@@ -6092,7 +6092,7 @@ const badges=[
         "mon": "Marill",
         "ico": "t_SupportMedal_Icon_0183_2_bfb6c589ec7e8857.png",
         "type": [
-            "t_Badge_fetter_icon_peach.png"
+            "t_Badge_fetter_icon_peach.png",
         ],
         "stat": {
             "HP": "40",
@@ -6103,7 +6103,7 @@ const badges=[
         "mon": "Marill",
         "ico": "t_SupportMedal_Icon_0183_3_d865442036aa6963.png",
         "type": [
-            "t_Badge_fetter_icon_peach.png"
+            "t_Badge_fetter_icon_peach.png",
         ],
         "stat": {
             "HP": "50",
@@ -6150,7 +6150,7 @@ const badges=[
         "mon": "Sudowoodo",
         "ico": "t_SupportMedal_Icon_0185_1_b298ba5c75447c74.png",
         "type": [
-            "t_Badge_fetter_icon_orange.png"
+            "t_Badge_fetter_icon_orange.png",
         ],
         "stat": {
             "Def": "3",
@@ -6161,7 +6161,7 @@ const badges=[
         "mon": "Sudowoodo",
         "ico": "t_SupportMedal_Icon_0185_2_f461146835a783cd.png",
         "type": [
-            "t_Badge_fetter_icon_orange.png"
+            "t_Badge_fetter_icon_orange.png",
         ],
         "stat": {
             "Def": "4",
@@ -6172,7 +6172,7 @@ const badges=[
         "mon": "Sudowoodo",
         "ico": "t_SupportMedal_Icon_0185_3_8e57015b9efead09.png",
         "type": [
-            "t_Badge_fetter_icon_orange.png"
+            "t_Badge_fetter_icon_orange.png",
         ],
         "stat": {
             "Def": "5",
@@ -6183,7 +6183,7 @@ const badges=[
         "mon": "Politoed",
         "ico": "t_SupportMedal_Icon_0186_1_81eebf09f5fa7bab.png",
         "type": [
-            "t_Badge_fetter_icon_blue.png"
+            "t_Badge_fetter_icon_blue.png",
         ],
         "stat": {
             "Atk": "-1.2",
@@ -6194,7 +6194,7 @@ const badges=[
         "mon": "Politoed",
         "ico": "t_SupportMedal_Icon_0186_2_f96e6af096643c0e.png",
         "type": [
-            "t_Badge_fetter_icon_blue.png"
+            "t_Badge_fetter_icon_blue.png",
         ],
         "stat": {
             "Atk": "-1.6",
@@ -6205,7 +6205,7 @@ const badges=[
         "mon": "Politoed",
         "ico": "t_SupportMedal_Icon_0186_3_14c926681f18a7af.png",
         "type": [
-            "t_Badge_fetter_icon_blue.png"
+            "t_Badge_fetter_icon_blue.png",
         ],
         "stat": {
             "Atk": "-2",
@@ -6216,7 +6216,7 @@ const badges=[
         "mon": "Hoppip",
         "ico": "t_SupportMedal_Icon_0187_1_891f6dbd164fd110.png",
         "type": [
-            "t_Badge_fetter_icon_green.png"
+            "t_Badge_fetter_icon_green.png",
         ],
         "stat": {
             "HP": "-30",
@@ -6227,7 +6227,7 @@ const badges=[
         "mon": "Hoppip",
         "ico": "t_SupportMedal_Icon_0187_2_04855313e3f20efb.png",
         "type": [
-            "t_Badge_fetter_icon_green.png"
+            "t_Badge_fetter_icon_green.png",
         ],
         "stat": {
             "HP": "-40",
@@ -6238,7 +6238,7 @@ const badges=[
         "mon": "Hoppip",
         "ico": "t_SupportMedal_Icon_0187_3_4b10255fed4ea47e.png",
         "type": [
-            "t_Badge_fetter_icon_green.png"
+            "t_Badge_fetter_icon_green.png",
         ],
         "stat": {
             "HP": "-50",
@@ -6249,7 +6249,7 @@ const badges=[
         "mon": "Skiploom",
         "ico": "t_SupportMedal_Icon_0188_1_89d36439b24719d9.png",
         "type": [
-            "t_Badge_fetter_icon_green.png"
+            "t_Badge_fetter_icon_green.png",
         ],
         "stat": {
             "Sp. Atk": "-1.8",
@@ -6260,7 +6260,7 @@ const badges=[
         "mon": "Skiploom",
         "ico": "t_SupportMedal_Icon_0188_2_0afb179b40f4e67e.png",
         "type": [
-            "t_Badge_fetter_icon_green.png"
+            "t_Badge_fetter_icon_green.png",
         ],
         "stat": {
             "Sp. Atk": "-2.4",
@@ -6271,7 +6271,7 @@ const badges=[
         "mon": "Skiploom",
         "ico": "t_SupportMedal_Icon_0188_3_52e0a44d0a0f9b17.png",
         "type": [
-            "t_Badge_fetter_icon_green.png"
+            "t_Badge_fetter_icon_green.png",
         ],
         "stat": {
             "Sp. Atk": "-3",
@@ -6318,7 +6318,7 @@ const badges=[
         "mon": "Aipom",
         "ico": "t_SupportMedal_Icon_0190_1_e5c4425f68414099.png",
         "type": [
-            "t_Badge_fetter_icon_white.png"
+            "t_Badge_fetter_icon_white.png",
         ],
         "stat": {
             "Def": "-3",
@@ -6329,7 +6329,7 @@ const badges=[
         "mon": "Aipom",
         "ico": "t_SupportMedal_Icon_0190_2_3e2e88c4dfb8fe60.png",
         "type": [
-            "t_Badge_fetter_icon_white.png"
+            "t_Badge_fetter_icon_white.png",
         ],
         "stat": {
             "Def": "-4",
@@ -6340,7 +6340,7 @@ const badges=[
         "mon": "Aipom",
         "ico": "t_SupportMedal_Icon_0190_3_70f2e477d6e852dd.png",
         "type": [
-            "t_Badge_fetter_icon_white.png"
+            "t_Badge_fetter_icon_white.png",
         ],
         "stat": {
             "Def": "-5",
@@ -6351,7 +6351,7 @@ const badges=[
         "mon": "Sunkern",
         "ico": "t_SupportMedal_Icon_0191_1_d2794ed4c3b8698d.png",
         "type": [
-            "t_Badge_fetter_icon_green.png"
+            "t_Badge_fetter_icon_green.png",
         ],
         "stat": {
             "HP": "30",
@@ -6362,7 +6362,7 @@ const badges=[
         "mon": "Sunkern",
         "ico": "t_SupportMedal_Icon_0191_2_dbc614362e96d662.png",
         "type": [
-            "t_Badge_fetter_icon_green.png"
+            "t_Badge_fetter_icon_green.png",
         ],
         "stat": {
             "HP": "40",
@@ -6373,7 +6373,7 @@ const badges=[
         "mon": "Sunkern",
         "ico": "t_SupportMedal_Icon_0191_3_9e80733e20f9e9e7.png",
         "type": [
-            "t_Badge_fetter_icon_green.png"
+            "t_Badge_fetter_icon_green.png",
         ],
         "stat": {
             "HP": "50",
@@ -6384,7 +6384,7 @@ const badges=[
         "mon": "Sunflora",
         "ico": "t_SupportMedal_Icon_0192_1_0d5cdac2e207f009.png",
         "type": [
-            "t_Badge_fetter_icon_green.png"
+            "t_Badge_fetter_icon_green.png",
         ],
         "stat": {
             "HP": "30",
@@ -6395,7 +6395,7 @@ const badges=[
         "mon": "Sunflora",
         "ico": "t_SupportMedal_Icon_0192_2_28026706f0974a8a.png",
         "type": [
-            "t_Badge_fetter_icon_green.png"
+            "t_Badge_fetter_icon_green.png",
         ],
         "stat": {
             "HP": "40",
@@ -6406,7 +6406,7 @@ const badges=[
         "mon": "Sunflora",
         "ico": "t_SupportMedal_Icon_0192_3_4e389d98ac758662.png",
         "type": [
-            "t_Badge_fetter_icon_green.png"
+            "t_Badge_fetter_icon_green.png",
         ],
         "stat": {
             "HP": "50",
@@ -6417,7 +6417,7 @@ const badges=[
         "mon": "Yanma",
         "ico": "t_SupportMedal_Icon_0193_1_b9ebfcbcd64e2419.png",
         "type": [
-            "t_Badge_fetter_icon_green.png"
+            "t_Badge_fetter_icon_green.png",
         ],
         "stat": {
             "Def": "-3",
@@ -6428,7 +6428,7 @@ const badges=[
         "mon": "Yanma",
         "ico": "t_SupportMedal_Icon_0193_2_db017e106d07532b.png",
         "type": [
-            "t_Badge_fetter_icon_green.png"
+            "t_Badge_fetter_icon_green.png",
         ],
         "stat": {
             "Def": "-4",
@@ -6439,7 +6439,7 @@ const badges=[
         "mon": "Yanma",
         "ico": "t_SupportMedal_Icon_0193_3_db1b98dde4bff4c6.png",
         "type": [
-            "t_Badge_fetter_icon_green.png"
+            "t_Badge_fetter_icon_green.png",
         ],
         "stat": {
             "Def": "-5",
@@ -6450,7 +6450,7 @@ const badges=[
         "mon": "Wooper",
         "ico": "t_SupportMedal_Icon_0194_1_f00204e44040a926.png",
         "type": [
-            "t_Badge_fetter_icon_blue.png"
+            "t_Badge_fetter_icon_blue.png",
         ],
         "stat": {
             "HP": "30",
@@ -6461,7 +6461,7 @@ const badges=[
         "mon": "Wooper",
         "ico": "t_SupportMedal_Icon_0194_2_19e4810c55543418.png",
         "type": [
-            "t_Badge_fetter_icon_blue.png"
+            "t_Badge_fetter_icon_blue.png",
         ],
         "stat": {
             "HP": "40",
@@ -6472,7 +6472,7 @@ const badges=[
         "mon": "Wooper",
         "ico": "t_SupportMedal_Icon_0194_3_39a80bc9a375bbe8.png",
         "type": [
-            "t_Badge_fetter_icon_blue.png"
+            "t_Badge_fetter_icon_blue.png",
         ],
         "stat": {
             "HP": "50",
@@ -6519,7 +6519,7 @@ const badges=[
         "mon": "Espeon",
         "ico": "t_SupportMedal_Icon_0196_1_37106205d35ebea0.png",
         "type": [
-            "t_Badge_fetter_icon_purple.png"
+            "t_Badge_fetter_icon_purple.png",
         ],
         "stat": {
             "Def": "-3",
@@ -6530,7 +6530,7 @@ const badges=[
         "mon": "Espeon",
         "ico": "t_SupportMedal_Icon_0196_2_eb72c5dfd5a1c043.png",
         "type": [
-            "t_Badge_fetter_icon_purple.png"
+            "t_Badge_fetter_icon_purple.png",
         ],
         "stat": {
             "Def": "-4",
@@ -6541,7 +6541,7 @@ const badges=[
         "mon": "Espeon",
         "ico": "t_SupportMedal_Icon_0196_3_0a7782c2782925ca.png",
         "type": [
-            "t_Badge_fetter_icon_purple.png"
+            "t_Badge_fetter_icon_purple.png",
         ],
         "stat": {
             "Def": "-5",
@@ -6552,7 +6552,7 @@ const badges=[
         "mon": "Umbreon",
         "ico": "t_SupportMedal_Icon_0197_1_5f2712c96186c048.png",
         "type": [
-            "t_Badge_fetter_icon_black.png"
+            "t_Badge_fetter_icon_black.png",
         ],
         "stat": {
             "Sp. Atk": "-1.8",
@@ -6563,7 +6563,7 @@ const badges=[
         "mon": "Umbreon",
         "ico": "t_SupportMedal_Icon_0197_2_27c05ea54711e688.png",
         "type": [
-            "t_Badge_fetter_icon_black.png"
+            "t_Badge_fetter_icon_black.png",
         ],
         "stat": {
             "Sp. Atk": "-2.4",
@@ -6574,7 +6574,7 @@ const badges=[
         "mon": "Umbreon",
         "ico": "t_SupportMedal_Icon_0197_3_bb2595d14be5fc0a.png",
         "type": [
-            "t_Badge_fetter_icon_black.png"
+            "t_Badge_fetter_icon_black.png",
         ],
         "stat": {
             "Sp. Atk": "-3",
@@ -6585,7 +6585,7 @@ const badges=[
         "mon": "Murkrow",
         "ico": "t_SupportMedal_Icon_0198_1_4156cb0e98e94000.png",
         "type": [
-            "t_Badge_fetter_icon_black.png"
+            "t_Badge_fetter_icon_black.png",
         ],
         "stat": {
             "Sp. Atk": "1.8",
@@ -6596,7 +6596,7 @@ const badges=[
         "mon": "Murkrow",
         "ico": "t_SupportMedal_Icon_0198_2_bee780a9d9faca6a.png",
         "type": [
-            "t_Badge_fetter_icon_black.png"
+            "t_Badge_fetter_icon_black.png",
         ],
         "stat": {
             "Sp. Atk": "2.4",
@@ -6607,7 +6607,7 @@ const badges=[
         "mon": "Murkrow",
         "ico": "t_SupportMedal_Icon_0198_3_7670b297d331155c.png",
         "type": [
-            "t_Badge_fetter_icon_black.png"
+            "t_Badge_fetter_icon_black.png",
         ],
         "stat": {
             "Sp. Atk": "3",
@@ -6654,7 +6654,7 @@ const badges=[
         "mon": "Misdreavus",
         "ico": "t_SupportMedal_Icon_0200_1_21aecccbda8ccabe.png",
         "type": [
-            "t_Badge_fetter_icon_purple.png"
+            "t_Badge_fetter_icon_purple.png",
         ],
         "stat": {
             "HP": "-30",
@@ -6665,7 +6665,7 @@ const badges=[
         "mon": "Misdreavus",
         "ico": "t_SupportMedal_Icon_0200_2_c8f7874dc3d47eb6.png",
         "type": [
-            "t_Badge_fetter_icon_purple.png"
+            "t_Badge_fetter_icon_purple.png",
         ],
         "stat": {
             "HP": "-40",
@@ -6676,7 +6676,7 @@ const badges=[
         "mon": "Misdreavus",
         "ico": "t_SupportMedal_Icon_0200_3_62f744e9371a03c1.png",
         "type": [
-            "t_Badge_fetter_icon_purple.png"
+            "t_Badge_fetter_icon_purple.png",
         ],
         "stat": {
             "HP": "-50",
@@ -6687,7 +6687,7 @@ const badges=[
         "mon": "Unown",
         "ico": "t_SupportMedal_Icon_0201_1_0a317b44111ac3bd.png",
         "type": [
-            "t_Badge_fetter_icon_purple.png"
+            "t_Badge_fetter_icon_purple.png",
         ],
         "stat": {
             "HP": "-30",
@@ -6698,7 +6698,7 @@ const badges=[
         "mon": "Unown",
         "ico": "t_SupportMedal_Icon_0201_2_f79f282fdaa1b07f.png",
         "type": [
-            "t_Badge_fetter_icon_purple.png"
+            "t_Badge_fetter_icon_purple.png",
         ],
         "stat": {
             "HP": "-40",
@@ -6709,11 +6709,1738 @@ const badges=[
         "mon": "Unown",
         "ico": "t_SupportMedal_Icon_0201_3_2d1fac59c12ba09d.png",
         "type": [
-            "t_Badge_fetter_icon_purple.png"
+            "t_Badge_fetter_icon_purple.png",
         ],
         "stat": {
             "HP": "-50",
             "Atk": "2",
+        }
+    },
+    {
+        "mon": "Wobbuffet",
+        "ico": "t_SupportMedal_Icon_0202_1_c4f0b515e2628c6e.png",
+        "type": [
+            "t_Badge_fetter_icon_purple.png",
+        ],
+        "stat": {
+            "HP": "30",
+            "Crit. Chance": "-0.3",
+        }
+    },
+    {
+        "mon": "Wobbuffet",
+        "ico": "t_SupportMedal_Icon_0202_2_b0a12125b8f9cfd6.png",
+        "type": [
+            "t_Badge_fetter_icon_purple.png",
+        ],
+        "stat": {
+            "HP": "40",
+            "Crit. Chance": "-0.5",
+        }
+    },
+    {
+        "mon": "Wobbuffet",
+        "ico": "t_SupportMedal_Icon_0202_3_2475629e8f45b0de.png",
+        "type": [
+            "t_Badge_fetter_icon_purple.png",
+        ],
+        "stat": {
+            "HP": "50",
+            "Crit. Chance": "-0.6",
+        }
+    },
+    {
+        "mon": "Girafarig",
+        "ico": "t_SupportMedal_Icon_0203_1_f5594e33f7c195b7.png",
+        "type": [
+            "t_Badge_fetter_icon_purple.png",
+        ],
+        "stat": {
+            "HP": "30",
+            "Sp. Def": "-3",
+        }
+    },
+    {
+        "mon": "Girafarig",
+        "ico": "t_SupportMedal_Icon_0203_2_4fea6363fd4ba5fc.png",
+        "type": [
+            "t_Badge_fetter_icon_purple.png",
+        ],
+        "stat": {
+            "HP": "40",
+            "Sp. Def": "-4",
+        }
+    },
+    {
+        "mon": "Girafarig",
+        "ico": "t_SupportMedal_Icon_0203_3_518df6fe4257dd7e.png",
+        "type": [
+            "t_Badge_fetter_icon_purple.png",
+        ],
+        "stat": {
+            "HP": "50",
+            "Sp. Def": "-5",
+        }
+    },
+    {
+        "mon": "Pineco",
+        "ico": "t_SupportMedal_Icon_0204_1_1e657a8bfb03fa1a.png",
+        "type": [
+            "t_Badge_fetter_icon_green.png",
+        ],
+        "stat": {
+            "HP": "-30",
+            "Def": "3",
+        }
+    },
+    {
+        "mon": "Pineco",
+        "ico": "t_SupportMedal_Icon_0204_2_d10a0d42f8c5e982.png",
+        "type": [
+            "t_Badge_fetter_icon_green.png",
+        ],
+        "stat": {
+            "HP": "-40",
+            "Def": "4",
+        }
+    },
+    {
+        "mon": "Pineco",
+        "ico": "t_SupportMedal_Icon_0204_3_e5facd71aec8832a.png",
+        "type": [
+            "t_Badge_fetter_icon_green.png",
+        ],
+        "stat": {
+            "HP": "-50",
+            "Def": "5",
+        }
+    },
+    {
+        "mon": "Forretress",
+        "ico": "t_SupportMedal_Icon_0205_1_88625ec229f28e5b.png",
+        "type": [
+            "t_Badge_fetter_icon_gray.png",
+        ],
+        "stat": {
+            "Def": "3",
+            "Sp. Atk": "-1.8",
+        }
+    },
+    {
+        "mon": "Forretress",
+        "ico": "t_SupportMedal_Icon_0205_2_578812c472a003e2.png",
+        "type": [
+            "t_Badge_fetter_icon_gray.png",
+        ],
+        "stat": {
+            "Def": "4",
+            "Sp. Atk": "-2.4",
+        }
+    },
+    {
+        "mon": "Forretress",
+        "ico": "t_SupportMedal_Icon_0205_3_cbff8cc5d373ad72.png",
+        "type": [
+            "t_Badge_fetter_icon_gray.png",
+        ],
+        "stat": {
+            "Def": "5",
+            "Sp. Atk": "-3",
+        }
+    },
+    {
+        "mon": "Dunsparce",
+        "ico": "t_SupportMedal_Icon_0206_1_e8b05cb7e54d9595.png",
+        "type": [
+            "t_Badge_fetter_icon_white.png",
+        ],
+        "stat": {
+            "HP": "30",
+            "Sp. Atk": "-1.8",
+        }
+    },
+    {
+        "mon": "Dunsparce",
+        "ico": "t_SupportMedal_Icon_0206_2_1a2dc1b3fefe674e.png",
+        "type": [
+            "t_Badge_fetter_icon_white.png",
+        ],
+        "stat": {
+            "HP": "40",
+            "Sp. Atk": "-2.4",
+        }
+    },
+    {
+        "mon": "Dunsparce",
+        "ico": "t_SupportMedal_Icon_0206_3_2b967766532960c3.png",
+        "type": [
+            "t_Badge_fetter_icon_white.png",
+        ],
+        "stat": {
+            "HP": "50",
+            "Sp. Atk": "-3",
+        }
+    },
+    {
+        "mon": "Gligar",
+        "ico": "t_SupportMedal_Icon_0207_1_5befb425b0b096c4.png",
+        "type": [
+            "t_Badge_fetter_icon_orange.png",
+        ],
+        "stat": {
+            "Def": "3",
+            "Sp. Atk": "-1.8",
+        }
+    },
+    {
+        "mon": "Gligar",
+        "ico": "t_SupportMedal_Icon_0207_2_a6e67a203425e60e.png",
+        "type": [
+            "t_Badge_fetter_icon_orange.png",
+        ],
+        "stat": {
+            "Def": "4",
+            "Sp. Atk": "-2.4",
+        }
+    },
+    {
+        "mon": "Gligar",
+        "ico": "t_SupportMedal_Icon_0207_3_635d8790c768281d.png",
+        "type": [
+            "t_Badge_fetter_icon_orange.png",
+        ],
+        "stat": {
+            "Def": "5",
+            "Sp. Atk": "-3",
+        }
+    },
+    {
+        "mon": "Steelix",
+        "ico": "t_SupportMedal_Icon_0208_1_de8381e83bd791fc.png",
+        "type": [
+            "t_Badge_fetter_icon_gray.png",
+            "t_Badge_fetter_icon_orange.png"
+        ],
+        "stat": {
+            "Def": "3",
+            "Sp. Def": "-3",
+        }
+    },
+    {
+        "mon": "Steelix",
+        "ico": "t_SupportMedal_Icon_0208_2_3b216f25c230f205.png",
+        "type": [
+            "t_Badge_fetter_icon_gray.png",
+            "t_Badge_fetter_icon_orange.png"
+        ],
+        "stat": {
+            "Def": "4",
+            "Sp. Def": "-4",
+        }
+    },
+    {
+        "mon": "Steelix",
+        "ico": "t_SupportMedal_Icon_0208_3_bfc7cb16c39a14fc.png",
+        "type": [
+            "t_Badge_fetter_icon_gray.png",
+            "t_Badge_fetter_icon_orange.png"
+        ],
+        "stat": {
+            "Def": "5",
+            "Sp. Def": "-5",
+        }
+    },
+    {
+        "mon": "Snubbull",
+        "ico": "t_SupportMedal_Icon_0209_1_330b6ee2d5f92771.png",
+        "type": [
+            "t_Badge_fetter_icon_peach.png",
+        ],
+        "stat": {
+            "HP": "-30",
+            "Atk": "1.2",
+        }
+    },
+    {
+        "mon": "Snubbull",
+        "ico": "t_SupportMedal_Icon_0209_2_9d698ae3f114d5b4.png",
+        "type": [
+            "t_Badge_fetter_icon_peach.png",
+        ],
+        "stat": {
+            "HP": "-40",
+            "Atk": "1.6",
+        }
+    },
+    {
+        "mon": "Snubbull",
+        "ico": "t_SupportMedal_Icon_0209_3_7deff45ebd67349a.png",
+        "type": [
+            "t_Badge_fetter_icon_peach.png",
+        ],
+        "stat": {
+            "HP": "-50",
+            "Atk": "2",
+        }
+    },
+    {
+        "mon": "Granbull",
+        "ico": "t_SupportMedal_Icon_0210_1_c065ae1cd64efef9.png",
+        "type": [
+            "t_Badge_fetter_icon_peach.png",
+        ],
+        "stat": {
+            "Atk": "1.2",
+            "Sp. Def": "-3",
+        }
+    },
+    {
+        "mon": "Granbull",
+        "ico": "t_SupportMedal_Icon_0210_2_318efcff7af4fa02.png",
+        "type": [
+            "t_Badge_fetter_icon_peach.png",
+        ],
+        "stat": {
+            "Atk": "1.6",
+            "Sp. Def": "-4",
+        }
+    },
+    {
+        "mon": "Granbull",
+        "ico": "t_SupportMedal_Icon_0210_3_04dacc92fd3dcdec.png",
+        "type": [
+            "t_Badge_fetter_icon_peach.png",
+        ],
+        "stat": {
+            "Atk": "2",
+            "Sp. Def": "-5",
+        }
+    },
+    {
+        "mon": "Qwilfish",
+        "ico": "t_SupportMedal_Icon_0211_1_184d1009da473358.png",
+        "type": [
+            "t_Badge_fetter_icon_black.png",
+        ],
+        "stat": {
+            "HP": "30",
+            "Sp. Def": "-3",
+        }
+    },
+    {
+        "mon": "Qwilfish",
+        "ico": "t_SupportMedal_Icon_0211_2_9ba48ce735a9d848.png",
+        "type": [
+            "t_Badge_fetter_icon_black.png",
+        ],
+        "stat": {
+            "HP": "40",
+            "Sp. Def": "-4",
+        }
+    },
+    {
+        "mon": "Qwilfish",
+        "ico": "t_SupportMedal_Icon_0211_3_26c9367034db1f25.png",
+        "type": [
+            "t_Badge_fetter_icon_black.png",
+        ],
+        "stat": {
+            "HP": "50",
+            "Sp. Def": "-5",
+        }
+    },
+    {
+        "mon": "Scizor",
+        "ico": "t_SupportMedal_Icon_0212_1_0210437c0ace96e7.png",
+        "type": [
+            "t_Badge_fetter_icon_gray.png",
+        ],
+        "stat": {
+            "Sp. Def": "-3",
+            "Crit. Chance": "0.3",
+        }
+    },
+    {
+        "mon": "Scizor",
+        "ico": "t_SupportMedal_Icon_0212_2_7da9ec4a0d4f695a.png",
+        "type": [
+            "t_Badge_fetter_icon_gray.png",
+        ],
+        "stat": {
+            "Sp. Def": "-4",
+            "Crit. Chance": "0.5",
+        }
+    },
+    {
+        "mon": "Scizor",
+        "ico": "t_SupportMedal_Icon_0212_3_04918274bcd06711.png",
+        "type": [
+            "t_Badge_fetter_icon_gray.png",
+        ],
+        "stat": {
+            "Sp. Def": "-5",
+            "Crit. Chance": "0.6",
+        }
+    },
+    {
+        "mon": "Shuckle",
+        "ico": "t_SupportMedal_Icon_0213_1_e283e5682fc9a36b.png",
+        "type": [
+            "t_Badge_fetter_icon_orange.png",
+        ],
+        "stat": {
+            "HP": "-30",
+            "Sp. Def": "3",
+        }
+    },
+    {
+        "mon": "Shuckle",
+        "ico": "t_SupportMedal_Icon_0213_2_af7e171ddc82c9b3.png",
+        "type": [
+            "t_Badge_fetter_icon_orange.png",
+        ],
+        "stat": {
+            "HP": "-40",
+            "Sp. Def": "4",
+        }
+    },
+    {
+        "mon": "Shuckle",
+        "ico": "t_SupportMedal_Icon_0213_3_69735a4221624dc3.png",
+        "type": [
+            "t_Badge_fetter_icon_orange.png",
+        ],
+        "stat": {
+            "HP": "-50",
+            "Sp. Def": "5",
+        }
+    },
+    {
+        "mon": "Heracross",
+        "ico": "t_SupportMedal_Icon_0214_1_89f7613745b498a0.png",
+        "type": [
+            "t_Badge_fetter_icon_orange.png",
+        ],
+        "stat": {
+            "HP": "-30",
+            "Atk": "1.2",
+        }
+    },
+    {
+        "mon": "Heracross",
+        "ico": "t_SupportMedal_Icon_0214_2_4d9afae06d9513ca.png",
+        "type": [
+            "t_Badge_fetter_icon_orange.png",
+        ],
+        "stat": {
+            "HP": "-40",
+            "Atk": "1.6",
+        }
+    },
+    {
+        "mon": "Heracross",
+        "ico": "t_SupportMedal_Icon_0214_3_7e954f72ac73cd95.png",
+        "type": [
+            "t_Badge_fetter_icon_orange.png",
+        ],
+        "stat": {
+            "HP": "-50",
+            "Atk": "2",
+        }
+    },
+    {
+        "mon": "Sneasel",
+        "ico": "t_SupportMedal_Icon_0215_1_c2623201116bb131.png",
+        "type": [
+            "t_Badge_fetter_icon_black.png",
+        ],
+        "stat": {
+            "HP": "-30",
+            "Crit. Chance": "0.3",
+        }
+    },
+    {
+        "mon": "Sneasel",
+        "ico": "t_SupportMedal_Icon_0215_2_454675dadf06e95e.png",
+        "type": [
+            "t_Badge_fetter_icon_black.png",
+        ],
+        "stat": {
+            "HP": "-40",
+            "Crit. Chance": "0.5",
+        }
+    },
+    {
+        "mon": "Sneasel",
+        "ico": "t_SupportMedal_Icon_0215_3_a97db067eafee376.png",
+        "type": [
+            "t_Badge_fetter_icon_black.png",
+        ],
+        "stat": {
+            "HP": "-50",
+            "Crit. Chance": "0.6",
+        }
+    },
+    {
+        "mon": "Teddiursa",
+        "ico": "t_SupportMedal_Icon_0216_1_3a356241377a350c.png",
+        "type": [
+            "t_Badge_fetter_icon_white.png",
+        ],
+        "stat": {
+            "HP": "-30",
+            "Atk": "1.2",
+        }
+    },
+    {
+        "mon": "Teddiursa",
+        "ico": "t_SupportMedal_Icon_0216_2_540ff6093389c877.png",
+        "type": [
+            "t_Badge_fetter_icon_white.png",
+        ],
+        "stat": {
+            "HP": "-40",
+            "Atk": "1.6",
+        }
+    },
+    {
+        "mon": "Teddiursa",
+        "ico": "t_SupportMedal_Icon_0216_3_f5b3b8bccef42242.png",
+        "type": [
+            "t_Badge_fetter_icon_white.png",
+        ],
+        "stat": {
+            "HP": "-50",
+            "Atk": "2",
+        }
+    },
+    {
+        "mon": "Ursaring",
+        "ico": "t_SupportMedal_Icon_0217_1_dec770cf870588cc.png",
+        "type": [
+            "t_Badge_fetter_icon_white.png",
+        ],
+        "stat": {
+            "Atk": "1.2",
+            "Move Speed": "-21",
+        }
+    },
+    {
+        "mon": "Ursaring",
+        "ico": "t_SupportMedal_Icon_0217_2_5ccf843ca3d7ef02.png",
+        "type": [
+            "t_Badge_fetter_icon_white.png",
+        ],
+        "stat": {
+            "Atk": "1.6",
+            "Move Speed": "-28",
+        }
+    },
+    {
+        "mon": "Ursaring",
+        "ico": "t_SupportMedal_Icon_0217_3_44c550e78d427b91.png",
+        "type": [
+            "t_Badge_fetter_icon_white.png",
+        ],
+        "stat": {
+            "Atk": "2",
+            "Move Speed": "-35",
+        }
+    },
+    {
+        "mon": "Slugma",
+        "ico": "t_SupportMedal_Icon_0218_1_a439ea9ec59ec939.png",
+        "type": [
+            "t_Badge_fetter_icon_red.png",
+        ],
+        "stat": {
+            "Atk": "-1.2",
+            "Def": "3",
+        }
+    },
+    {
+        "mon": "Slugma",
+        "ico": "t_SupportMedal_Icon_0218_2_6ae3ca16196767ff.png",
+        "type": [
+            "t_Badge_fetter_icon_red.png",
+        ],
+        "stat": {
+            "Atk": "-1.6",
+            "Def": "4",
+        }
+    },
+    {
+        "mon": "Slugma",
+        "ico": "t_SupportMedal_Icon_0218_3_d66265779e22cd64.png",
+        "type": [
+            "t_Badge_fetter_icon_red.png",
+        ],
+        "stat": {
+            "Atk": "-2",
+            "Def": "5",
+        }
+    },
+    {
+        "mon": "Magcargo",
+        "ico": "t_SupportMedal_Icon_0219_1_0d0c213ca0a0c008.png",
+        "type": [
+            "t_Badge_fetter_icon_red.png",
+        ],
+        "stat": {
+            "HP": "-30",
+            "Def": "3",
+        }
+    },
+    {
+        "mon": "Magcargo",
+        "ico": "t_SupportMedal_Icon_0219_2_338e6d96d88ceb8d.png",
+        "type": [
+            "t_Badge_fetter_icon_red.png",
+        ],
+        "stat": {
+            "HP": "-40",
+            "Def": "4",
+        }
+    },
+    {
+        "mon": "Magcargo",
+        "ico": "t_SupportMedal_Icon_0219_3_5b9b0f638d5183ce.png",
+        "type": [
+            "t_Badge_fetter_icon_red.png",
+        ],
+        "stat": {
+            "HP": "-50",
+            "Def": "5",
+        }
+    },
+    {
+        "mon": "Swinub",
+        "ico": "t_SupportMedal_Icon_0220_1_c59b7c413922f339.png",
+        "type": [
+            "t_Badge_fetter_icon_blue.png",
+        ],
+        "stat": {
+            "HP": "30",
+            "Sp. Def": "-3",
+        }
+    },
+    {
+        "mon": "Swinub",
+        "ico": "t_SupportMedal_Icon_0220_2_acf7c5b89f996401.png",
+        "type": [
+            "t_Badge_fetter_icon_blue.png",
+        ],
+        "stat": {
+            "HP": "40",
+            "Sp. Def": "-4",
+        }
+    },
+    {
+        "mon": "Swinub",
+        "ico": "t_SupportMedal_Icon_0220_3_90654a44d054d8f3.png",
+        "type": [
+            "t_Badge_fetter_icon_blue.png",
+        ],
+        "stat": {
+            "HP": "50",
+            "Sp. Def": "-5",
+        }
+    },
+    {
+        "mon": "Piloswine",
+        "ico": "t_SupportMedal_Icon_0221_1_0b5bd9c26bb0c20f.png",
+        "type": [
+            "t_Badge_fetter_icon_blue.png",
+            "t_Badge_fetter_icon_orange.png"
+        ],
+        "stat": {
+            "HP": "30",
+            "Crit. Chance": "-0.3",
+        }
+    },
+    {
+        "mon": "Piloswine",
+        "ico": "t_SupportMedal_Icon_0221_2_70c2c47eebaf11b0.png",
+        "type": [
+            "t_Badge_fetter_icon_blue.png",
+            "t_Badge_fetter_icon_orange.png"
+        ],
+        "stat": {
+            "HP": "40",
+            "Crit. Chance": "-0.5",
+        }
+    },
+    {
+        "mon": "Piloswine",
+        "ico": "t_SupportMedal_Icon_0221_3_e723f4e3d90c5b3f.png",
+        "type": [
+            "t_Badge_fetter_icon_blue.png",
+            "t_Badge_fetter_icon_orange.png"
+        ],
+        "stat": {
+            "HP": "50",
+            "Crit. Chance": "-0.6",
+        }
+    },
+    {
+        "mon": "Corsola",
+        "ico": "t_SupportMedal_Icon_0222_1_4d7847c9d3ccc807.png",
+        "type": [
+            "t_Badge_fetter_icon_blue.png",
+        ],
+        "stat": {
+            "Atk": "-1.2",
+            "Sp. Def": "3",
+        }
+    },
+    {
+        "mon": "Corsola",
+        "ico": "t_SupportMedal_Icon_0222_2_8c2e5894f65ff27a.png",
+        "type": [
+            "t_Badge_fetter_icon_blue.png",
+        ],
+        "stat": {
+            "Atk": "-1.6",
+            "Sp. Def": "4",
+        }
+    },
+    {
+        "mon": "Corsola",
+        "ico": "t_SupportMedal_Icon_0222_3_76741f7acc0bdbf3.png",
+        "type": [
+            "t_Badge_fetter_icon_blue.png",
+        ],
+        "stat": {
+            "Atk": "-2",
+            "Sp. Def": "5",
+        }
+    },
+    {
+        "mon": "Remoraid",
+        "ico": "t_SupportMedal_Icon_0223_1_89b4c599387f3410.png",
+        "type": [
+            "t_Badge_fetter_icon_blue.png",
+        ],
+        "stat": {
+            "HP": "-30",
+            "Sp. Atk": "1.8",
+        }
+    },
+    {
+        "mon": "Remoraid",
+        "ico": "t_SupportMedal_Icon_0223_2_82e4ade0d7549f96.png",
+        "type": [
+            "t_Badge_fetter_icon_blue.png",
+        ],
+        "stat": {
+            "HP": "-40",
+            "Sp. Atk": "2.4",
+        }
+    },
+    {
+        "mon": "Remoraid",
+        "ico": "t_SupportMedal_Icon_0223_3_ac0b44a80dc47181.png",
+        "type": [
+            "t_Badge_fetter_icon_blue.png",
+        ],
+        "stat": {
+            "HP": "-50",
+            "Sp. Atk": "3",
+        }
+    },
+    {
+        "mon": "Octillery",
+        "ico": "t_SupportMedal_Icon_0224_1_88b9e069918062f3.png",
+        "type": [
+            "t_Badge_fetter_icon_blue.png",
+        ],
+        "stat": {
+            "Def": "-3",
+            "Sp. Atk": "1.8",
+        }
+    },
+    {
+        "mon": "Octillery",
+        "ico": "t_SupportMedal_Icon_0224_2_0ed2fc0074c9e88a.png",
+        "type": [
+            "t_Badge_fetter_icon_blue.png",
+        ],
+        "stat": {
+            "Def": "-4",
+            "Sp. Atk": "2.4",
+        }
+    },
+    {
+        "mon": "Octillery",
+        "ico": "t_SupportMedal_Icon_0224_3_5ff36b1a002bf2bd.png",
+        "type": [
+            "t_Badge_fetter_icon_blue.png",
+        ],
+        "stat": {
+            "Def": "-5",
+            "Sp. Atk": "3",
+        }
+    },
+    {
+        "mon": "Delibird",
+        "ico": "t_SupportMedal_Icon_0225_1_e5b79f29096450a3.png",
+        "type": [
+            "t_Badge_fetter_icon_white.png",
+            "t_Badge_fetter_icon_blue.png"
+        ],
+        "stat": {
+            "HP": "-30",
+            "Sp. Atk": "1.8",
+        }
+    },
+    {
+        "mon": "Delibird",
+        "ico": "t_SupportMedal_Icon_0225_2_2d146ae0a0e31246.png",
+        "type": [
+            "t_Badge_fetter_icon_white.png",
+            "t_Badge_fetter_icon_blue.png"
+        ],
+        "stat": {
+            "HP": "-40",
+            "Sp. Atk": "2.4",
+        }
+    },
+    {
+        "mon": "Delibird",
+        "ico": "t_SupportMedal_Icon_0225_3_e6814ea3c9b6d600.png",
+        "type": [
+            "t_Badge_fetter_icon_white.png",
+            "t_Badge_fetter_icon_blue.png"
+        ],
+        "stat": {
+            "HP": "-50",
+            "Sp. Atk": "3",
+        }
+    },
+    {
+        "mon": "Mantine",
+        "ico": "t_SupportMedal_Icon_0226_1_e63750958a29b879.png",
+        "type": [
+            "t_Badge_fetter_icon_white.png",
+            "t_Badge_fetter_icon_blue.png"
+        ],
+        "stat": {
+            "Atk": "-1.2",
+            "Sp. Def": "3",
+        }
+    },
+    {
+        "mon": "Mantine",
+        "ico": "t_SupportMedal_Icon_0226_2_283b7478ef53fea2.png",
+        "type": [
+            "t_Badge_fetter_icon_white.png",
+            "t_Badge_fetter_icon_blue.png"
+        ],
+        "stat": {
+            "Atk": "-1.6",
+            "Sp. Def": "4",
+        }
+    },
+    {
+        "mon": "Mantine",
+        "ico": "t_SupportMedal_Icon_0226_3_d56f1590a22be3af.png",
+        "type": [
+            "t_Badge_fetter_icon_white.png",
+            "t_Badge_fetter_icon_blue.png"
+        ],
+        "stat": {
+            "Atk": "-2",
+            "Sp. Def": "5",
+        }
+    },
+    {
+        "mon": "Skarmory",
+        "ico": "t_SupportMedal_Icon_0227_1_0f6155f330db8dc8.png",
+        "type": [
+            "t_Badge_fetter_icon_gray.png",
+        ],
+        "stat": {
+            "HP": "-30",
+            "Atk": "1.2",
+        }
+    },
+    {
+        "mon": "Skarmory",
+        "ico": "t_SupportMedal_Icon_0227_2_f79bde4c51d60b68.png",
+        "type": [
+            "t_Badge_fetter_icon_gray.png",
+        ],
+        "stat": {
+            "HP": "-40",
+            "Atk": "1.6",
+        }
+    },
+    {
+        "mon": "Skarmory",
+        "ico": "t_SupportMedal_Icon_0227_3_6c84f05923340bdd.png",
+        "type": [
+            "t_Badge_fetter_icon_gray.png",
+        ],
+        "stat": {
+            "HP": "-50",
+            "Atk": "2",
+        }
+    },
+    {
+        "mon": "Houndour",
+        "ico": "t_SupportMedal_Icon_0228_1_9b6a19026def1673.png",
+        "type": [
+            "t_Badge_fetter_icon_red.png",
+        ],
+        "stat": {
+            "HP": "-30",
+            "Atk": "1.2",
+        }
+    },
+    {
+        "mon": "Houndour",
+        "ico": "t_SupportMedal_Icon_0228_2_079dac4bccc3d45c.png",
+        "type": [
+            "t_Badge_fetter_icon_red.png",
+        ],
+        "stat": {
+            "HP": "-40",
+            "Atk": "1.6",
+        }
+    },
+    {
+        "mon": "Houndour",
+        "ico": "t_SupportMedal_Icon_0228_3_de9f78fa7ed88f7d.png",
+        "type": [
+            "t_Badge_fetter_icon_red.png",
+        ],
+        "stat": {
+            "HP": "-50",
+            "Atk": "2",
+        }
+    },
+    {
+        "mon": "Houndoom",
+        "ico": "t_SupportMedal_Icon_0229_1_22a76393c31ccbfd.png",
+        "type": [
+            "t_Badge_fetter_icon_black.png",
+            "t_Badge_fetter_icon_red.png"
+        ],
+        "stat": {
+            "Atk": "1.2",
+            "Def": "-3",
+        }
+    },
+    {
+        "mon": "Houndoom",
+        "ico": "t_SupportMedal_Icon_0229_2_db743630473d5e01.png",
+        "type": [
+            "t_Badge_fetter_icon_black.png",
+            "t_Badge_fetter_icon_red.png"
+        ],
+        "stat": {
+            "Atk": "1.6",
+            "Def": "-4",
+        }
+    },
+    {
+        "mon": "Houndoom",
+        "ico": "t_SupportMedal_Icon_0229_3_c12335909a69a33c.png",
+        "type": [
+            "t_Badge_fetter_icon_black.png",
+            "t_Badge_fetter_icon_red.png"
+        ],
+        "stat": {
+            "Atk": "2",
+            "Def": "-5",
+        }
+    },
+    {
+        "mon": "Kingdra",
+        "ico": "t_SupportMedal_Icon_0230_1_3101bd09daab3176.png",
+        "type": [
+            "t_Badge_fetter_icon_blue.png",
+            "t_Badge_fetter_icon_deepblue.png"
+        ],
+        "stat": {
+            "Sp. Atk": "1.8",
+            "Move Speed": "-21",
+        }
+    },
+    {
+        "mon": "Kingdra",
+        "ico": "t_SupportMedal_Icon_0230_2_66eaaa216c11bf88.png",
+        "type": [
+            "t_Badge_fetter_icon_blue.png",
+            "t_Badge_fetter_icon_deepblue.png"
+        ],
+        "stat": {
+            "Sp. Atk": "2.4",
+            "Move Speed": "-28",
+        }
+    },
+    {
+        "mon": "Kingdra",
+        "ico": "t_SupportMedal_Icon_0230_3_e9ee62f1da6e6e19.png",
+        "type": [
+            "t_Badge_fetter_icon_blue.png",
+            "t_Badge_fetter_icon_deepblue.png"
+        ],
+        "stat": {
+            "Sp. Atk": "3",
+            "Move Speed": "-35",
+        }
+    },
+    {
+        "mon": "Phanpy",
+        "ico": "t_SupportMedal_Icon_0231_1_348edc5cf2de15b8.png",
+        "type": [
+            "t_Badge_fetter_icon_orange.png",
+        ],
+        "stat": {
+            "HP": "-30",
+            "Atk": "1.2",
+        }
+    },
+    {
+        "mon": "Phanpy",
+        "ico": "t_SupportMedal_Icon_0231_2_532c9fcad1659132.png",
+        "type": [
+            "t_Badge_fetter_icon_orange.png",
+        ],
+        "stat": {
+            "HP": "-40",
+            "Atk": "1.6",
+        }
+    },
+    {
+        "mon": "Phanpy",
+        "ico": "t_SupportMedal_Icon_0231_3_043584c99dd45457.png",
+        "type": [
+            "t_Badge_fetter_icon_orange.png",
+        ],
+        "stat": {
+            "HP": "-50",
+            "Atk": "2",
+        }
+    },
+    {
+        "mon": "Donphan",
+        "ico": "t_SupportMedal_Icon_0232_1_031e91cd9a71397f.png",
+        "type": [
+            "t_Badge_fetter_icon_orange.png",
+        ],
+        "stat": {
+            "Atk": "1.2",
+            "Sp. Def": "-3",
+        }
+    },
+    {
+        "mon": "Donphan",
+        "ico": "t_SupportMedal_Icon_0232_2_16b00fcf3bb8258d.png",
+        "type": [
+            "t_Badge_fetter_icon_orange.png",
+        ],
+        "stat": {
+            "Atk": "1.6",
+            "Sp. Def": "-4",
+        }
+    },
+    {
+        "mon": "Donphan",
+        "ico": "t_SupportMedal_Icon_0232_3_d8e3d9656e593f3c.png",
+        "type": [
+            "t_Badge_fetter_icon_orange.png",
+        ],
+        "stat": {
+            "Atk": "2",
+            "Sp. Def": "-5",
+        }
+    },
+    {
+        "mon": "Porygon2",
+        "ico": "t_SupportMedal_Icon_0233_1_1326e994f4006ef1.png",
+        "type": [
+            "t_Badge_fetter_icon_white.png",
+        ],
+        "stat": {
+            "Atk": "-1.2",
+            "Sp. Atk": "1.8",
+        }
+    },
+    {
+        "mon": "Porygon2",
+        "ico": "t_SupportMedal_Icon_0233_2_1fac212da921aed4.png",
+        "type": [
+            "t_Badge_fetter_icon_white.png",
+        ],
+        "stat": {
+            "Atk": "-1.6",
+            "Sp. Atk": "2.4",
+        }
+    },
+    {
+        "mon": "Porygon2",
+        "ico": "t_SupportMedal_Icon_0233_3_8d09353cdbddbbb1.png",
+        "type": [
+            "t_Badge_fetter_icon_white.png",
+        ],
+        "stat": {
+            "Atk": "-2",
+            "Sp. Atk": "3",
+        }
+    },
+    {
+        "mon": "Stantler",
+        "ico": "t_SupportMedal_Icon_0234_1_ff018a71ba689192.png",
+        "type": [
+            "t_Badge_fetter_icon_white.png",
+        ],
+        "stat": {
+            "Sp. Atk": "1.8",
+            "Sp. Def": "-3",
+        }
+    },
+    {
+        "mon": "Stantler",
+        "ico": "t_SupportMedal_Icon_0234_2_68ae7b2ba9830487.png",
+        "type": [
+            "t_Badge_fetter_icon_white.png",
+        ],
+        "stat": {
+            "Sp. Atk": "2.4",
+            "Sp. Def": "-4",
+        }
+    },
+    {
+        "mon": "Stantler",
+        "ico": "t_SupportMedal_Icon_0234_3_ee5fdbd9656dcc71.png",
+        "type": [
+            "t_Badge_fetter_icon_white.png",
+        ],
+        "stat": {
+            "Sp. Atk": "3",
+            "Sp. Def": "-5",
+        }
+    },
+    {
+        "mon": "Smeargle",
+        "ico": "t_SupportMedal_Icon_0235_1_ea536d5ade48bda3.png",
+        "type": [
+            "t_Badge_fetter_icon_white.png",
+        ],
+        "stat": {
+            "HP": "30",
+            "Sp. Atk": "-1.8",
+        }
+    },
+    {
+        "mon": "Smeargle",
+        "ico": "t_SupportMedal_Icon_0235_2_96b7cc9cdaf698d8.png",
+        "type": [
+            "t_Badge_fetter_icon_white.png",
+        ],
+        "stat": {
+            "HP": "40",
+            "Sp. Atk": "-2.4",
+        }
+    },
+    {
+        "mon": "Smeargle",
+        "ico": "t_SupportMedal_Icon_0235_3_50738fee64b23c85.png",
+        "type": [
+            "t_Badge_fetter_icon_white.png",
+        ],
+        "stat": {
+            "HP": "50",
+            "Sp. Atk": "-3",
+        }
+    },
+    {
+        "mon": "Tyrogue",
+        "ico": "t_SupportMedal_Icon_0236_1_1c9261577f75942a.png",
+        "type": [
+            "t_Badge_fetter_icon_orange.png",
+        ],
+        "stat": {
+            "HP": "-30",
+            "Sp. Def": "3",
+        }
+    },
+    {
+        "mon": "Tyrogue",
+        "ico": "t_SupportMedal_Icon_0236_2_3ae0b1e55f6efb19.png",
+        "type": [
+            "t_Badge_fetter_icon_orange.png",
+        ],
+        "stat": {
+            "HP": "-40",
+            "Sp. Def": "4",
+        }
+    },
+    {
+        "mon": "Tyrogue",
+        "ico": "t_SupportMedal_Icon_0236_3_6edaf39b7b334694.png",
+        "type": [
+            "t_Badge_fetter_icon_orange.png",
+        ],
+        "stat": {
+            "HP": "-50",
+            "Sp. Def": "5",
+        }
+    },
+    {
+        "mon": "Hitmontop",
+        "ico": "t_SupportMedal_Icon_0237_1_d3db2107b625faac.png",
+        "type": [
+            "t_Badge_fetter_icon_orange.png",
+        ],
+        "stat": {
+            "Sp. Atk": "-1.8",
+            "Sp. Def": "3",
+        }
+    },
+    {
+        "mon": "Hitmontop",
+        "ico": "t_SupportMedal_Icon_0237_2_5c1dd98a760ea0b7.png",
+        "type": [
+            "t_Badge_fetter_icon_orange.png",
+        ],
+        "stat": {
+            "Sp. Atk": "-2.4",
+            "Sp. Def": "4",
+        }
+    },
+    {
+        "mon": "Hitmontop",
+        "ico": "t_SupportMedal_Icon_0237_3_b67715d72b7fe5c8.png",
+        "type": [
+            "t_Badge_fetter_icon_orange.png",
+        ],
+        "stat": {
+            "Sp. Atk": "-3",
+            "Sp. Def": "5",
+        }
+    },
+    {
+        "mon": "Smoochum",
+        "ico": "t_SupportMedal_Icon_0238_1_35441020650924dd.png",
+        "type": [
+            "t_Badge_fetter_icon_purple.png",
+        ],
+        "stat": {
+            "HP": "-30",
+            "Sp. Atk": "1.8",
+        }
+    },
+    {
+        "mon": "Smoochum",
+        "ico": "t_SupportMedal_Icon_0238_2_a6f44d93c9faa0c7.png",
+        "type": [
+            "t_Badge_fetter_icon_purple.png",
+        ],
+        "stat": {
+            "HP": "-40",
+            "Sp. Atk": "2.4",
+        }
+    },
+    {
+        "mon": "Smoochum",
+        "ico": "t_SupportMedal_Icon_0238_3_34b1429b260b149e.png",
+        "type": [
+            "t_Badge_fetter_icon_purple.png",
+        ],
+        "stat": {
+            "HP": "-50",
+            "Sp. Atk": "3",
+        }
+    },
+    {
+        "mon": "Elekid",
+        "ico": "t_SupportMedal_Icon_0239_1_39ac437b646b21ec.png",
+        "type": [
+            "t_Badge_fetter_icon_yellow.png",
+        ],
+        "stat": {
+            "HP": "-30",
+            "Atk": "1.2",
+        }
+    },
+    {
+        "mon": "Elekid",
+        "ico": "t_SupportMedal_Icon_0239_2_b0ba3e605e7f654a.png",
+        "type": [
+            "t_Badge_fetter_icon_yellow.png",
+        ],
+        "stat": {
+            "HP": "-40",
+            "Atk": "1.6",
+        }
+    },
+    {
+        "mon": "Elekid",
+        "ico": "t_SupportMedal_Icon_0239_3_4a2194d8b371633b.png",
+        "type": [
+            "t_Badge_fetter_icon_yellow.png",
+        ],
+        "stat": {
+            "HP": "-50",
+            "Atk": "2",
+        }
+    },
+    {
+        "mon": "Magby",
+        "ico": "t_SupportMedal_Icon_0240_1_4f1093107d321216.png",
+        "type": [
+            "t_Badge_fetter_icon_red.png",
+        ],
+        "stat": {
+            "Atk": "1.2",
+            "Def": "-3",
+        }
+    },
+    {
+        "mon": "Magby",
+        "ico": "t_SupportMedal_Icon_0240_2_33f0f3c0857dfe04.png",
+        "type": [
+            "t_Badge_fetter_icon_red.png",
+        ],
+        "stat": {
+            "Atk": "1.6",
+            "Def": "-4",
+        }
+    },
+    {
+        "mon": "Magby",
+        "ico": "t_SupportMedal_Icon_0240_3_8d4d753e8d330d30.png",
+        "type": [
+            "t_Badge_fetter_icon_red.png",
+        ],
+        "stat": {
+            "Atk": "2",
+            "Def": "-5",
+        }
+    },
+    {
+        "mon": "Miltank",
+        "ico": "t_SupportMedal_Icon_0241_1_27f4635a82121193.png",
+        "type": [
+            "t_Badge_fetter_icon_white.png",
+        ],
+        "stat": {
+            "Def": "3",
+            "Sp. Atk": "-1.8",
+        }
+    },
+    {
+        "mon": "Miltank",
+        "ico": "t_SupportMedal_Icon_0241_2_7c6458390939f66e.png",
+        "type": [
+            "t_Badge_fetter_icon_white.png",
+        ],
+        "stat": {
+            "Def": "4",
+            "Sp. Atk": "-2.4",
+        }
+    },
+    {
+        "mon": "Miltank",
+        "ico": "t_SupportMedal_Icon_0241_3_30f698b2c6bfbed3.png",
+        "type": [
+            "t_Badge_fetter_icon_white.png",
+        ],
+        "stat": {
+            "Def": "5",
+            "Sp. Atk": "-3",
+        }
+    },
+    {
+        "mon": "Blissey",
+        "ico": "t_SupportMedal_Icon_0242_1_dbf87368c9e1ed1f.png",
+        "type": [
+            "t_Badge_fetter_icon_white.png",
+        ],
+        "stat": {
+            "HP": "30",
+            "Atk": "-1.2",
+        }
+    },
+    {
+        "mon": "Blissey",
+        "ico": "t_SupportMedal_Icon_0242_2_22bf73ba327d2d1c.png",
+        "type": [
+            "t_Badge_fetter_icon_white.png",
+        ],
+        "stat": {
+            "HP": "40",
+            "Atk": "-1.6",
+        }
+    },
+    {
+        "mon": "Blissey",
+        "ico": "t_SupportMedal_Icon_0242_3_8a30a620a9af9931.png",
+        "type": [
+            "t_Badge_fetter_icon_white.png",
+        ],
+        "stat": {
+            "HP": "50",
+            "Atk": "-2",
+        }
+    },
+    {
+        "mon": "Raikou",
+        "ico": "t_SupportMedal_Icon_0243_1_2fe557755ee71f19.png",
+        "type": [
+            "t_Badge_fetter_icon_yellow.png",
+        ],
+        "stat": {
+            "HP": "30",
+            "Atk": "-1.2",
+        }
+    },
+    {
+        "mon": "Raikou",
+        "ico": "t_SupportMedal_Icon_0243_2_756a6d9db295747e.png",
+        "type": [
+            "t_Badge_fetter_icon_yellow.png",
+        ],
+        "stat": {
+            "HP": "40",
+            "Atk": "-1.6",
+        }
+    },
+    {
+        "mon": "Raikou",
+        "ico": "t_SupportMedal_Icon_0243_3_91df7faaf98b6d7d.png",
+        "type": [
+            "t_Badge_fetter_icon_yellow.png",
+        ],
+        "stat": {
+            "HP": "50",
+            "Atk": "-2",
+        }
+    },
+    {
+        "mon": "Entei",
+        "ico": "t_SupportMedal_Icon_0244_1_7146b793e93dedab.png",
+        "type": [
+            "t_Badge_fetter_icon_red.png",
+        ],
+        "stat": {
+            "HP": "30",
+            "Sp. Atk": "-1.8",
+        }
+    },
+    {
+        "mon": "Entei",
+        "ico": "t_SupportMedal_Icon_0244_2_67c6ace8bf1115bf.png",
+        "type": [
+            "t_Badge_fetter_icon_red.png",
+        ],
+        "stat": {
+            "HP": "40",
+            "Sp. Atk": "-2.4",
+        }
+    },
+    {
+        "mon": "Entei",
+        "ico": "t_SupportMedal_Icon_0244_3_6b12cfaf4909f844.png",
+        "type": [
+            "t_Badge_fetter_icon_red.png",
+        ],
+        "stat": {
+            "HP": "50",
+            "Sp. Atk": "-3",
+        }
+    },
+    {
+        "mon": "Suicune",
+        "ico": "t_SupportMedal_Icon_0245_1_252b745ee1fd4b4c.png",
+        "type": [
+            "t_Badge_fetter_icon_blue.png",
+        ],
+        "stat": {
+            "HP": "30",
+            "Atk": "-1.2",
+        }
+    },
+    {
+        "mon": "Suicune",
+        "ico": "t_SupportMedal_Icon_0245_2_21f31262a547940d.png",
+        "type": [
+            "t_Badge_fetter_icon_blue.png",
+        ],
+        "stat": {
+            "HP": "40",
+            "Atk": "-1.6",
+        }
+    },
+    {
+        "mon": "Suicune",
+        "ico": "t_SupportMedal_Icon_0245_3_2cc5f3e212eee407.png",
+        "type": [
+            "t_Badge_fetter_icon_blue.png",
+        ],
+        "stat": {
+            "HP": "50",
+            "Atk": "-2",
+        }
+    },
+    {
+        "mon": "Larvitar",
+        "ico": "t_SupportMedal_Icon_0246_1_e73f44f3e6da2cc7.png",
+        "type": [
+            "t_Badge_fetter_icon_orange.png",
+        ],
+        "stat": {
+            "HP": "30",
+            "Sp. Def": "-3",
+        }
+    },
+    {
+        "mon": "Larvitar",
+        "ico": "t_SupportMedal_Icon_0246_2_0769a158d62eec11.png",
+        "type": [
+            "t_Badge_fetter_icon_orange.png",
+        ],
+        "stat": {
+            "HP": "40",
+            "Sp. Def": "-4",
+        }
+    },
+    {
+        "mon": "Larvitar",
+        "ico": "t_SupportMedal_Icon_0246_3_5563d04762f615a8.png",
+        "type": [
+            "t_Badge_fetter_icon_orange.png",
+        ],
+        "stat": {
+            "HP": "50",
+            "Sp. Def": "-5",
+        }
+    },
+    {
+        "mon": "Pupitar",
+        "ico": "t_SupportMedal_Icon_0247_1_d47204eb389928d9.png",
+        "type": [
+            "t_Badge_fetter_icon_orange.png",
+        ],
+        "stat": {
+            "HP": "30",
+            "Move Speed": "-21",
+        }
+    },
+    {
+        "mon": "Pupitar",
+        "ico": "t_SupportMedal_Icon_0247_2_8431a8739c815fa4.png",
+        "type": [
+            "t_Badge_fetter_icon_orange.png",
+        ],
+        "stat": {
+            "HP": "40",
+            "Move Speed": "-28",
+        }
+    },
+    {
+        "mon": "Pupitar",
+        "ico": "t_SupportMedal_Icon_0247_3_804c055e001466de.png",
+        "type": [
+            "t_Badge_fetter_icon_orange.png",
+        ],
+        "stat": {
+            "HP": "50",
+            "Move Speed": "-35",
+        }
+    },
+    {
+        "mon": "Tyranitar",
+        "ico": "t_SupportMedal_Icon_0248_1_915ef1c4468c0635.png",
+        "type": [
+            "t_Badge_fetter_icon_orange.png",
+            "t_Badge_fetter_icon_black.png"
+        ],
+        "stat": {
+            "HP": "30",
+            "Crit. Chance": "-0.3",
+        }
+    },
+    {
+        "mon": "Tyranitar",
+        "ico": "t_SupportMedal_Icon_0248_2_ad417475232f4c46.png",
+        "type": [
+            "t_Badge_fetter_icon_orange.png",
+            "t_Badge_fetter_icon_black.png"
+        ],
+        "stat": {
+            "HP": "40",
+            "Crit. Chance": "-0.5",
+        }
+    },
+    {
+        "mon": "Tyranitar",
+        "ico": "t_SupportMedal_Icon_0248_3_d8c08ebff242a265.png",
+        "type": [
+            "t_Badge_fetter_icon_orange.png",
+            "t_Badge_fetter_icon_black.png"
+        ],
+        "stat": {
+            "HP": "50",
+            "Crit. Chance": "-0.6",
+        }
+    },
+    {
+        "mon": "Lugia",
+        "ico": "t_SupportMedal_Icon_0249_1_87b7b51bba221b9e.png",
+        "type": [
+            "t_Badge_fetter_icon_purple.png",
+            "t_Badge_fetter_icon_white.png"
+        ],
+        "stat": {
+            "Atk": "-1.2",
+            "Sp. Def": "3",
+        }
+    },
+    {
+        "mon": "Lugia",
+        "ico": "t_SupportMedal_Icon_0249_2_e62e85281d7178fc.png",
+        "type": [
+            "t_Badge_fetter_icon_purple.png",
+            "t_Badge_fetter_icon_white.png"
+        ],
+        "stat": {
+            "Atk": "-1.6",
+            "Sp. Def": "4",
+        }
+    },
+    {
+        "mon": "Lugia",
+        "ico": "t_SupportMedal_Icon_0249_3_444177c17879de91.png",
+        "type": [
+            "t_Badge_fetter_icon_purple.png",
+            "t_Badge_fetter_icon_white.png"
+        ],
+        "stat": {
+            "Atk": "-2",
+            "Sp. Def": "5",
+        }
+    },
+    {
+        "mon": "Ho-Oh",
+        "ico": "t_SupportMedal_Icon_0250_1_23c2ddb11ee05cea.png",
+        "type": [
+            "t_Badge_fetter_icon_red.png",
+            "t_Badge_fetter_icon_white.png"
+        ],
+        "stat": {
+            "Sp. Atk": "-1.8",
+            "Sp. Def": "3",
+        }
+    },
+    {
+        "mon": "Ho-Oh",
+        "ico": "t_SupportMedal_Icon_0250_2_1fa19d9208203c59.png",
+        "type": [
+            "t_Badge_fetter_icon_red.png",
+            "t_Badge_fetter_icon_white.png"
+        ],
+        "stat": {
+            "Sp. Atk": "-2.4",
+            "Sp. Def": "4",
+        }
+    },
+    {
+        "mon": "Ho-Oh",
+        "ico": "t_SupportMedal_Icon_0250_3_69ce13c79b80b145.png",
+        "type": [
+            "t_Badge_fetter_icon_red.png",
+            "t_Badge_fetter_icon_white.png"
+        ],
+        "stat": {
+            "Sp. Atk": "-3",
+            "Sp. Def": "5",
+        }
+    },
+    {
+        "mon": "Celebi",
+        "ico": "t_SupportMedal_Icon_0251_1_767e47fefd9e9bb8.png",
+        "type": [
+            "t_Badge_fetter_icon_purple.png",
+            "t_Badge_fetter_icon_green.png"
+        ],
+        "stat": {
+            "HP": "-30",
+            "CDR": "0.3"
+        }
+    },
+    {
+        "mon": "Celebi",
+        "ico": "t_SupportMedal_Icon_0251_2_95b0eea80c6c21a5.png",
+        "type": [
+            "t_Badge_fetter_icon_purple.png",
+            "t_Badge_fetter_icon_green.png"
+        ],
+        "stat": {
+            "HP": "-40",
+            "CDR": "0.5"
+        }
+    },
+    {
+        "mon": "Celebi",
+        "ico": "t_SupportMedal_Icon_0251_3_336ba8a6d9a42e7f.png",
+        "type": [
+            "t_Badge_fetter_icon_purple.png",
+            "t_Badge_fetter_icon_green.png"
+        ],
+        "stat": {
+            "HP": "-50",
+            "CDR": "0.6"
+        }
+    },
+    {
+        "mon": "Zacian",
+        "ico": "t_SupportMedal_Icon_0888_1_65f1a6f33c025869.png",
+        "type": [
+            "t_Badge_fetter_icon_gray.png",
+            "t_Badge_fetter_icon_peach.png"
+        ],
+        "stat": {
+            "Atk": "1.2",
+            "Sp. Atk": "-1.8",
+        }
+    },
+    {
+        "mon": "Zacian",
+        "ico": "t_SupportMedal_Icon_0888_2_e093ecf812f1bb26.png",
+        "type": [
+            "t_Badge_fetter_icon_gray.png",
+            "t_Badge_fetter_icon_peach.png"
+        ],
+        "stat": {
+            "Atk": "1.6",
+            "Sp. Atk": "-2.4",
+        }
+    },
+    {
+        "mon": "Zacian",
+        "ico": "t_SupportMedal_Icon_0888_3_a7ec9943c6aff294.png",
+        "type": [
+            "t_Badge_fetter_icon_gray.png",
+            "t_Badge_fetter_icon_peach.png"
+        ],
+        "stat": {
+            "Atk": "2",
+            "Sp. Atk": "-3",
+        }
+    },
+    {
+        "mon": "Eevee",
+        "ico": "t_SupportMedal_Icon_0196_2_eb72c5dfd5a1c043.png",
+        "type": [
+            "t_Badge_fetter_icon_white.png",
+        ],
+        "stat": {
+            "Sp. Atk": "-3",
+            "Sp. Def": "5",
         }
     }
 ]
