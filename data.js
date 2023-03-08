@@ -8296,8 +8296,8 @@ const badges=[
             "t_Badge_fetter_icon_white.png"
         ],
         "stat": {
-            "Atk": "-1.2",
-            "Sp. Def": "3",
+            "Atk": "-1.8",
+            "Sp. Atk": "2.7",
         }
     },
     {
@@ -8308,8 +8308,8 @@ const badges=[
             "t_Badge_fetter_icon_white.png"
         ],
         "stat": {
-            "Atk": "-1.6",
-            "Sp. Def": "4",
+            "Atk": "-2.4",
+            "Sp. Atk": "3.6",
         }
     },
     {
@@ -8320,8 +8320,8 @@ const badges=[
             "t_Badge_fetter_icon_white.png"
         ],
         "stat": {
-            "Atk": "-2",
-            "Sp. Def": "5",
+            "Atk": "-3",
+            "Sp. Atk": "4.5",
         }
     },
     {
@@ -8332,8 +8332,8 @@ const badges=[
             "t_Badge_fetter_icon_white.png"
         ],
         "stat": {
-            "Sp. Atk": "-1.8",
-            "Sp. Def": "3",
+            "Atk": "1.8",
+            "Sp. Atk": "-2.7",
         }
     },
     {
@@ -8344,8 +8344,8 @@ const badges=[
             "t_Badge_fetter_icon_white.png"
         ],
         "stat": {
-            "Sp. Atk": "-2.4",
-            "Sp. Def": "4",
+            "Atk": "2.4",
+            "Sp. Atk": "-3.6",
         }
     },
     {
@@ -8356,8 +8356,8 @@ const badges=[
             "t_Badge_fetter_icon_white.png"
         ],
         "stat": {
-            "Sp. Atk": "-3",
-            "Sp. Def": "5",
+            "Atk": "3",
+            "Sp. Atk": "-4.5",
         }
     },
     {
