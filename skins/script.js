@@ -12,10 +12,10 @@ for (let badge of badges) {
 	}
 	t += `<center>`
 	for (let x of badge.ingame) {
-		t += `<img style="text-align:center" src="images/${x}.png">`
+		t += `<img style="text-align:center" src="../images/${x}.png">`
 	}	
 
-	t += `<img src="images/${badge.type}.png">`
+	t += `<img src="../images/${badge.type}.png">`
 	t += `</center>`
 	a.innerHTML = t
 	app.appendChild(a)

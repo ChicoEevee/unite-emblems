@@ -11,7 +11,7 @@ for (let badge of badges) {
 			t += `<p><strong>${k}:</strong> ${v}</p>`
 	}
 	for (let x of badge.type) {
-		t += `<img src="images/${x}.png">`
+		t += `<img src="../images/${x}.png">`
 	}	
 	a.innerHTML = t
 	app.appendChild(a)
