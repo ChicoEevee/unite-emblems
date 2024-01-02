@@ -1145,7 +1145,7 @@ const badges=[
         ]
     },
     {
-        "Name": "Fashionable Style: Zeraora + Unite License",
+        "Name": "",
         "Info": {
             "Release Date": "21-12-2023 00:00 UTC",
             "Available Until": "31-12-2023 23:59 UTC",
@@ -1159,7 +1159,7 @@ const badges=[
         ]
     },
     {
-        "Name": "Wanderer Style: Lucario + Unite License",
+        "Name": "",
         "Info": {
             "Release Date": "11-01-2024 00:00 UTC",
             "Available Until": "21-01-2024 23:59 UTC",
@@ -1173,7 +1173,7 @@ const badges=[
         ]
     },
     {
-        "Name": "Martial Arts Style (Y): Mewtwo + Unite License",
+        "Name": "",
         "Info": {
             "Release Date": "05-12-2023 04:00 UTC",
             "Gems": "800",
@@ -1185,7 +1185,7 @@ const badges=[
         ]
     },
     {
-        "Name": "Pokébuki Style (Y): Mewtwo + Unite License",
+        "Name": "",
         "Info": {
             "Release Date": "05-12-2023 04:00 UTC",
             "Gems": "2100",
@@ -1197,7 +1197,7 @@ const badges=[
         ]
     },
     {
-        "Name": "Star Cloak Style: Decidueye + Unite License",
+        "Name": "",
         "Info": {
             "Release Date": "21-12-2023 00:00 UTC",
             "Available Until": "21-01-2024 23:59 UTC",
@@ -1211,7 +1211,7 @@ const badges=[
         ]
     },
     {
-        "Name": "Starry Night Style: Blissey + Unite License",
+        "Name": "",
         "Info": {
             "Release Date": "04-01-2024 00:00 UTC",
             "Available Until": "04-02-2024 23:59 UTC",
@@ -1256,7 +1256,7 @@ const badges=[
         ]
     },
     {
-        "Name": "Tea Party Style: Glaceon + Unite License",
+        "Name": "",
         "Info": {
             "Release Date": "04-01-2024 00:00 UTC",
             "Available Until": "14-02-2024 23:59 UTC",
@@ -1512,7 +1512,7 @@ const badges=[
         ]
     },
     {
-        "Name": "Fashionable Style: Zeraora + Unite License",
+        "Name": "",
         "Info": {
             "Release Date": "21-12-2023 00:00 UTC",
             "Available Until": "31-12-2023 23:59 UTC",
@@ -1526,7 +1526,7 @@ const badges=[
         ]
     },
     {
-        "Name": "Wanderer Style: Lucario + Unite License",
+        "Name": "",
         "Info": {
             "Release Date": "11-01-2024 00:00 UTC",
             "Available Until": "21-01-2024 23:59 UTC",
@@ -1540,7 +1540,7 @@ const badges=[
         ]
     },
     {
-        "Name": "Martial Arts Style (Y): Mewtwo + Unite License",
+        "Name": "",
         "Info": {
             "Release Date": "05-12-2023 04:00 UTC",
             "Available Until": "01-05-2030 00:00 UTC",
@@ -1554,7 +1554,7 @@ const badges=[
         ]
     },
     {
-        "Name": "Pokébuki Style (Y): Mewtwo + Unite License",
+        "Name": "",
         "Info": {
             "Release Date": "05-12-2023 04:00 UTC",
             "Available Until": "01-05-2030 00:00 UTC",
@@ -1568,7 +1568,7 @@ const badges=[
         ]
     },
     {
-        "Name": "Star Cloak Style: Decidueye + Unite License",
+        "Name": "",
         "Info": {
             "Release Date": "21-12-2023 00:00 UTC",
             "Available Until": "21-01-2024 23:59 UTC",
@@ -1582,7 +1582,7 @@ const badges=[
         ]
     },
     {
-        "Name": "Starry Night Style: Blissey + Unite License",
+        "Name": "",
         "Info": {
             "Release Date": "04-01-2024 00:00 UTC",
             "Available Until": "04-02-2024 23:59 UTC",
@@ -1596,7 +1596,7 @@ const badges=[
         ]
     },
     {
-        "Name": "Tea Party Style: Glaceon + Unite License",
+        "Name": "",
         "Info": {
             "Release Date": "04-01-2024 00:00 UTC",
             "Available Until": "14-02-2024 23:59 UTC",
